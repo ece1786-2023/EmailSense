@@ -1,11 +1,22 @@
 import email_listener
 
+# Parse raw emails and save to files
 def process_email(email_listener, msg_dict: dict()):
     for email in list(msg_dict.keys()):
+        ''' Email Format
+            From: xxx@xxx.xxx
+            Subject: xxx
+            Content:
+            xxx
+        '''
         email_text = ""
         email_text += "From: " + email.split("_")[-1] + "\n"
         email_text += "Subject: " + msg_dict[email]['Subject'] + "\n"
         email_text += "Content:\n" + msg_dict[email]['Plain_Text']
+        
+        ''' File Name Format
+            EmailSense/emails/<UID>_<sender_address>.txt
+        '''
         with open("../emails/"+email+".txt", "w") as text_file:
             text_file.write(email_text)
 
