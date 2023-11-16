@@ -1,5 +1,4 @@
-Subject:
-New course with WhyLabs: Quality and Safety for LLM Applications
+Subject: New course with WhyLabs: Quality and Safety for LLM Applications
 Content:
 Dear Isabella, 
 It's always vital to address safety and quality in the applications that you build. Applications built on LLMs pose special challenges.

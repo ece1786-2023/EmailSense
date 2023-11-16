@@ -1,5 +1,4 @@
-Subject:
-Alert Ready test on Nov 15, 12:55pm
+Subject: Alert Ready test on Nov 15, 12:55pm
 Content:
 FYI:
 “On November 15th, a national test of the Alert Ready system is taking place…”
