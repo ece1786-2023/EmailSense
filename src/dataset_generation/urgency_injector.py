@@ -6,8 +6,8 @@ client = OpenAI()
 prompt = "I will give you an email. You need to understand the content of the email and its background. Then, you need to add one or two sentences of time-sensitive messages to the email's content. The time-sensitive messages are defined as messages that are urgent or information that needs the recipient's immediate attention."
 
 # Modify to the corresponding category & email number
-category = "collaboration"
-candidates = [5, 18, 22, 37, 47]
+category = "other"
+candidates = [44, 42, 28, 27, 23]
 
 email = str()
 path = str()

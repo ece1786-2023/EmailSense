@@ -1,0 +1,11 @@
+Subject: Reminder: Software Update Required
+
+Content:
+Dear Professor Lawrence,
+
+This is a friendly reminder that the university-provided software on your laptop is due for an update. Please ensure that you run the update by the end of this week to avoid any security vulnerabilities.
+
+For any technical assistance, please reach out to our IT support team.
+
+Best,
+IT Support, Tech University

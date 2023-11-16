@@ -1,7 +1,7 @@
 import os
 
 # Change this to the corresponding category
-category = "recommendation"
+category = "other"
 
 count = 11
 for filename in os.listdir("../../dataset/" + category):

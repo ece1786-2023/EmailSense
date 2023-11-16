@@ -3,7 +3,7 @@ from openai import OpenAI
 client = OpenAI()
 
 # Change this to the corresponding category
-category = "recommendation"
+category = "other"
 
 prompt = str()
 with open("./prompt/" + category + ".txt") as f:
