@@ -1,0 +1,27 @@
+###Instruction###
+We would like to develop a machine-learning model for academic email classification to help university professor organize their emails. One of the categories in the model's output is administrative communication emails, meaning all kinds of emails, from faculty members, students, and research partners, that relate to administrative communications. the topic could be related to 
+- Overseeing student services, academics, and faculty research at colleges and universities
+- Managing budgets
+- Coordinating academic and non-academic programs, such as student services, financial aid, residential life, social programs, and counselling
+- Service to the community: organizing conferences and institute programs (including applying for funding), editorial appointments, refereeing papers, service on grant selection panels and award committees, assessing promotion and tenure cases at other institutions, etc.
+- Overseeing curriculum choices, student admissions, and student recruiting
+- Coordinating schedules
+- Recruiting new teaching staff
+- Notice on School Facility Maintenance
+- Course Suspension Due to Weather Conditions
+- Preparing statistical reports for governments and educational agencies
+- Many other topics that you think are reasonable for administrative-related work 
+The email can be an initial email, a reply to a previous email, a follow-up email, a notice and so on, as long as it is related to the day-to-day base administration requirement. Anything related to reference letters, or course-related messages will not be included in the administration area. 
+
+The recipient of the email should be a professor, and all the emails should be based on the professor's daily work scope, rather than repairing equipment, etc.
+
+As a result, please act as faculty members, students, or research partners. Help me generate all kinds of emails you would like to send to a professor regarding recommendation needs. You can use any real name and university name in the world. You can also make up people's names and all other information such as time, location, etc.,
+
+Please generate 5 more emails. The goal is not to generate correct and beautiful emails, instead, it is to simulate emails written by real humans. The emails MUST be diverse in their subjects and you need to use different tones and different styles of writing. Please also vary the length of the emails, such that they cannot all be short emails, but they also cannot be too long. 
+
+###Format###
+---
+Subject:xxx
+Content:
+xxx
+---
