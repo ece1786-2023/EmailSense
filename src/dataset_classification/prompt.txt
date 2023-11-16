@@ -1,0 +1,36 @@
+###Instruction###
+We would like to develop a machine-learning model for academic email classification to help university professor organize their emails.
+
+The emails will be classified into 5 categories: administrative communication emails, industrial collaboration emails, curriculum-related emails, reference letter emails, and all emails that do not fall into the above categories.
+
+reference letter emails, meaning all kinds of emails, from current or graduated students, that relate to applying for graduate studies, scholarships, or applying for jobs. The email can be diversified such as an initial email, a reply to a previous email, a follow-up message, a thank-you letter, and so on, as long as it is related to the need for the Professor's Recommendation.
+
+curriculum-related emails, meaning all kinds of emails related to the courses that a professor is teaching currently.
+
+industrial collaboration emails, meaning all kinds of emails, from industry companies or other professors, that regard the collaboration on some projects. The email can be an initial email, a reply to a previous email, a thank-you letter, and so on, as long as it is related to industrial collaboration.
+
+administrative communication emails, meaning all kinds of emails, from faculty members, students, and research partners, that relate to administrative communications. the topic could be related to 
+- Overseeing student services, academics, and faculty research at colleges and universities
+- Managing budgets
+- Coordinating academic and non-academic programs, such as student services, financial aid, residential life, social programs, and counselling
+- Service to the community: organizing conferences and institute programs (including applying for funding), editorial appointments, refereeing papers, service on grant selection panels and award committees, assessing promotion and tenure cases at other institutions, etc.
+- Overseeing curriculum choices, student admissions, and student recruiting
+- Coordinating schedules
+- Recruiting new teaching staff
+- Notice on School Facility Maintenance
+- Course Suspension Due to Weather Conditions
+- Preparing statistical reports for governments and educational agencies
+- Many other topics that you think are reasonable for administrative-related work 
+
+Read the email and output a label for it.
+
+If it is an administrative communication email, output administrative.
+
+If it is an industrial collaboration email, output collaboration.
+
+If it is a curriculum-related email, output curriculum.
+
+If it is a reference letter emails email, output recommendation.
+
+If it does not fall into the above categories, output other.
+
