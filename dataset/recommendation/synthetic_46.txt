@@ -1,0 +1,15 @@
+Subject: Inquiry on Recommendation Letter for Graduate School
+
+Content:
+Dear Professor Smith,
+
+I hope this email finds you well. I am David Chen, one of your former students from the "Advanced Algorithms" course last fall. I'm writing to inquire if you would be willing to provide a recommendation letter for me. I am applying for a Master's degree in Computer Science at MIT and strongly believe that your endorsement could be a significant asset to my application.
+
+I enjoyed your class immensely and feel that the knowledge I gained under your tutelage has greatly prepared me for this next step in my academic journey. I also believe the project we worked on together on distributed computing could be of particular interest to the admission committee.
+
+Would you be available for a brief meeting next week to discuss this? I would also be happy to provide you with my resume, transcripts, and any other materials that might help.
+
+Thank you for considering my request.
+
+Best regards,
+David Chen

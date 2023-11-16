@@ -1,0 +1,87 @@
+###Instruction###
+We would like to develop a machine-learning model for academic email classification to help university professor organize their emails. One of the categories in the model's output is curriculum-related emails, meaning all kinds of emails related to the courses that a professor is teaching currently. 
+
+As a result, please act as a university student and help me generate all kinds of emails you would like to send to a professor regarding their course. You can either be an undergraduate or graduate student, and you can use any real university name in the world. You can also make up your name, the professor's name, and all other information such as time, location, etc.,
+
+Please generate 5 more emails. The goal is not to generate correct and beautiful emails, instead, it is to simulate emails written by real university students. The emails MUST be diverse in their subjects and you need to use different tones and different styles of writing. Please also vary the length of the emails, such that they cannot all be short emails, but they also cannot be too long. Please do not always use questions in the emails.
+
+
+###Examples###
+```
+Subject: Clarification on Final Essay Deadline for Old English Course (Section 1)
+Content: 
+Dear Dr. Toswell,
+
+My name is Jes D.A., and I'm in Section 1 of your Old English course (on Tuesdays at 10:00 a.m.). After looking over the syllabus last night, I noticed that the deadline for our final essay is listed as March 7, which is a Monday.
+However, in class, the deadline was noted as being Thursday, March 10. I don't mean to bother you, but I wanted to verify the correct deadline so that I can appropriately organize my schedule and turn in my assignment on time. Thank you so much for your time and patience!
+
+Best regards,
+Jes D.A.
+```
+```
+Subject: VAM 102- paper extension
+Content: 
+Dear Dr. Van Helsing
+
+My name is Jack Seward and I'm in your 12:00 Better Living Through Garlic (VAM 102) course. I've been sick for the past few days, and was hoping that I could get an extension on my paper. I currently have four pages written, but need a little extra time to work on the conclusion. Is there any way I could get an extension and turn it in the morning of the 28th?
+
+Thanks, 
+Jack Seward
+```
+```
+Subject: Questions about PSYC 1000 -002 exam
+Content: 
+Dr. Smith,
+Hello, this is Jane Doe, and I'm in your PSYC 1000 course (section 002). I looked over the test we got back in class today, and I have a few questions about things I got wrong. Can I come by during your office hours at 10:00 am tomorrow to discuss what I can do to improve my grade on the next test? If anther time would be better for you, just let me know and I will schedule an appointment.
+
+Thanks for your help,
+Jane
+```
+```
+Subject: Class 12345, DongMin Kim, Absence From Class
+Content:
+Dear Mr. Jones, 
+My name is DongMin Kim from your Advanced Conversation class 12345. My student number is 200811111. My class name is Ricky. I am writing to apologize for being absent from class on Monday.
+I visited my hometown and unfortunately could not return to Ansan on time.
+If there is anything I need to catch up on, please let me know.
+Once again, I am sorry for missing our class.
+
+Yours sincerely,
+DongMin Kim
+```
+```
+Subject: Energy and Environmental Justice
+Content:
+Professor Folch,
+
+How are you? My name is Gary and I am a student here at Duke, looking at what to take next semester. Your course on Energy and Environmental Justice caught my eye. I was wondering if you would be able to send me any sort of sample syllabus or reading list so that I could get a better idea of if the class is right for me.
+
+Thanks,
+Gary
+```
+```
+Subject: Request for Textbook Information and Accessibility Accommodations
+Content:
+Dear Professor Anthony,
+My name is Veronica, and I am in this section of that class. I have a file with Office of Disability Services and a 504 plan for low vision and testing accommodations. I need materials in a digital format so that I can enlarge them to a font size I can read. This will not be needed for exams, as I will be taking tests in the Office of Disability Services testing center. I also use various other assistive technologies, which I will bring on the first day. I’ve attached my faculty information sheet which contains additional information about my accommodations.
+Before the semester starts, may I get the name/ISBN of the textbooks and other materials for the semester? I want to make sure I can have them in an accessible format for the first day of class.
+Thanks,
+Veronica
+```
+```
+Subject:Final exam due date question
+Content;
+Dear Professor Smith,
+My name is Marsha Lue, and I am in your FYE 1005 course that meets on Tuesday and Thursday from 11-11:50. I was writing in regards to the assignment due at the end of the course (Comprehensive Final Exam). To clarify, the final exam can be turned in on October 16th at 11 am?
+Thank you for your time.
+Sincerely, Marsha Lue
+```
+```
+Subject: ENGL 12: Citation Style Preference for Paper 1
+Content:
+Dear Professor Gonzalez,
+I'm in your ENGL 12 Sec.002 course in Building 1, TTH from 1-3 pm.
+For our literature review assignment due Sept. 30, which citation style should we use? APA, MLA, or another style?
+Thanks for your time and help!
+Sincerely, Mindy Manners
+```

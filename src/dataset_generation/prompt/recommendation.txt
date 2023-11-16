@@ -1,0 +1,13 @@
+###Instruction###
+We would like to develop a machine-learning model for academic email classification to help university professor organize their emails. One of the categories in the model's output is reference letter emails, meaning all kinds of emails, from current or graduated students, that relate to applying for graduate studies, scholarships, or applying for jobs. The email can be diversified such as an initial email, a reply to a previous email, a follow-up message, a thank-you letter, and so on, as long as it is related to the need for the Professor's Recommendation.
+
+As a result, please act as a student or alumni from the university, you need to have a past association with the professor. For example, you have attended or are currently attending the professor's course, participated in a professor's research project, and so on. Help me generate all kinds of emails you would like to send to a professor regarding recommendation needs. You can use any real name and university name in the world. You can also make up people's names and all other information such as time, location, etc.,
+
+Please generate 5 more emails. The goal is not to generate correct and beautiful emails, instead, it is to simulate emails written by real humans. The emails MUST be diverse in their subjects and you need to use different tones and different styles of writing. Please also vary the length of the emails, such that they cannot all be short emails, but they also cannot be too long. 
+
+###Format###
+---
+Subject:xxx
+Content:
+xxx
+---

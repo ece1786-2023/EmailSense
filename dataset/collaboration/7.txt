@@ -1,0 +1,39 @@
+Subject: Support and Collaboration Commitment for NSF Proposal on 'LIGHTS' Project
+Content:
+Dear Dr. Wang:
+
+This letter is to express my support of your proposal to the National
+Science Foundation to research and create a "Laboratory for Information
+Globalization and Harmonization
+
+Technologies and Studies (LIGHTS)", and also to confirm my commitment to
+collaborate with you in the development and testing of LIGHTS.
+
+The focus of my responsibility within the Cedars-Sinai Health System is
+to construct measures of patient care quality and efficiency from data
+available in our transactional information systems for use by clinical
+and administrative leadership to support patient care improvement
+activities as well as strategic decision-making. I have been working for
+several years now with a specific focus on addressing deficiencies in
+the quality of the data available to my department from our
+transactional information systems, and as you know, have been consulting
+with you and other leaders in the field of data quality improvement to
+advance our efforts here. Your multidimensional model of data quality,
+encompassing accuracy as well as timeliness, consistency, and
+credibility is a very important starting point for our work, as is the
+focus on applied techniques for data quality improvement across these
+dimensions.
+
+I have been struck by the broad impact of your work across all
+industries through my involvement in the annual International Conference
+on Information Quality, as well as the MIT Summer Professional Program
+in Data Quality Management. In particular, my collaboration with you so
+far has had a profound impact on the success of my efforts here, and I
+look forward to our continuing collaboration through this project to
+further advance this important work.
+
+Sincerely,
+
+Bruce N. Davidson, Ph.D., M.P.H.
+
+Director, Resource and Outcomes Management

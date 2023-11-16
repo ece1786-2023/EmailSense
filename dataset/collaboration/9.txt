@@ -1,0 +1,37 @@
+Subject: Support and Intent to Collaborate on LIGHTS and SHIP Projects
+Content:
+Dear Professor Choucri,
+
+I write this letter to enthusiastically support the creation of MIT's
+Laboratory for Information Globalization and Harmonization Technologies
+and Studies
+
+(LIGHTS) and its project to dramatically improve the acquisition,
+organization, interpretation, and dissemination of information needed to
+address existing and emerging problems in international relations (IR).
+
+My research centers on the development of a computerized conflict early
+warning system. Both the development and operation of that system would
+benefit greatly from the existence of the System for Harmonized
+Information Processing (SHIP).
+
+I currently make use of sources of a varied nature written in a variety
+of languages in order to establish an empirical foundation for the early
+warning system. The operation of the early warning system will in turn
+require access to materials in a multiplicity of languages and of
+different domains and, more importantly, will require that the
+information be transformed into a form that the early warning system can
+properly evaluate. The importance of SHIP for me is that through its
+ability to provide multiple interpretations of information, SHIP make it
+feasible to have more than one transformation. I want that capability
+because it will allow me to ascertain which of many possible different
+interpretations of the data either provides an early warning or the most
+accurate early warning if more than one interpretation provides one.
+
+If LIGHTS and SHIP receive support, I would collaborate with the MIT
+team to help shape the information needs in the IR domain and help
+design and implement SHIP.
+
+Sincerely,
+
+Peter Brecke
