@@ -33,4 +33,3 @@ If it is a curriculum-related email, output curriculum.
 If it is a reference letter emails email, output recommendation.
 
 If it does not fall into the above categories, output other.
-
