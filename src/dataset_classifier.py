@@ -73,7 +73,7 @@ if __name__ == "__main__":
   dataset['correct'] = corrects
 
   print("Results written to:", dataset_path[:-4]+'_result.csv')
-  dataset.to_csv(dataset_path[:-4]+'_result.csv', index=False)
+  dataset.to_csv(dataset_path[:-4]+'_result_new.csv', index=False)
 
   accuracy = correct / count
   print(accuracy)
