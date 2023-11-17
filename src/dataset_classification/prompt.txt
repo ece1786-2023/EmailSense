@@ -1,35 +1,52 @@
 ###Instruction###
 We would like to develop a machine-learning model for academic email classification to help university professor organize their emails.
 
-The emails will be classified into 5 categories: administrative communication emails, industrial collaboration emails, curriculum-related emails, reference letter emails, and all emails that do not fall into the above categories.
+Your task is to act as an email classifier to classify the input email into 5 categories: administrative communication emails, industrial collaboration emails, curriculum-related emails, reference letter emails, and all emails that do not fall into the above categories.
 
-reference letter emails, meaning all kinds of emails, from current or graduated students, that relate to applying for graduate studies, scholarships, or applying for jobs. The email can be diversified such as an initial email, a reply to a previous email, a follow-up message, a thank-you letter, and so on, as long as it is related to the need for the Professor's Recommendation.
+1. Reference Letter Requests: Emails that relate to the requests for reference or recommendation letters for the application of graduate studies, scholarships, or applying for jobs. 
+2. Curriculum-related Emails: Emails that relate to the courses that a professor is teaching currently, content could be asking a question from a lecture, clarification for assignment instructions, asking when will the grade be released, pointing out mistakes made in class and so on. 
+3. Industrial Collaboration Emails: Emails sent from industry companies or other professors, that regard the collaboration on some projects. 
+4. Administrative Communication Emails: Emails that relate to administrative communications. the topic could be related to:
+    - Inquiries to join the professor’s research group
+    - Overseeing academics and faculty research at colleges and universities
+    - Managing research budgets
+    - Service to the community: organizing conferences and institute programs (including applying for funding), editorial appointments, refereeing papers, service on grant selection panels and award committees, assessing promotion and tenure cases at other institutions, etc.
+    - Coordinating schedules
+    - Recruiting new teaching staff and teaching assistants
+    - Preparing statistical reports for governments and educational agencies
+    - Any other topics that you think are reasonable for administrative-related work
+5. Others: If you think the email does not belong to the above categories, you can classify it into this category. Some possible topics can be: 
+    - Junk email or ads
+    - Notification from apps
+    - Verification codes
+    - Greetings from students/other professors/faculty member
+    - Personal invitations from students/alumni
 
-curriculum-related emails, meaning all kinds of emails related to the courses that a professor is teaching currently.
+Please first understand the purpose of the whole email, and based on this purpose, perform the classification. Remember that the recipient of the email is a university professor. If you think the target for the email is not a professor, classify it as other. Thank you for your help, you will do great. I have faith in you!
 
-industrial collaboration emails, meaning all kinds of emails, from industry companies or other professors, that regard the collaboration on some projects. The email can be an initial email, a reply to a previous email, a thank-you letter, and so on, as long as it is related to industrial collaboration.
+###Format###
+Reference Letter Requests: RECOM
+Curriculum-related Emails: CURRICULUM
+Industrial Collaboration Emails: COLLAB
+Administrative Communication Emails: ADMIN
+Others: OTHER
 
-administrative communication emails, meaning all kinds of emails, from faculty members, students, and research partners, that relate to administrative communications. the topic could be related to 
-- Overseeing student services, academics, and faculty research at colleges and universities
-- Managing budgets
-- Coordinating academic and non-academic programs, such as student services, financial aid, residential life, social programs, and counselling
-- Service to the community: organizing conferences and institute programs (including applying for funding), editorial appointments, refereeing papers, service on grant selection panels and award committees, assessing promotion and tenure cases at other institutions, etc.
-- Overseeing curriculum choices, student admissions, and student recruiting
-- Coordinating schedules
-- Recruiting new teaching staff
-- Notice on School Facility Maintenance
-- Course Suspension Due to Weather Conditions
-- Preparing statistical reports for governments and educational agencies
-- Many other topics that you think are reasonable for administrative-related work 
+Please also specify the logic of making the classification.
 
-Read the email and output a label for it.
+###Example###
+<USER>:
+```
+Subject: SURE Project Application - ECSE026
+Content:
+Dear Prof. Varro:
+I hope you are having a good day!
+I am a U3 student who wishes to apply for your SURE projects, more specifically ECSE026. We spoke after our ECSE429 class. Your description of the program interested me a lot. I have taken a Machine Learning course (COMP551) last fall and am currently taking COMP424 Artificial Intelligence, which matches your research area. I have also had some brief research experience in the Blockchain Lab of the Institute of Computing Technology, Chinese Academy of Science. However, I have only been there for the summer, all I have done were read papers and attend paper conferences in the lab.
+I hope to join your research group for the SURE project and hopefully bring the project into a Master's program after I graduate In June 2023.
+Sincerely,
+ 
+Isabella Hao
+```
 
-If it is an administrative communication email, output administrative.
+<ASSISTANT>: ADMIN, because this email is from a student, asking to join the professor's research group.
 
-If it is an industrial collaboration email, output collaboration.
 
-If it is a curriculum-related email, output curriculum.
-
-If it is a reference letter emails email, output recommendation.
-
-If it does not fall into the above categories, output other.
