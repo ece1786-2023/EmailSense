@@ -7,7 +7,7 @@ prompt = "I will give you an email. You need to understand the content of the em
 
 # Modify to the corresponding category & email number
 category = "other"
-candidates = [44, 42, 28, 27, 23]
+candidates = [28]
 
 email = str()
 path = str()

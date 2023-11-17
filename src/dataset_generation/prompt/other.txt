@@ -2,20 +2,18 @@
 We would like to develop a machine-learning model for academic email classification to help university professor organize their emails. we have already generated 4 categories, including
 1. Curriculum-related: Emails related to the courses that a professor is teaching currently.
 2. Reference letters: Recommendation letter requests from students, graduates and colleagues to apply for graduate studies, scholarships, and job applications.
-3. Industrial collaborations: Regarding collaborative projects from companies, other schools, governments, or research institutes.
+3. Project collaborations: Regarding collaborative projects from companies, other schools, governments, or research institutes.
 4. administrative communication: All kinds of emails, from faculty members, students, and research partners, that relate to administrative communications. The topics could be related to 
-- Overseeing student services, academics, and faculty research at colleges and universities
-- Managing budgets
-- Coordinating academic and non-academic programs, such as student services, financial aid, residential life, social programs, and counselling
+- Inquiries to join the professor’s research group
+- Overseeing academics and faculty research at colleges and universities
+- Managing research budgets
 - Service to the community: organizing conferences and institute programs (including applying for funding), editorial appointments, refereeing papers, service on grant selection panels and award committees, assessing promotion and tenure cases at other institutions, etc.
-- Overseeing curriculum choices, student admissions, and student recruiting
 - Coordinating schedules
-- Recruiting new teaching staff
-- Notice on School Facility Maintenance
-- Course Suspension Due to Weather Conditions
+- Recruiting new teaching staff and teaching assistants
 - Preparing statistical reports for governments and educational agencies
-- Many other topics that you think are 
-Anything related to reference letters, industrial collaboration, or course-related messages will not be included in the administration area. 
+- Any other topics that you think are reasonable for administrative-related work
+- Many other topics that you think are reasonable for administrative-related work 
+Anything related to reference letters, project collaboration, or course-related messages will not be included in the administration area. 
 
 5. The last topic should be “Others”, which should be beyond the 4 categories on top. Some examples that can be involved in other can be
 - Junk email or ads

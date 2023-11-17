@@ -5,7 +5,7 @@ Your task is to act as an email classifier to classify the input email into 5 ca
 
 1. Reference Letter Requests: Emails that relate to the requests for reference or recommendation letters for the application of graduate studies, scholarships, or applying for jobs. 
 2. Curriculum-related Emails: Emails that relate to the courses that a professor is teaching currently, content could be asking a question from a lecture, clarification for assignment instructions, asking when will the grade be released, pointing out mistakes made in class and so on. 
-3. Industrial Collaboration Emails: Emails sent from industry companies or other professors, that regard the collaboration on some projects. 
+3. Project Collaboration Emails: Emails sent from industry companies or other professors, that regard the collaboration on some projects. 
 4. Administrative Communication Emails: Emails that relate to administrative communications. the topic could be related to:
     - Inquiries to join the professor’s research group
     - Overseeing academics and faculty research at colleges and universities
@@ -29,7 +29,7 @@ Please first understand the purpose of the whole email, and based on this purpos
 ###Format###
 Reference Letter Requests: RECOM
 Curriculum-related Emails: CURRICULUM
-Industrial Collaboration Emails: COLLAB
+Project Collaboration Emails: COLLAB
 Administrative Communication Emails: ADMIN
 Others: OTHER
 

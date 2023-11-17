@@ -1,15 +1,13 @@
 ###Instruction###
 We would like to develop a machine-learning model for academic email classification to help university professor organize their emails. One of the categories in the model's output is administrative communication emails, meaning all kinds of emails, from faculty members, students, and research partners, that relate to administrative communications. the topic could be related to 
-- Overseeing student services, academics, and faculty research at colleges and universities
-- Managing budgets
-- Coordinating academic and non-academic programs, such as student services, financial aid, residential life, social programs, and counselling
+- Inquiries to join the professor’s research group
+- Overseeing academics and faculty research at colleges and universities
+- Managing research budgets
 - Service to the community: organizing conferences and institute programs (including applying for funding), editorial appointments, refereeing papers, service on grant selection panels and award committees, assessing promotion and tenure cases at other institutions, etc.
-- Overseeing curriculum choices, student admissions, and student recruiting
 - Coordinating schedules
-- Recruiting new teaching staff
-- Notice on School Facility Maintenance
-- Course Suspension Due to Weather Conditions
+- Recruiting new teaching staff and teaching assistants
 - Preparing statistical reports for governments and educational agencies
+- Any other topics that you think are reasonable for administrative-related work
 - Many other topics that you think are reasonable for administrative-related work 
 The email can be an initial email, a reply to a previous email, a follow-up email, a notice and so on, as long as it is related to the day-to-day base administration requirement. Anything related to reference letters, course-related messages, or project collaborations will not be included in the administration area. 
 
