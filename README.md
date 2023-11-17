@@ -10,5 +10,5 @@
 
 ## Apple Shortcuts
 Note: After downloading the Shortcuts, users need to modify the paths to their absolute paths & change the SSH settings <br/>
-**EmailSense On:** https://www.icloud.com/shortcuts/9fe49eb527f348648be667782e113698 <br/>
-**EmailSense Off:** https://www.icloud.com/shortcuts/b2061cf625c34e249756e84d5d4414a9 <br/>
+**EmailSense On:** https://www.icloud.com/shortcuts/c4951bf446db4c10a8e2c8ed370023ec <br/>
+**EmailSense Off:** https://www.icloud.com/shortcuts/8e6e3c3263cd4581b717a7c760bb5769 <br/>
