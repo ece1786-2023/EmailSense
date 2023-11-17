@@ -1,16 +1,15 @@
 import email_listener
+import classifier
 
-# Parse raw emails and save to files
+# Parse raw emails, save to files, and analyze them
 def process_email(email_listener, msg_dict: dict()):
     for email in list(msg_dict.keys()):
         ''' Email Format
-            From: xxx@xxx.xxx
             Subject: xxx
             Content:
             xxx
         '''
         email_text = ""
-        email_text += "From: " + email.split("_")[-1] + "\n"
         email_text += "Subject: " + msg_dict[email]['Subject'] + "\n"
         email_text += "Content:\n" + msg_dict[email]['Plain_Text']
         
@@ -19,6 +18,13 @@ def process_email(email_listener, msg_dict: dict()):
         '''
         with open("../emails/"+email+".txt", "w") as text_file:
             text_file.write(email_text)
+
+        # Execute GPT classifier
+        print("Analyzing Email:", msg_dict[email]['Subject'])
+        pred, reason = classifier.classifier(email_text)
+
+        print("Prediction Result:", pred)
+        print("Reason:", reason)
 
 if __name__ == "__main__":
     # Set your email, password, what folder you want to listen to, and where to save attachments
