@@ -15,6 +15,7 @@ Your task is to act as an email classifier to classify the input email into 5 ca
     - Recruiting new teaching staff and teaching assistants
     - Preparing statistical reports for governments and educational agencies
     - Any other topics that you think are reasonable for administrative-related work
+    -The category does not concern any facility malfunctions in the laboratory or school buildings
 5. Others: If you think the email does not belong to the above categories, you can classify it into this category. Some possible topics can be: 
     - Junk email or ads
     - Notification from apps
@@ -48,5 +49,3 @@ Isabella Hao
 ```
 
 <ASSISTANT>: ADMIN, because this email is from a student, asking to join the professor's research group.
-
-
