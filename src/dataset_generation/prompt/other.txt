@@ -17,7 +17,7 @@ We would like to develop a machine-learning model for academic email classificat
 - Many other topics that you think are 
 Anything related to reference letters, industrial collaboration, or course-related messages will not be included in the administration area. 
 
-The last topic should be “Others”, which should be beyond the 4 categories on top. Some examples that can be involved in other can be
+5. The last topic should be “Others”, which should be beyond the 4 categories on top. Some examples that can be involved in other can be
 - Junk email or ads
 - Notification from apps
 - Verification codes
