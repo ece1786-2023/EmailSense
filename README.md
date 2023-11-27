@@ -1,7 +1,9 @@
 # EmailSense
 
-**Testing Email:** ```emailsense.1786@gmail.com```<br/>
-**Password:** ```emailsense666``` (the one used in email_monitor.py is a specific device password for accessing the IMAP server)
+**Server Email:** ```emailsense.1786@gmail.com```<br/>
+**Server Password:** ```emailsense666``` (the one used in email_monitor.py is a specific device password for accessing the IMAP server)<br/>
+**Testing User Email:** ```user.emailsense.1786@gmail.com```<br/>
+**Server Password:** ```emailsense666``` (the one used in email_monitor.py is a specific device password for accessing the IMAP server)<br/>
 
 ## Repository Structure
 ```src/:``` Stores all source code<br/>
