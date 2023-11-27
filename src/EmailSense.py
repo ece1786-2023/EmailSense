@@ -1,8 +1,11 @@
 import email_listener
 import classifier
+import summarizer
 import atexit
 import pystache
 import argparse
+from imapclient import SEEN
+from datetime import datetime
 
 PROF_NAME = ''
 CURRICULUM = 0
@@ -14,7 +17,7 @@ SUMMARY = []
 
 # Parse raw emails, save to files, and analyze them
 def process_email(email_listener, msg_dict: dict()):
-    global CURRICULUM, COLLAB, RECOM, ADMIN, OTHER
+    global CURRICULUM, COLLAB, RECOM, ADMIN, OTHER, SUMMARY
     for email in list(msg_dict.keys()):
         ''' Email Format
             Subject: xxx
@@ -58,10 +61,22 @@ def process_email(email_listener, msg_dict: dict()):
             # Create the folder and move the message to the folder
             email_listener.server.create_folder(pred)
             email_listener.server.move(uid, pred)
+        # Mark the incomming email as unread
+        email_listener.server.remove_flags(uid, [SEEN])
         print("Email has been moved to", pred)
 
+        # Execute GPT summarizer
+        pred, reason = summarizer.summarizer(email_text)
+        if (pred == '1'):
+            print("Is Time-sensitive: Yes")
+            print("Reason:", reason)
+            SUMMARY.append(str(len(SUMMARY)+1) + '. ' + reason)
+        else:
+            print("Is Time-sensitive: No")
+        print('=' * 10)
+
 # Activate when the system exits
-def result_generator(server_email, server_password, user_email):
+def result_generator(server_email, server_password, user_email, start_time, start_date):
     global CURRICULUM, COLLAB, RECOM, ADMIN, OTHER, PROF_NAME
     renderer = pystache.Renderer()
     # Calculate the total num of emails received
@@ -75,7 +90,7 @@ def result_generator(server_email, server_password, user_email):
                             'ADMIN': ADMIN,
                             'OTHER': OTHER,
                             'TOTAL': sum,
-                            'SUMMARY': 'no summary yet!'})
+                            'SUMMARY': '\n'.join(SUMMARY)})
 
     # Initialize the email responder
     responder = email_listener.email_responder.EmailResponder(server_email, server_password)
@@ -84,8 +99,9 @@ def result_generator(server_email, server_password, user_email):
     # The recipient for the email
     recipient = user_email
     # The subject of the emails
-    # TODO: Add time
-    subject = "[EmailSense] Your Email Inbox Activity Report"
+    now = datetime.now()
+    end_time = now.strftime("%I:%M%p")
+    subject = "[EmailSense] Your Email Inbox Activity Report, " + start_time + "-" + end_time + ", " + start_date
     # Plain text version of the email
     text = email
     # Sends a plain text email
@@ -96,12 +112,16 @@ def result_generator(server_email, server_password, user_email):
 
 if __name__ == "__main__":
     # Parge argvs
-    parser = argparse.ArgumentParser(description="EmailSense - Your email's assistant")
-    parser.add_argument('name', type=str, help="Please type the user's name")
-    parser.add_argument('email', type=str, help="Please type the user's email")
-    parser.add_argument('password', type=str, help="Please type the user email's 'device' password")
+    parser = argparse.ArgumentParser(description="EmailSense - Professor's email assistant")
+    parser.add_argument('--name', dest='name', default='Alex', type=str, help="Please type the user's name")
+    parser.add_argument('--email', dest='email', default='user.emailsense.1786@gmail.com', type=str, help="Please type the user's email")
+    parser.add_argument('--password', dest='password', default='gdwjtanycniwalww', type=str, help="Please type the user email's **APP** password")
     args = parser.parse_args()
     PROF_NAME = args.name
+
+    now = datetime.now()
+    start_date = now.strftime("%A, %B %d, %Y")
+    start_time = now.strftime("%I:%M%p")
 
     # Set your email, password, what folder you want to listen to, and where to save attachments
     user_email = args.email
@@ -109,7 +129,7 @@ if __name__ == "__main__":
     server_email = "emailsense.1786@gmail.com"
     server_password = "jwqknoywuvxlteua"
     # Set the result generator to generate email when exit
-    atexit.register(result_generator, server_email, server_password, user_email)
+    atexit.register(result_generator, server_email, server_password, user_email, start_time, start_date)
 
     folder = "Inbox"
     attachment_dir = "../attachment/"
@@ -120,7 +140,7 @@ if __name__ == "__main__":
 
     # Get the emails currently unread in the inbox
     msg_dict = el.scrape()
-    process_email(None, msg_dict=msg_dict)
+    process_email(el, msg_dict=msg_dict)
 
     # Start listening to the inbox (set default timeout to 10 hours)
     el.listen(600, process_func=process_email)

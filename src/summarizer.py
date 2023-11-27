@@ -4,10 +4,10 @@ import pandas as pd
 import os
 import sys
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 summarizer_prompt = str()
-with open("C:\\Users\\haois\\Documents\\GitHub\\EmailSense\\src\\summarizer_prompt.txt",'r',encoding="utf-8") as f:
+with open("./summarizer_prompt.txt",'r',encoding="utf-8") as f:
    summarizer_prompt = f.read()
 
 #function to call openai api from Isabella's A4
@@ -28,10 +28,13 @@ def summarizer(statement):
   output_class = str()
   output_reason = str()
   output = response.choices[0].message.content
-  output_class = output[0]
+  if (output[0] == '1'):
+     output_class = output[0]
+  else:
+     output_class = '0'
   output_reason = output[len(output_class):]
 
-  return output_class, output_reason.strip(',')
+  return output_class, output_reason.strip().strip(',').strip()
 
 # Testing classification performance on dataset
 if __name__ == "__main__":
