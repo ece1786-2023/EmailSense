@@ -1,0 +1,252 @@
+Unnamed: 0,filename,synthetic,reference,category,time_sensitive,urgent,summary,correct_urgency
+0,recommendation/1.txt,no,,RECOM,NO,,0,1
+1,recommendation/10.txt,no,,RECOM,NO,,0,1
+2,recommendation/2.txt,no,,RECOM,NO,,"1, Reference Letter Needed for Imminent Deadline: Weizhou Wang kindly reminds you to submit a reference letter for the Harvard University graduate application due in 9 days, with several other program deadlines approaching.",1
+3,recommendation/3.txt,no,,RECOM,NO,,0,1
+4,recommendation/4.txt,no,,RECOM,NO,,0,1
+5,recommendation/5.txt,no,,RECOM,NO,,"1, Urgent Request for Completion of Reference Form: You are asked by Ruijie Zhang to urgently complete a reference form for HongKong University due by March 5th, which includes filling out the last two pages and emailing it to MGMref@hku.hk.",1
+6,recommendation/6.txt,no,,RECOM,NO,,0,1
+7,recommendation/7.txt,no,,RECOM,NO,,"1, Approaching Recommendation Letter Submission Deadlines: Isabella reminds you to submit the letters of recommendation for her Master’s applications at UBC and McMaster University, as the deadline is close.",1
+8,recommendation/8.txt,no,,RECOM,NO,,0,1
+9,recommendation/9.txt,no,,RECOM,NO,,0,1
+10,recommendation/synthetic_11.txt,yes,,RECOM,YES,,"1, Request for Recommendation Letter by Upcoming Friday: Emily requires a letter of recommendation for the Highbrow Scholarship by this coming Friday and has provided you with her resume, transcript, and a draft of the scholarship essay for reference.",0
+11,recommendation/synthetic_12.txt,yes,,RECOM,NO,,"1, Reminder to Provide Letter of Recommendation: Mark is following up on a letter of recommendation needed for his graduate school application to Oxford University, with the submission deadline approaching.",1
+12,recommendation/synthetic_13.txt,yes,,RECOM,NO,,0,1
+13,recommendation/synthetic_14.txt,yes,,RECOM,NO,,0,1
+14,recommendation/synthetic_15.txt,yes,,RECOM,NO,,"1, Recommendation Letter Deadline Approaching: Derek reminds you of the approaching April 15th deadline for the NASA summer internship recommendation letter and offers to provide more information if needed.",1
+15,recommendation/synthetic_16.txt,yes,,RECOM,NO,,0,1
+16,recommendation/synthetic_17.txt,yes,,RECOM,NO,,0,1
+17,recommendation/synthetic_18.txt,yes,,RECOM,NO,,"1, Reference Letter for Job Application Deadline: Jordan reminds you that the Data Analyst position application at Google is due on April 15th and follows up to ensure the reference letter you're providing will be submitted timely.",1
+18,recommendation/synthetic_19.txt,yes,,RECOM,NO,,"1, Confirmation of Recommendation Letter Submission Required: Sarah urgently needs to confirm that you have sent the recommendation letter for her Rhodes Scholarship application, as the committee is finalizing applications this week.",1
+19,recommendation/synthetic_20.txt,yes,,RECOM,NO,,0,1
+20,recommendation/synthetic_21.txt,yes,,RECOM,YES,,"1, Recommendation Letter for MIT Masters Application: Jordan urgently requests a letter of recommendation from you for their MIT Masters in Mechanical Engineering application, with the deadline in two weeks.",0
+21,recommendation/synthetic_22.txt,yes,,RECOM,NO,,0,1
+22,recommendation/synthetic_23.txt,yes,,RECOM,NO,,0,1
+23,recommendation/synthetic_24.txt,yes,,RECOM,NO,,0,1
+24,recommendation/synthetic_25.txt,yes,,RECOM,NO,,"1, Upcoming Deadline for Recommendation Letter: Sylvia gently reminds you of the approaching submission deadline on April 15th for her recommendation letter for Yale's Master's program in Environmental Science.",1
+25,recommendation/synthetic_26.txt,yes,,RECOM,NO,,0,1
+26,recommendation/synthetic_27.txt,yes,,RECOM,YES,,"1, Immediate Assistance Required for Letter of Recommendation: Emily urgently asks you to provide a letter of recommendation for the Stanford Data Science program, with the deadline approaching next week.",0
+27,recommendation/synthetic_28.txt,yes,,RECOM,NO,,"1, Recommendation Letter for Job Application Deadline Approaching: Raj reminds you about the recommendation letter for his job application at Orbital Technologies, with the deadline coming up on April 18th, and provides his CV and cover letter for your review.",1
+28,recommendation/synthetic_29.txt,yes,,RECOM,NO,,0,1
+29,recommendation/synthetic_30.txt,yes,,RECOM,NO,,0,1
+30,recommendation/synthetic_31.txt,yes,,RECOM,YES,,"1, Letter of Recommendation Request with Approaching Deadline: Emily is requesting you to provide a letter of recommendation for her Master's program application at Green University, with the deadline on May 1st.",0
+31,recommendation/synthetic_32.txt,yes,,RECOM,NO,,"1, Recommendation Letter for Job Application Deadline: Mark gently reminds you about the recommendation letter he requested for a job application at Analytica Corp due on April 15th, emphasizing its potential impact on his opportunity.",1
+32,recommendation/synthetic_33.txt,yes,,RECOM,NO,,0,1
+33,recommendation/synthetic_34.txt,yes,,RECOM,NO,,0,1
+34,recommendation/synthetic_35.txt,yes,,RECOM,NO,,0,1
+35,recommendation/synthetic_36.txt,yes,,RECOM,NO,,0,1
+36,recommendation/synthetic_37.txt,yes,,RECOM,NO,,0,1
+37,recommendation/synthetic_38.txt,yes,,RECOM,NO,,0,1
+38,recommendation/synthetic_39.txt,yes,,RECOM,NO,,"1, Reference Letter Needed As Application Deadline Approaches: Alex reminds you to write the reference letter for the Masters program at the University of British Columbia, emphasizing the approaching deadline and the importance of your support.",1
+39,recommendation/synthetic_40.txt,yes,,RECOM,NO,,0,1
+40,recommendation/synthetic_41.txt,yes,,RECOM,YES,,"1, Time-sensitive Recommendation Letter Needed: Jane, a former student, urgently requests you to write a recommendation letter for grad school, with the application deadline on March 30th.",0
+41,recommendation/synthetic_42.txt,yes,,RECOM,NO,,0,1
+42,recommendation/synthetic_43.txt,yes,,RECOM,NO,,"1, Gentle Reminder of Deadline for Rhodes Scholarship Recommendation: Samantha reminds you of the upcoming deadline on April 15th for the letter of recommendation she requested for the Rhodes Scholarship at Oxford.",1
+43,recommendation/synthetic_44.txt,yes,,RECOM,NO,,0,1
+44,recommendation/synthetic_45.txt,yes,,RECOM,NO,,0,1
+45,recommendation/synthetic_46.txt,yes,,RECOM,NO,,0,1
+46,recommendation/synthetic_47.txt,yes,,RECOM,NO,,0,1
+47,recommendation/synthetic_48.txt,yes,,RECOM,NO,,"1, Confirmation Needed for Recommendation Letter: Sophia reminds you of the previous conversation about a recommendation letter for her PhD application with a deadline in two weeks, and seeks confirmation that you can write it.",1
+48,recommendation/synthetic_49.txt,yes,,RECOM,NO,,0,1
+49,recommendation/synthetic_50.txt,yes,,RECOM,NO,,0,1
+50,collaboration/1.txt,no,,COLLAB,NO,,0,1
+51,collaboration/10.txt,no,,COLLAB,NO,,0,1
+52,collaboration/2.txt,no,,COLLAB,NO,,0,1
+53,collaboration/3.txt,no,,COLLAB,NO,,0,1
+54,collaboration/4.txt,no,,COLLAB,NO,,0,1
+55,collaboration/5.txt,no,,COLLAB,YES,,"1, Confirmation Needed for Research Collaboration and Meeting Scheduling: The law firm Baker & McKenzie requires your confirmation by the end of this week for collaboration on the ""Laboratory for Information Globalization and Harmonization Technologies and Studies"" research, and scheduling an initial meeting is imperative by the 15th of this month to align planning and allocate resources.",0
+56,collaboration/6.txt,no,,COLLAB,NO,,0,1
+57,collaboration/7.txt,no,,COLLAB,NO,,0,1
+58,collaboration/8.txt,no,,COLLAB,NO,,0,1
+59,collaboration/9.txt,no,,COLLAB,NO,,0,1
+60,collaboration/synthetic_11.txt,yes,,COLLAB,NO,,0,1
+61,collaboration/synthetic_12.txt,yes,,COLLAB,NO,,0,1
+62,collaboration/synthetic_13.txt,yes,,COLLAB,NO,,0,1
+63,collaboration/synthetic_14.txt,yes,,COLLAB,NO,,"1, Imminent Grant Application Deadline for Collaboration Proposal: Dr. Rita Sanchez from NexGen Pharma is following up on a bioengineering collaboration proposal, emphasizing the approaching grant application deadline and seeking your participation in the project.",1
+64,collaboration/synthetic_15.txt,yes,,COLLAB,NO,,0,1
+65,collaboration/synthetic_16.txt,yes,,COLLAB,NO,,0,1
+66,collaboration/synthetic_17.txt,yes,,COLLAB,NO,,0,1
+67,collaboration/synthetic_18.txt,yes,,COLLAB,YES,,"1, Crucial Collaboration Planning Required: Dr. Müller stresses the need to organize a joint session with the research teams to discuss project integration, with a deadline to finalize the schedule by the end of this week.",0
+68,collaboration/synthetic_19.txt,yes,,COLLAB,NO,,0,1
+69,collaboration/synthetic_20.txt,yes,,COLLAB,NO,,0,1
+70,collaboration/synthetic_21.txt,yes,,COLLAB,YES,,0,0
+71,collaboration/synthetic_22.txt,yes,,COLLAB,NO,,0,1
+72,collaboration/synthetic_23.txt,yes,,COLLAB,NO,,0,1
+73,collaboration/synthetic_24.txt,yes,,COLLAB,NO,,0,1
+74,collaboration/synthetic_25.txt,yes,,COLLAB,NO,,0,1
+75,collaboration/synthetic_26.txt,yes,,COLLAB,NO,,0,1
+76,collaboration/synthetic_27.txt,yes,,COLLAB,NO,,0,1
+77,collaboration/synthetic_28.txt,yes,,COLLAB,NO,,0,1
+78,collaboration/synthetic_29.txt,yes,,COLLAB,NO,,0,1
+79,collaboration/synthetic_30.txt,yes,,COLLAB,NO,,0,1
+80,collaboration/synthetic_31.txt,yes,,COLLAB,NO,,0,1
+81,collaboration/synthetic_32.txt,yes,,COLLAB,NO,,0,1
+82,collaboration/synthetic_33.txt,yes,,COLLAB,NO,,0,1
+83,collaboration/synthetic_34.txt,yes,,COLLAB,NO,,0,1
+84,collaboration/synthetic_35.txt,yes,,COLLAB,NO,,0,1
+85,collaboration/synthetic_36.txt,yes,,COLLAB,NO,,0,1
+86,collaboration/synthetic_37.txt,yes,,COLLAB,YES,,"1, Deadline for Consortium Response: Jessica from AutoSense Tech invites you to join a consortium for a project on next-generation sensors, requiring your confirmation by end of day April 10th.",0
+87,collaboration/synthetic_38.txt,yes,,COLLAB,NO,,0,1
+88,collaboration/synthetic_39.txt,yes,,COLLAB,NO,,0,1
+89,collaboration/synthetic_40.txt,yes,,COLLAB,NO,,0,1
+90,collaboration/synthetic_41.txt,yes,,COLLAB,NO,,0,1
+91,collaboration/synthetic_42.txt,yes,,COLLAB,NO,,0,1
+92,collaboration/synthetic_43.txt,yes,,COLLAB,NO,,0,1
+93,collaboration/synthetic_44.txt,yes,,COLLAB,NO,,0,1
+94,collaboration/synthetic_45.txt,yes,,COLLAB,NO,,0,1
+95,collaboration/synthetic_46.txt,yes,,COLLAB,NO,,0,1
+96,collaboration/synthetic_47.txt,yes,,COLLAB,YES,,"1, Confirmation Needed Before Week's End for Grant Panel: Dr. Emily White invites you to a meeting next week to discuss the ""Green Energy Solutions"" project and requests you to confirm participation urgently due to grant submission deadlines.",0
+97,collaboration/synthetic_48.txt,yes,,COLLAB,NO,,0,1
+98,collaboration/synthetic_49.txt,yes,,COLLAB,NO,,0,1
+99,collaboration/synthetic_50.txt,yes,,COLLAB,NO,,0,1
+100,curriculum/1.txt,no,,CURRICULUM,NO,,0,1
+101,curriculum/10.txt,no,,CURRICULUM,NO,,0,1
+102,curriculum/2.txt,no,,CURRICULUM,NO,,0,1
+103,curriculum/3.txt,no,,CURRICULUM,NO,,0,1
+104,curriculum/4.txt,no,,CURRICULUM,YES,,"1, Request for Extension on Paper Due to Illness: Jack Seward, a student in your VAM 102 course, is requesting an extension on his paper to the 28th morning due to illness and needs a prompt response.",0
+105,curriculum/5.txt,no,,CURRICULUM,NO,,0,1
+106,curriculum/6.txt,no,,CURRICULUM,NO,,0,1
+107,curriculum/7.txt,no,,CURRICULUM,NO,,0,1
+108,curriculum/8.txt,no,,CURRICULUM,NO,,"1, Textbook Information Required for Accessibility Accommodations: Veronica requests the textbook details for your class in advance to ensure she can access them in a digital format due to her low vision, as outlined in her 504 plan.",1
+109,curriculum/9.txt,no,,CURRICULUM,NO,,0,1
+110,curriculum/synthetic_11.txt,yes,,CURRICULUM,NO,,"1, Grade Entry Error Needs Immediate Correction: Elena Cho alerts you to a mistake in the COMP 403 assignment grading where she has been erroneously marked absent, which is critical for her scholarship requirements.",1
+111,curriculum/synthetic_12.txt,yes,,CURRICULUM,YES,,0,0
+112,curriculum/synthetic_13.txt,yes,,CURRICULUM,NO,,0,1
+113,curriculum/synthetic_14.txt,yes,,CURRICULUM,NO,,0,1
+114,curriculum/synthetic_15.txt,yes,,CURRICULUM,NO,,0,1
+115,curriculum/synthetic_16.txt,yes,,CURRICULUM,NO,,0,1
+116,curriculum/synthetic_17.txt,yes,,CURRICULUM,NO,,0,1
+117,curriculum/synthetic_18.txt,yes,,CURRICULUM,NO,,0,1
+118,curriculum/synthetic_19.txt,yes,,CURRICULUM,NO,,"1, Group Project Participation Issue: Jamie explains that two members of their BIO-310 group project are not participating, which may affect their ability to meet expectations with the deadline in two weeks, seeking your advice or intervention.",1
+119,curriculum/synthetic_20.txt,yes,,CURRICULUM,NO,,0,1
+120,curriculum/synthetic_21.txt,yes,,CURRICULUM,NO,,0,1
+121,curriculum/synthetic_22.txt,yes,,CURRICULUM,NO,,0,1
+122,curriculum/synthetic_23.txt,yes,,CURRICULUM,YES,,0,0
+123,curriculum/synthetic_24.txt,yes,,CURRICULUM,NO,,"1, Urgent Technical Issue Impacting Assignment Submission: Ryan Zheng from your Statistics 101 class is unable to access the online homework platform with a looming assignment deadline, and seeks guidance or support contact information.",1
+124,curriculum/synthetic_25.txt,yes,,CURRICULUM,NO,,0,1
+125,curriculum/synthetic_26.txt,yes,,CURRICULUM,NO,,0,1
+126,curriculum/synthetic_27.txt,yes,,CURRICULUM,NO,,0,1
+127,curriculum/synthetic_28.txt,yes,,CURRICULUM,NO,,0,1
+128,curriculum/synthetic_29.txt,yes,,CURRICULUM,NO,,0,1
+129,curriculum/synthetic_30.txt,yes,,CURRICULUM,NO,,0,1
+130,curriculum/synthetic_31.txt,yes,,CURRICULUM,NO,,0,1
+131,curriculum/synthetic_32.txt,yes,,CURRICULUM,NO,,"1, Urgent Rescheduling Due to Religious Observance: Naomi Klein requests to take the exam on an alternative date due to the overlap with Yom Kippur observance.",1
+132,curriculum/synthetic_33.txt,yes,,CURRICULUM,NO,,"1, Urgent Need to Address Student's Missed Lab: Anita in your Biol 202 lab section has had a family emergency and will be missing class this week; she is seeking guidance on making up the missed lab session.",1
+133,curriculum/synthetic_34.txt,yes,,CURRICULUM,NO,,0,1
+134,curriculum/synthetic_35.txt,yes,,CURRICULUM,NO,,0,1
+135,curriculum/synthetic_36.txt,yes,,CURRICULUM,NO,,0,1
+136,curriculum/synthetic_37.txt,yes,,CURRICULUM,YES,,0,0
+137,curriculum/synthetic_38.txt,yes,,CURRICULUM,NO,,"1, Confusion Over Project Deadline: Alex urgently requests clarification on the final project deadline for HIS 340, citing a discrepancy between the syllabus and what you stated in class, which is crucial for planning and coordinating with group members.",1
+138,curriculum/synthetic_39.txt,yes,,CURRICULUM,NO,,0,1
+139,curriculum/synthetic_40.txt,yes,,CURRICULUM,NO,,0,1
+140,curriculum/synthetic_41.txt,yes,,CURRICULUM,NO,,0,1
+141,curriculum/synthetic_42.txt,yes,,CURRICULUM,NO,,0,1
+142,curriculum/synthetic_43.txt,yes,,CURRICULUM,NO,,0,1
+143,curriculum/synthetic_44.txt,yes,,CURRICULUM,NO,,0,1
+144,curriculum/synthetic_45.txt,yes,,CURRICULUM,NO,,0,1
+145,curriculum/synthetic_46.txt,yes,,CURRICULUM,NO,,0,1
+146,curriculum/synthetic_47.txt,yes,,CURRICULUM,YES,,0,0
+147,curriculum/synthetic_48.txt,yes,,CURRICULUM,NO,,"1, Time-sensitive Extension Request: Annie Hu requests an extension until November 22 for the Advanced Algorithms class project due to the group being ill, and asks for a prompt response to manage their work schedule.",1
+148,curriculum/synthetic_49.txt,yes,,CURRICULUM,NO,,0,1
+149,curriculum/synthetic_50.txt,yes,,CURRICULUM,NO,,0,1
+150,others/1.txt,no,,OTHER,NO,,0,1
+151,others/10.txt,no,,OTHER,NO,,0,1
+152,others/2.txt,no,,OTHER,NO,,0,1
+153,others/3.txt,no,,OTHER,NO,,0,1
+154,others/4.txt,no,,OTHER,NO,,0,1
+155,others/5.txt,no,,OTHER,NO,,0,1
+156,others/6.txt,no,,OTHER,NO,,0,1
+157,others/7.txt,no,,OTHER,NO,,0,1
+158,others/8.txt,no,,OTHER,NO,,0,1
+159,others/9.txt,no,,OTHER,NO,,0,1
+160,others/synthetic_11.txt,yes,,OTHER,NO,,0,1
+161,others/synthetic_12.txt,yes,,OTHER,NO,,0,1
+162,others/synthetic_13.txt,yes,,OTHER,NO,,0,1
+163,others/synthetic_14.txt,yes,,OTHER,NO,,0,1
+164,others/synthetic_15.txt,yes,,OTHER,NO,,0,1
+165,others/synthetic_16.txt,yes,,OTHER,NO,,0,1
+166,others/synthetic_17.txt,yes,,OTHER,NO,,0,1
+167,others/synthetic_18.txt,yes,,OTHER,NO,,0,1
+168,others/synthetic_19.txt,yes,,OTHER,NO,,0,1
+169,others/synthetic_20.txt,yes,,OTHER,NO,,0,1
+170,others/synthetic_21.txt,yes,,OTHER,NO,,0,1
+171,others/synthetic_22.txt,yes,,OTHER,NO,,0,1
+172,others/synthetic_23.txt,yes,,OTHER,YES,,0,0
+173,others/synthetic_24.txt,yes,,OTHER,NO,,0,1
+174,others/synthetic_25.txt,yes,,OTHER,NO,,0,1
+175,others/synthetic_26.txt,yes,,OTHER,NO,,0,1
+176,others/synthetic_27.txt,yes,,OTHER,YES,,"1, Lost Thesis Notebook Needs Immediate Retrieval: James urgently needs you to check for or notify janitorial staff regarding his lost blue spiral notebook in your lecture hall, essential for his thesis defense on Friday, April 7th.",0
+177,others/synthetic_28.txt,yes,,OTHER,YES,,"1, Confirmation Required for Upcoming Networking Event: You are reminded to confirm your attendance for the Boston University Alumni Association's Networking Event by tomorrow at noon.",0
+178,others/synthetic_29.txt,yes,,OTHER,NO,,0,1
+179,others/synthetic_30.txt,yes,,OTHER,NO,,0,1
+180,others/synthetic_31.txt,yes,,OTHER,NO,,0,1
+181,others/synthetic_32.txt,yes,,OTHER,NO,,0,1
+182,others/synthetic_33.txt,yes,,OTHER,NO,,0,1
+183,others/synthetic_34.txt,yes,,OTHER,NO,,0,1
+184,others/synthetic_35.txt,yes,,OTHER,NO,,0,1
+185,others/synthetic_36.txt,yes,,OTHER,NO,,0,1
+186,others/synthetic_37.txt,yes,,OTHER,NO,,"1, Campus Closure Announced Due to Severe Snowstorm: The university has closed the entire campus for tomorrow, resulting in the cancellation of your 'Quantum Mechanics' lecture, with a reschedule necessary at a later date.",1
+187,others/synthetic_38.txt,yes,,OTHER,NO,,0,1
+188,others/synthetic_39.txt,yes,,OTHER,NO,,"1, Request for You to Judge at Upcoming Poetry Slam: Sarah, the president of the Literary Society, urgently invites you to be a judge for the annual Poetry Slam occurring on March 15th, emphasizing the value of your expertise for the event.",1
+189,others/synthetic_40.txt,yes,,OTHER,NO,,0,1
+190,others/synthetic_41.txt,yes,,OTHER,NO,,0,1
+191,others/synthetic_42.txt,yes,,OTHER,YES,,0,0
+192,others/synthetic_43.txt,yes,,OTHER,NO,,0,1
+193,others/synthetic_44.txt,yes,,OTHER,YES,,"1, Time-Sensitive Permission for Yearbook: Sarah requests your prompt permission to use a photo of you for the ""Professors of the Year"" section in the upcoming university yearbook, with a deadline this Friday.",0
+194,others/synthetic_45.txt,yes,,OTHER,NO,,0,1
+195,others/synthetic_46.txt,yes,,OTHER,NO,,0,1
+196,others/synthetic_47.txt,yes,,OTHER,NO,,0,1
+197,others/synthetic_48.txt,yes,,OTHER,NO,,0,1
+198,others/synthetic_49.txt,yes,,OTHER,NO,,0,1
+199,others/synthetic_50.txt,yes,,OTHER,NO,,0,1
+200,administrative/1.txt,no,,ADMIN,NO,,0,1
+201,administrative/10.txt,no,,ADMIN,NO,,0,1
+202,administrative/2.txt,no,,ADMIN,NO,,0,1
+203,administrative/3.txt,no,,ADMIN,NO,,0,1
+204,administrative/4.txt,no,,ADMIN,NO,,0,1
+205,administrative/5.txt,no,,ADMIN,NO,,0,1
+206,administrative/6.txt,no,,ADMIN,NO,,0,1
+207,administrative/7.txt,no,,ADMIN,NO,,0,1
+208,administrative/8.txt,no,,ADMIN,NO,,0,1
+209,administrative/9.txt,no,,ADMIN,NO,,0,1
+210,administrative/synthetic_11.txt,yes,,ADMIN,NO,,"1, Mandatory Participation at Budget Review Meeting: You are reminded to attend the crucial Departmental Budget Review meeting on Tuesday, April 18th, to discuss and provide input on next year's budget allocations.",1
+211,administrative/synthetic_12.txt,yes,,ADMIN,NO,,0,1
+212,administrative/synthetic_13.txt,yes,,ADMIN,NO,,0,1
+213,administrative/synthetic_14.txt,yes,,ADMIN,NO,,"1, Mandatory Compliance Training Deadline: You need to complete the ""Ethical Conduct in Research"" compliance training by May 1st to remain in good standing with university policies, taking approximately two hours.",1
+214,administrative/synthetic_15.txt,yes,,ADMIN,NO,,0,1
+215,administrative/synthetic_16.txt,yes,,ADMIN,YES,,"1, Meeting Rescheduling for Critical Fiscal Planning: The budget review meeting initially set for March 15th needs to be urgently rescheduled, and your availability is requested for a new time next week.",0
+216,administrative/synthetic_17.txt,yes,,ADMIN,NO,,0,1
+217,administrative/synthetic_18.txt,yes,,ADMIN,NO,,0,1
+218,administrative/synthetic_19.txt,yes,,ADMIN,NO,,0,1
+219,administrative/synthetic_20.txt,yes,,ADMIN,NO,,"1, Timetable Preference Submission Deadline: You are requested to submit your preferred teaching times for the fall semester schedule optimization by April 10th to avoid conflicts for students and faculty.",1
+220,administrative/synthetic_21.txt,yes,,ADMIN,NO,,0,1
+221,administrative/synthetic_22.txt,yes,,ADMIN,YES,,0,0
+222,administrative/synthetic_23.txt,yes,,ADMIN,NO,,0,1
+223,administrative/synthetic_24.txt,yes,,ADMIN,NO,,0,1
+224,administrative/synthetic_25.txt,yes,,ADMIN,NO,,0,1
+225,administrative/synthetic_26.txt,yes,,ADMIN,YES,,"1, Lecture Room Change Notification: You need to inform your students about the change of tomorrow's lecture location to Room 204 in the East Wing due to an HVAC system issue in Hall B.",0
+226,administrative/synthetic_27.txt,yes,,ADMIN,NO,,"1, Upcoming Crucial Budget Meeting: You are reminded to attend the Biology Department budget meeting scheduled for this Thursday at 2 PM, where your input on fund allocation for the next fiscal year is crucial.",1
+227,administrative/synthetic_28.txt,yes,,ADMIN,NO,,0,1
+228,administrative/synthetic_29.txt,yes,,ADMIN,NO,,0,1
+229,administrative/synthetic_30.txt,yes,,ADMIN,NO,,"1, Contribution to Accreditation Documentation Needed Urgently: The accreditation committee requires additional documentation for your courses, including detailed syllabi and outcome assessments, by April 15th to meet their deadline.",1
+230,administrative/synthetic_31.txt,yes,,ADMIN,NO,,"1, Venue Change for Department Meeting: Tomorrow's scheduled department meeting has been relocated to Room 204 in Hargreaves Hall at 10:00 AM due to a double booking error, and you are requested to inform colleagues who may not be aware of this change.",1
+231,administrative/synthetic_32.txt,yes,,ADMIN,YES,,0,0
+232,administrative/synthetic_33.txt,yes,,ADMIN,NO,,"1, Discussion on Budget Cuts Needed: Janet requests a meeting with you next week to discuss the reduction of funds for research assistants due to budget cuts, needing to manage these changes without significantly impacting your work.",1
+233,administrative/synthetic_34.txt,yes,,ADMIN,NO,,0,1
+234,administrative/synthetic_35.txt,yes,,ADMIN,NO,,"1, Scheduled Commitment: You are reminded of a scheduled photoshoot for faculty members this Thursday from 1 PM to 3 PM, which requires your attendance unless an alternative time is necessary.",1
+235,administrative/synthetic_36.txt,yes,,ADMIN,NO,,0,1
+236,administrative/synthetic_37.txt,yes,,ADMIN,NO,,"1, Office Relocation Scheduled for Next Monday: You will need to secure personal belongings and important documents before your office move to Room 442 in the East Wing on May 1st due to renovations, with Facilities Management assisting this Friday.",1
+237,administrative/synthetic_38.txt,yes,,ADMIN,NO,,0,1
+238,administrative/synthetic_39.txt,yes,,ADMIN,NO,,0,1
+239,administrative/synthetic_40.txt,yes,,ADMIN,NO,,"1, Submission Deadline for Annual Performance Review: You are reminded to submit your annual performance review documentation by June 30th, essential for tenure, promotion, and department evaluations.",1
+240,administrative/synthetic_41.txt,yes,,ADMIN,YES,,"1, Seminar Location Change on Short Notice: Your seminar scheduled for tomorrow has been moved to a new location due to a maintenance issue, and prompt communication of any special room setup requirements is needed.
+",0
+241,administrative/synthetic_42.txt,yes,,ADMIN,NO,,"1, Evaluation Forms Deadline Approaching: You are reminded to submit the student evaluation forms for your Winter term courses by April 7th to the admin office or upload them to the faculty portal.",1
+242,administrative/synthetic_43.txt,yes,,ADMIN,NO,,"1, Confirmation and Attendance Required for Budget Review Meeting: You are informed about the annual budget review meeting scheduled for April 12th, where your presence and input as a senior research committee member are crucial.",1
+243,administrative/synthetic_44.txt,yes,,ADMIN,NO,,0,1
+244,administrative/synthetic_45.txt,yes,,ADMIN,NO,,0,1
+245,administrative/synthetic_46.txt,yes,,ADMIN,YES,,"1, Immediate Budget Approval Requested for Workshop: You are reminded to urgently approve the budget for the ""Data Science in Education"" workshop happening on May 15-17, to enable vendor payments and marketing, with the deadline looming.",0
+246,administrative/synthetic_47.txt,yes,,ADMIN,NO,,"1, Meeting Scheduling for Curriculum Revision: Dr. Susan Choi requests to finalize the revisions of the undergraduate business program curriculum before the new academic year, seeking your availability for a meeting next week.",1
+247,administrative/synthetic_48.txt,yes,,ADMIN,NO,,0,1
+248,administrative/synthetic_49.txt,yes,,ADMIN,NO,,"1, Grant Application Assistance Reminder: Laura reminds you about the upcoming deadline for the research grant application on April 25th and offers assistance with paperwork or guidelines, emphasizing the importance of the grant to your renewable energy research project.",1
+249,administrative/synthetic_50.txt,yes,,ADMIN,NO,,0,1
