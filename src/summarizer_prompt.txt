@@ -12,10 +12,13 @@ Labelling:
 Non-urgent email: 0
 Urgent email: 1
 
-Reasoning: State the reasons why this email is urgent or not, and briefly analyze the tone of voice, wording, and context
-
 If the label is 1, provide a summary: 
 Phrase summing up the urgency: One sentence summary of the email.
+
+The following three parts should be present for all outputs
+Tone: explain why classified as urgent or non-urgent by tone
+Context: explain why classified as urgent or non-urgent by context
+Wording: explain why classified as urgent or non-urgent by wording
 
 ###Example###
 <USER>:
