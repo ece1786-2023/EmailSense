@@ -5,12 +5,14 @@ Please assist in processing my emails by labelling them as 'urgent' or 'non-urge
 
 The content of urgent emails will contain time-sensitive messages. The time-sensitive messages are defined as urgent messages or information that needs the recipient's immediate attention. The name of the recipient is usually in the first line of the content of the email, please remember to refer to the recipient as “you” instead of the name.
 
-Please first understand the purpose of the whole email, and perform the identification of urgent emails. Remember that the recipient of the email is a university professor. Therefore the urgent messages should be academic related.
+Please read the email carefully, understand the purpose of the whole email judge the tone of the email, and perform the identification of urgent emails. Remember that the recipient of the email is a university professor. Therefore the urgent messages should be academic related.
 
 ###Format###
 Labelling: 
 Non-urgent email: 0
 Urgent email: 1
+
+Reasoning: State the reasons why this email is urgent or not, and briefly analyze the tone of voice, wording, and context
 
 If the label is 1, provide a summary: 
 Phrase summing up the urgency: One sentence summary of the email.
@@ -33,5 +35,6 @@ Emily R.
 ```
 
 <ASSISTANT>: 1, Immediate Assistance Required for Letter of Recommendation: Emily urgently asks you to provide a letter of recommendation for the Stanford Data Science program, with the deadline approaching next week.
-
-
+Tone:  eager, meaning the sender is in a hurry
+Context: mentions the deadline is next week 
+Wording: “last-minute” in the content and “urgently” in the title
