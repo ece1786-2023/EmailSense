@@ -1,11 +1,16 @@
 ###Instruction###
-We would like to develop a machine-learning model for academic email classification to help university professor organize their emails.
+We would like to develop a machine-learning model for academic email summarization to help university professors identify and prioritize urgent emails.
 
-Please assist in processing my emails by labelling them as 'urgent' or 'non-urgent'. For each urgent email, provide a brief and accurate summary, highlighting the key points and information determining its urgency. 
+Please assist in processing my emails by labelling them as 'urgent' or 'non-urgent'. For each urgent email, provide a brief and accurate summary, highlighting the key points and information determining its urgency.
 
-The content of urgent emails will contain time-sensitive messages. The time-sensitive messages are defined as urgent messages or information that needs the recipient's immediate attention. The name of the recipient is usually in the first line of the content of the email, please remember to refer to the recipient as “you” instead of the name.
+The content and subject of urgent emails will contain time-sensitive messages. The time-sensitive messages are defined as emails needing replay no later than the day after. Furthermore, the time-sensitive emails may be a notification regarding events happening by the next day, these emails do not seek for a reply but are still seeking for immediate notice.
 
-Please read the email carefully, understand the purpose of the whole email judge the tone of the email, and perform the identification of urgent emails. Remember that the recipient of the email is a university professor. Therefore the urgent messages should be academic related.
+The name of the recipient is usually in the first line of the content of the email, please remember to refer to the recipient as “you” instead of the name. Also, remember that the recipient of the email is a university professor. Lastly, since we do not have a current date reference, you should not ascertain urgency only based on the presence of the date and time in the email.
+
+Please read the email carefully and think step-by-step: 
+1. Understand the purpose of the whole email
+2. Judge the tone of the email in addition to the context, consider whether the sender expresses urgency in their expression and word choices.
+3. Identify whether the email requires attention or a reply by the end of the next day.
 
 ###Format###
 Labelling: 
@@ -15,24 +20,30 @@ Urgent email: 1
 If the label is 1, provide a summary: 
 Phrase summing up the urgency: One sentence summary of the email.
 
-One sentence stating the reason for judging if the email is urgent or not should always be present in a separate line.
+A statement of reasons for judging if the email is urgent or not, using the steps mentioned above, should always be present in a separate line.
 
 ###Example###
 <USER>:
 ```
-Subject: Grad School Application: Letter of Recommendation Needed Urgently!
+Subject: URGENT: Reference Letter Needed by Thursday for Highbrow Scholarship Application
 
 Content:
-Hey Prof. Thompson,
+Dear Professor Johnson,
 
-I'm in a bit of a bind here. The deadline for the Stanford Data Science program is next week, and I just realized that I need one more letter of recommendation. Remember our late-night data analysis sessions for the AI project last semester? I think you could really speak to my skills and dedication.
+I hope this message finds you well. I am writing to request a letter of recommendation for the Highbrow Scholarship, which I'm applying for this coming Friday. Having taken your Advanced Macroeconomics course and working as your research assistant last summer, I believe you can provide the committee with a comprehensive understanding of my academic abilities and work ethic.
 
-Can you help me out with this? I know it's last-minute, but I wouldn't ask if it wasn't seriously important. Let me know what you need from my end.
+I understand this is a last-minute request, and I apologize for the inconvenience. The deadline snuck up on me due to other academic obligations. I've attached my resume, transcript, and a draft of the scholarship essay to this email for your reference.
 
-Best,
-Emily R.
+If you could provide the recommendation letter by the end of the day on Thursday, it would ensure I can submit my complete application on time. I realize this is a tight turnaround and am available at your earliest convenience to discuss any specifics you might need for the letter.
 
+If you need any further information or have questions, please let me know as soon as possible. Your support in this process would be invaluable to me.
+
+Thank you for considering my request amidst your busy schedule.
+
+Warm regards,
+Emily Tan
 ```
 
-<ASSISTANT>: 1, Immediate Assistance Required for Letter of Recommendation: Emily urgently asks you to provide a letter of recommendation for the Stanford Data Science program, with the deadline approaching next week.
-This email is urgent: Eagerly written with a sense of urgency, the content highlights the "last-minute" nature of the request and emphasizes the upcoming deadline next week in the title.
+<ASSISTANT>: 1, Urgent Request for Scholarship Recommendation: Emily Tan seeks a last-minute recommendation letter for the Highbrow Scholarship, needing it by Thursday due to an approaching Friday deadline.
+
+First, the email entails a request for action (writing a reference letter before Thursday) that is time-sensitive, and needs the recipient’s attention as soon as possible to schedule a discussion. Second, the tone of the email conveys a sense of urgency, with the student acknowledging the tight turnaround and last-minute notice. As a result, the mail requires a prompt response and assistance as soon as possible, which implies the email is an urgent email.
