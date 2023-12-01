@@ -3,11 +3,18 @@ from openai import OpenAI
 import os
 client = OpenAI()
 
-prompt = "I will give you an email. You need to understand the content of the email and its background. Then, you need to add one or two sentences of time-sensitive messages to the email's content. The time-sensitive messages are defined as messages that are urgent or information that needs the recipient's immediate attention."
+prompt = '''I will give you an email. You need to understand the content of the email and its background. Then, you need to add one or two sentences of time-sensitive messages to the email's content. The time-sensitive messages are defined as messages that are urgent or information that needs the recipient's immediate attention, meaning that the email expects a reply immediately or by the next day.
+
+Please note that your task is to inject time-sensitive messages into the original email, instead of writing a reply to the email. Also note that, please keep the email format as:
+
+Subject: XXX
+Content:
+XXX
+'''
 
 # Modify to the corresponding category & email number
-category = "other"
-candidates = [28]
+category = "administrative"
+candidates = [22, 46]
 
 email = str()
 path = str()

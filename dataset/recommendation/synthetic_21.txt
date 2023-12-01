@@ -1,4 +1,4 @@
-Subject: Urgent Request: Letter of Recommendation for Grad School
+Subject: Letter of Recommendation for Grad School
 
 Content:
 Hi Prof. Smith,
@@ -8,6 +8,10 @@ I hope this message finds you well. I'm reaching out to you with a somewhat urge
 I'm currently in the process of applying for the Masters in Mechanical Engineering at MIT, and the deadline is just two weeks away. I realized that a strong letter of recommendation from you, given our past work together, could really strengthen my application.
 
 Could I ask you to write a letter of recommendation for me? If you need any more information or would like to discuss my performance and suitability for the program, I’d be happy to provide that. I understand this is a short notice, but I'd be incredibly grateful for your help.
+
+I need to submit your letter by the application deadline which is [specific date], so I would greatly appreciate it if you could provide the letter by [specific date - 1 week before the deadline] to ensure there's enough time to include it in my application package.
+
+Thank you very much for considering my request amidst your busy schedule. I am hoping for a positive response by tomorrow or at your earliest convenience so that I can plan accordingly.
 
 Best regards,
 Jordan Lee
