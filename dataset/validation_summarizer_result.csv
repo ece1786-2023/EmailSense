@@ -1,201 +1,406 @@
-Unnamed: 0,filename,synthetic,reference,category,time_sensitive,urgent,summary,correct_urgency
-0,recommendation/9.txt,no,,RECOM,NO,NO,,1
-1,curriculum/synthetic_44.txt,yes,,CURRICULUM,NO,NO,,1
-2,other/synthetic_48.txt,yes,,OTHER,NO,NO,,1
-3,recommendation/synthetic_27.txt,yes,,RECOM,YES,YES," Immediate Assistance Required for Letter of Recommendation: Emily urgently asks you to provide a letter of recommendation for the Stanford Data Science program, with the deadline approaching next week.",1
-4,curriculum/4.txt,no,,CURRICULUM,YES,YES," Prompt Decision Needed for Student Paper Extension: Jack is requesting an extension for his paper in your course due to illness and wishes to submit it by the morning of the 28th, hoping for your quick response to maintain work quality.",1
-5,administrative/synthetic_48.txt,yes,,ADMIN,NO,NO,,1
-6,other/synthetic_30.txt,yes,,OTHER,NO,NO,,1
-7,other/synthetic_35.txt,yes,,OTHER,NO,NO,,1
-8,curriculum/synthetic_15.txt,yes,,CURRICULUM,NO,NO,,1
-9,administrative/synthetic_33.txt,yes,,ADMIN,NO,NO,,1
-10,collaboration/synthetic_13.txt,yes,,COLLAB,NO,NO,,1
-11,recommendation/synthetic_37.txt,yes,,RECOM,NO,NO,,1
-12,administrative/1.txt,no,,ADMIN,NO,NO,,1
-13,administrative/synthetic_46.txt,yes,,ADMIN,YES,YES," Budget Approval Required for Workshop Preparation: Megan urgently needs your approval on the budget proposal for the upcoming ""Data Science in Education"" workshop to proceed with vendor payments and marketing, with the event scheduled for May 15-17, 2023.",1
-14,administrative/synthetic_35.txt,yes,,ADMIN,NO,YES," Attendance Confirmation Needed for Upcoming Faculty Photoshoot: You're reminded to attend a photoshoot for faculty members this Thursday from 1 PM to 3 PM, and to inform the communications team if the time slot is not suitable.",0
-15,collaboration/synthetic_20.txt,yes,,COLLAB,NO,NO,,1
-16,collaboration/synthetic_17.txt,yes,,COLLAB,NO,NO,,1
-17,collaboration/synthetic_14.txt,yes,,COLLAB,NO,NO,,1
-18,curriculum/synthetic_25.txt,yes,,CURRICULUM,NO,NO,,1
-19,administrative/5.txt,no,,ADMIN,NO,NO,,1
-20,administrative/synthetic_13.txt,yes,,ADMIN,NO,NO,,1
-21,collaboration/synthetic_18.txt,yes,,COLLAB,YES,YES, Urgent Meeting Required for Research Collaboration: Dr. Müller stresses the need to urgently organize a joint session this week to discuss new alloy integration for the project with Bayer Materials Science AG and avoid delays.,1
-22,curriculum/synthetic_45.txt,yes,,CURRICULUM,NO,NO,,1
-23,recommendation/4.txt,no,,RECOM,NO,NO,,1
-24,collaboration/synthetic_26.txt,yes,,COLLAB,NO,NO,,1
-25,recommendation/synthetic_49.txt,yes,,RECOM,NO,NO,,1
-26,curriculum/synthetic_31.txt,yes,,CURRICULUM,NO,NO,,1
-27,other/synthetic_11.txt,yes,,OTHER,NO,NO,,1
-28,other/synthetic_46.txt,yes,,OTHER,NO,NO,,1
-29,recommendation/synthetic_28.txt,yes,,RECOM,NO,YES, Recommendation Letter Deadline Approaching: Raj reminds you that the deadline for the recommendation letter for his job application at Orbital Technologies is on April 18th and checks if you need any further information.,0
-30,collaboration/synthetic_48.txt,yes,,COLLAB,NO,NO,,1
-31,other/synthetic_41.txt,yes,,OTHER,NO,NO,,1
-32,curriculum/synthetic_47.txt,yes,,CURRICULUM,YES,NO,,0
-33,curriculum/9.txt,no,,CURRICULUM,NO,NO,,1
-34,administrative/synthetic_27.txt,yes,,ADMIN,NO,NO,,1
-35,other/synthetic_42.txt,yes,,OTHER,YES,NO,,0
-36,recommendation/synthetic_13.txt,yes,,RECOM,NO,NO,,1
-37,collaboration/synthetic_11.txt,yes,,COLLAB,NO,NO,,1
-38,collaboration/synthetic_43.txt,yes,,COLLAB,NO,NO,,1
-39,recommendation/synthetic_26.txt,yes,,RECOM,NO,NO,,1
-40,administrative/2.txt,no,,ADMIN,NO,NO,,1
-41,curriculum/10.txt,no,,CURRICULUM,NO,NO,,1
-42,collaboration/synthetic_41.txt,yes,,COLLAB,NO,NO,,1
-43,collaboration/10.txt,no,,COLLAB,NO,NO,,1
-44,recommendation/synthetic_23.txt,yes,,RECOM,NO,NO,,1
-45,other/9.txt,no,,OTHER,NO,NO,,1
-46,collaboration/synthetic_35.txt,yes,,COLLAB,NO,NO,,1
-47,other/synthetic_39.txt,yes,,OTHER,NO,YES," Need for Judges at Upcoming Poetry Slam: Sarah informs you that the annual Poetry Slam on March 15th requires urgent assistance with judging, appreciating your expertise in literature.",0
-48,curriculum/synthetic_33.txt,yes,,CURRICULUM,NO,NO,,1
-49,collaboration/3.txt,no,,COLLAB,NO,NO,,1
-50,collaboration/synthetic_31.txt,yes,,COLLAB,NO,NO,,1
-51,administrative/synthetic_21.txt,yes,,ADMIN,NO,NO,,1
-52,recommendation/synthetic_25.txt,yes,,RECOM,NO,YES, Approaching Deadline for Recommendation Letter: Sylvia Kramer gently reminds you to complete her recommendation letter for Yale's Master's program in Environmental Science due by April 15th.,0
-53,collaboration/synthetic_33.txt,yes,,COLLAB,NO,NO,,1
-54,other/synthetic_32.txt,yes,,OTHER,NO,NO,,1
-55,curriculum/synthetic_23.txt,yes,,CURRICULUM,YES,YES," Group Member Non-Participation in Final Project: Sarah informs you that a member of her group is not contributing to the final project in your Marketing Strategy class, leaving them short-handed, and seeks your advice on how to proceed.",1
-56,other/synthetic_44.txt,yes,,OTHER,YES,YES," Decision Needed on Photo Permission for University Yearbook: Sarah from the yearbook committee needs your permission to use a photo of you for the ""Professors of the Year"" section, with a deadline this Friday.",1
-57,curriculum/synthetic_17.txt,yes,,CURRICULUM,NO,NO,,1
-58,collaboration/synthetic_49.txt,yes,,COLLAB,NO,NO,,1
-59,other/2.txt,no,,OTHER,NO,NO,,1
-60,other/5.txt,no,,OTHER,NO,NO,,1
-61,curriculum/synthetic_28.txt,yes,,CURRICULUM,NO,NO,,1
-62,other/10.txt,no,,OTHER,NO,NO,,1
-63,recommendation/synthetic_46.txt,yes,,RECOM,NO,NO,,1
-64,recommendation/synthetic_30.txt,yes,,RECOM,NO,YES," Recommendation Letter Needed for an Upcoming Internship Deadline: Alex Martin requests you write a letter of recommendation for a summer internship at Quantum Computing Inc., with a submission deadline of May 3rd.",0
-65,administrative/synthetic_40.txt,yes,,ADMIN,NO,YES," Deadline for Performance Review Documentation: You are reminded to submit your annual performance review paperwork before the fast-approaching deadline of June 30th, which is crucial for tenure tracking and promotion considerations.",0
-66,curriculum/5.txt,no,,CURRICULUM,NO,NO,,1
-67,other/synthetic_33.txt,yes,,OTHER,NO,NO,,1
-68,administrative/synthetic_50.txt,yes,,ADMIN,NO,NO,,1
-69,curriculum/synthetic_37.txt,yes,,CURRICULUM,YES,NO,,0
-70,recommendation/synthetic_33.txt,yes,,RECOM,NO,NO,,1
-71,collaboration/synthetic_40.txt,yes,,COLLAB,NO,YES," Invitation to Collaborate on Time-Sensitive Grant Application: UrbanTech invites you to be an academic partner for a government grant on smart city development, proposing a meeting next Thursday to discuss collaboration details.",0
-72,recommendation/synthetic_48.txt,yes,,RECOM,NO,YES, Confirmation Needed for Recommendation Letter: Sophia is following up on a previous conversation about a recommendation letter for a PhD program application due in two weeks.,0
-73,collaboration/5.txt,no,,COLLAB,YES,YES," Confirmation Needed for Research Collaboration by Week's End: Wallace from Baker & McKenzie requires urgent confirmation of collaboration on the ""Laboratory for Information Globalization and Harmonization Technologies and Studies"" by the end of this week, before the firm's fiscal planning, and a meeting no later than the 15th of this month to set a strategic direction with their senior management.",1
-74,recommendation/synthetic_20.txt,yes,,RECOM,NO,NO,,1
-75,other/synthetic_22.txt,yes,,OTHER,NO,NO,,1
-76,collaboration/synthetic_36.txt,yes,,COLLAB,NO,NO,,1
-77,curriculum/1.txt,no,,CURRICULUM,NO,YES," Deadline Clarification Needed for Final Essay: Jes urgently seeks confirmation on the correct deadline for the final essay in your Old English course, with conflicting dates noted in syllabus and during class.",0
-78,administrative/synthetic_30.txt,yes,,ADMIN,NO,YES," Accreditation Documentation Deadline: The university is undergoing an accreditation process, and you are requested to submit detailed syllabi and assessments for your courses by April 15th, a task critical to maintaining accreditation.",0
-79,administrative/synthetic_15.txt,yes,,ADMIN,NO,NO,,1
-80,recommendation/synthetic_32.txt,yes,,RECOM,NO,YES," Student Requires Timely Recommendation Letter: Mark Lee is following up on a previous request for a recommendation letter for a job application at Analytica Corp, with the deadline approaching on April 15th.",0
-81,administrative/synthetic_37.txt,yes,,ADMIN,NO,YES, Office Relocation Notice: You will need to secure your belongings before Friday afternoon due to your office's temporary relocation to Room 442 in the East Wing starting next Monday.,0
-82,administrative/synthetic_11.txt,yes,,ADMIN,NO,YES," Mandatory Attendance Required at Budget Review: You are reminded to attend the crucial Departmental Budget Review meeting on April 18th, where your input on the next fiscal year's budget is critical.",0
-83,curriculum/synthetic_35.txt,yes,,CURRICULUM,NO,NO,,1
-84,collaboration/synthetic_37.txt,yes,,COLLAB,YES,YES," Prompt Response Needed for Project Participation: AutoSense Tech invites you to join a consortium on developing next-generation sensors for autonomous vehicles, requesting a response by the end of the day on April 10th to participate in the kick-off meeting on April 15th.",1
-85,curriculum/synthetic_48.txt,yes,,CURRICULUM,NO,YES," Request for Project Deadline Extension: Annie's group is requesting a deadline extension to November 22 for the COMP SCI 455 group project due to members being ill, with a prompt response needed to manage their work schedule.",0
-86,other/synthetic_34.txt,yes,,OTHER,NO,NO,,1
-87,administrative/9.txt,no,,ADMIN,NO,NO,,1
-88,recommendation/synthetic_31.txt,yes,,RECOM,YES,YES, Impending Deadline for Letter of Recommendation: Emily Carter urgently requests you to write a letter of recommendation for her application to the Master's program in Environmental Science at Green University with the upcoming deadline on May 1st.,1
-89,recommendation/synthetic_17.txt,yes,,RECOM,NO,NO,,1
-90,recommendation/synthetic_19.txt,yes,,RECOM,NO,YES, Confirmation Needed for Recommendation Letter Submission: Sarah urgently needs to confirm if you have sent the recommendation letter as the Rhodes Scholarship committee is finalizing applications by the end of this week.,0
-91,administrative/synthetic_19.txt,yes,,ADMIN,NO,NO,,1
-92,recommendation/synthetic_24.txt,yes,,RECOM,NO,NO,,1
-93,administrative/synthetic_42.txt,yes,,ADMIN,NO,YES," Reminder for Timely Submission: Susan prompts you to complete and submit your Winter term student evaluation forms by April 7th, important for course quality improvement and student satisfaction.",0
-94,recommendation/synthetic_47.txt,yes,,RECOM,NO,YES," Immediate Reference Letter Request: Mike from your Econ 101 class requests a swift job reference letter for a startup opportunity, implying the need for immediate attention.",0
-95,other/synthetic_27.txt,yes,,OTHER,YES,YES," Student's Crucial Item Lost: James needs immediate help locating his blue spiral notebook, which is essential for his thesis defense on Friday, April 7th, and asks you to check the lecture hall or notify janitorial staff as soon as possible.",1
-96,collaboration/synthetic_44.txt,yes,,COLLAB,NO,NO,,1
-97,recommendation/synthetic_39.txt,yes,,RECOM,NO,YES," Reference Letter for Masters Program Submission Imminent: Alex is reminding you about the agreed-upon reference letter for a Masters program at the University of British Columbia, emphasizing the approaching deadline and offering assistance if you need any additional information.",0
-98,other/synthetic_43.txt,yes,,OTHER,NO,NO,,1
-99,other/synthetic_29.txt,yes,,OTHER,NO,NO,,1
-100,administrative/10.txt,no,,ADMIN,NO,NO,,1
-101,recommendation/synthetic_50.txt,yes,,RECOM,NO,NO,,1
-102,collaboration/synthetic_27.txt,yes,,COLLAB,NO,NO,,1
-103,administrative/synthetic_12.txt,yes,,ADMIN,NO,NO,,1
-104,administrative/synthetic_14.txt,yes,,ADMIN,NO,YES," Compliance Training Completion Urgent: You are reminded to complete the mandatory ""Ethical Conduct in Research"" training by May 1st in order to adhere to university research governance policies, with support offered if needed.",0
-105,collaboration/synthetic_12.txt,yes,,COLLAB,NO,NO,,1
-106,recommendation/6.txt,no,,RECOM,NO,NO,,1
-107,collaboration/synthetic_29.txt,yes,,COLLAB,NO,NO,,1
-108,collaboration/synthetic_25.txt,yes,,COLLAB,NO,NO,,1
-109,other/synthetic_26.txt,yes,,OTHER,NO,NO,,1
-110,collaboration/synthetic_19.txt,yes,,COLLAB,NO,NO,,1
-111,curriculum/synthetic_41.txt,yes,,CURRICULUM,NO,NO,,1
-112,collaboration/8.txt,no,,COLLAB,NO,NO,,1
-113,other/synthetic_21.txt,yes,,OTHER,NO,NO,,1
-114,recommendation/synthetic_15.txt,yes,,RECOM,NO,NO,,1
-115,collaboration/synthetic_39.txt,yes,,COLLAB,NO,NO,,1
-116,collaboration/synthetic_28.txt,yes,,COLLAB,NO,NO,,1
-117,collaboration/synthetic_22.txt,yes,,COLLAB,NO,NO,,1
-118,curriculum/synthetic_34.txt,yes,,CURRICULUM,NO,NO,,1
-119,curriculum/synthetic_18.txt,yes,,CURRICULUM,NO,NO,,1
-120,curriculum/synthetic_16.txt,yes,,CURRICULUM,NO,NO,,1
-121,recommendation/3.txt,no,,RECOM,NO,NO,,1
-122,recommendation/synthetic_14.txt,yes,,RECOM,NO,YES," Request for Reference Letter with Approaching Deadline: Jacob is seeking your reference letter for his application to the Master’s program in Data Science at Stanford University, with the deadline on May 30th.",0
-123,collaboration/9.txt,no,,COLLAB,NO,NO,,1
-124,curriculum/synthetic_46.txt,yes,,CURRICULUM,NO,NO,,1
-125,curriculum/synthetic_13.txt,yes,,CURRICULUM,NO,NO,,1
-126,administrative/synthetic_29.txt,yes,,ADMIN,NO,NO,,1
-127,recommendation/synthetic_36.txt,yes,,RECOM,NO,NO,,1
-128,administrative/synthetic_23.txt,yes,,ADMIN,NO,NO,,1
-129,collaboration/synthetic_45.txt,yes,,COLLAB,NO,NO,,1
-130,other/synthetic_49.txt,yes,,OTHER,NO,NO,,1
-131,recommendation/synthetic_21.txt,yes,,RECOM,YES,YES, Request for Recommendation Letter: Jordan requests an urgent letter of recommendation from you for the Masters in Mechanical Engineering at MIT with the deadline in two weeks.,1
-132,other/synthetic_25.txt,yes,,OTHER,NO,NO,,1
-133,administrative/4.txt,no,,ADMIN,NO,NO,,1
-134,other/synthetic_38.txt,yes,,OTHER,NO,NO,,1
-135,other/synthetic_19.txt,yes,,OTHER,NO,NO,,1
-136,collaboration/synthetic_32.txt,yes,,COLLAB,NO,NO,,1
-137,collaboration/synthetic_42.txt,yes,,COLLAB,NO,NO,,1
-138,other/4.txt,no,,OTHER,NO,NO,,1
-139,other/synthetic_15.txt,yes,,OTHER,NO,NO,,1
-140,other/synthetic_40.txt,yes,,OTHER,NO,NO,,1
-141,collaboration/6.txt,no,,COLLAB,NO,NO,,1
-142,curriculum/3.txt,no,,CURRICULUM,NO,NO,,1
-143,administrative/synthetic_45.txt,yes,,ADMIN,NO,NO,,1
-144,curriculum/synthetic_20.txt,yes,,CURRICULUM,NO,NO,,1
-145,administrative/8.txt,no,,ADMIN,NO,NO,,1
-146,administrative/synthetic_47.txt,yes,,ADMIN,NO,NO,,1
-147,collaboration/synthetic_21.txt,yes,,COLLAB,YES,NO,,0
-148,administrative/synthetic_38.txt,yes,,ADMIN,NO,NO,,1
-149,administrative/synthetic_36.txt,yes,,ADMIN,NO,NO,,1
-150,collaboration/synthetic_46.txt,yes,,COLLAB,NO,NO,,1
-151,other/synthetic_18.txt,yes,,OTHER,NO,NO,,1
-152,recommendation/7.txt,no,,RECOM,NO,YES," Recommendation Letter Submission Deadline Approaching: Isabella reminds you to submit the recommendation letters for her Master's applications to UBC and McMaster University, as it is close to the deadline.",0
-153,recommendation/synthetic_38.txt,yes,,RECOM,NO,NO,,1
-154,curriculum/synthetic_36.txt,yes,,CURRICULUM,NO,NO,,1
-155,collaboration/synthetic_47.txt,yes,,COLLAB,YES,YES," Time-Sensitive Panel Inclusion for Grant Submission: Dr. Emily White invites you to an initial meeting next week for the ""Green Energy Solutions"" project, and urges a prompt response to finalize their panel of experts by the end of this week.",1
-156,recommendation/synthetic_35.txt,yes,,RECOM,NO,NO,,1
-157,other/synthetic_28.txt,yes,,OTHER,YES,YES, Confirmation Required for Upcoming Networking Event: You need to confirm your attendance for the Boston University Alumni Association's Networking Event by tomorrow at noon to finalize the attendee list and refreshment counts.,1
-158,administrative/synthetic_17.txt,yes,,ADMIN,NO,NO,,1
-159,other/1.txt,no,,OTHER,NO,NO,,1
-160,recommendation/10.txt,no,,RECOM,NO,NO,,1
-161,curriculum/synthetic_21.txt,yes,,CURRICULUM,NO,NO,,1
-162,administrative/3.txt,no,,ADMIN,NO,NO,,1
-163,other/synthetic_24.txt,yes,,OTHER,NO,NO,,1
-164,collaboration/synthetic_50.txt,yes,,COLLAB,NO,NO,,1
-165,recommendation/synthetic_43.txt,yes,,RECOM,NO,YES," Impending Deadline for Rhodes Scholarship Letter of Recommendation: Samantha reminds you to provide a letter of recommendation for the Rhodes Scholarship at Oxford, with the deadline approaching on April 15th.",0
-166,curriculum/synthetic_26.txt,yes,,CURRICULUM,NO,NO,,1
-167,curriculum/synthetic_12.txt,yes,,CURRICULUM,YES,NO,,0
-168,administrative/synthetic_16.txt,yes,,ADMIN,YES,YES," Rescheduling Required for Critical Budget Review Meeting: James Carter indicates an urgent need to reschedule the budget review meeting, initially set for March 15th, to next week for upcoming fiscal year planning, seeking your prompt availability.",1
-169,other/synthetic_36.txt,yes,,OTHER,NO,NO,,1
-170,curriculum/8.txt,no,,CURRICULUM,NO,YES, Accessibility Accommodations for Student with Low Vision: Veronica is requesting the textbook information and materials in digital format before the semester starts to ensure accessibility due to her low vision.,0
-171,curriculum/synthetic_27.txt,yes,,CURRICULUM,NO,NO,,1
-172,other/8.txt,no,,OTHER,NO,NO,,1
-173,collaboration/synthetic_24.txt,yes,,COLLAB,NO,NO,,1
-174,collaboration/synthetic_15.txt,yes,,COLLAB,NO,NO,,1
-175,curriculum/synthetic_22.txt,yes,,CURRICULUM,NO,NO,,1
-176,recommendation/synthetic_12.txt,yes,,RECOM,NO,YES," Response Needed for Student's Letter of Recommendation: Mark is following up on a previous request for a letter of recommendation for his application to Oxford University, expressing concern as the submission deadline is near.",0
-177,curriculum/synthetic_39.txt,yes,,CURRICULUM,NO,NO,,1
-178,curriculum/6.txt,no,,CURRICULUM,NO,NO,,1
-179,recommendation/synthetic_29.txt,yes,,RECOM,NO,NO,,1
-180,curriculum/synthetic_32.txt,yes,,CURRICULUM,NO,YES, Rescheduling Exam Due to Religious Observance: Naomi Klein requests you to consider allowing her to take the Cultural Anthropology exam on an alternative date due to the upcoming Yom Kippur holiday.,0
-181,administrative/synthetic_41.txt,yes,,ADMIN,YES,YES," Seminar Room Relocation on Short Notice: You're notified of a last-minute change for the location of your seminar scheduled for tomorrow due to maintenance issues, and you're asked to communicate any specific setup requirements immediately.",1
-182,administrative/synthetic_18.txt,yes,,ADMIN,NO,NO,,1
-183,curriculum/synthetic_43.txt,yes,,CURRICULUM,NO,NO,,1
-184,administrative/synthetic_49.txt,yes,,ADMIN,NO,YES," Impending Research Grant Application Deadline: Laura reminds you of the upcoming deadline for the research grant application on April 25th and offers assistance, highlighting the grant's relevance to your renewable energy project.",0
-185,administrative/synthetic_28.txt,yes,,ADMIN,NO,NO,,1
-186,curriculum/synthetic_24.txt,yes,,CURRICULUM,NO,YES, Student Trouble Accessing Online Homework: Ryan reports trouble accessing the online homework platform for your Statistics 101 class with urgency due to an impending assignment deadline and seeks your guidance or referral to technical support.,0
-187,collaboration/2.txt,no,,COLLAB,NO,NO,,1
-188,curriculum/synthetic_38.txt,yes,,CURRICULUM,NO,YES," Clarification on Project Deadline Required: Alex is urgently seeking confirmation on the correct deadline for the HIS 340 final project due to conflicting dates, noting a prompt response will aid in planning.",0
-189,other/synthetic_16.txt,yes,,OTHER,NO,NO,,1
-190,administrative/synthetic_39.txt,yes,,ADMIN,NO,NO,,1
-191,recommendation/synthetic_22.txt,yes,,RECOM,NO,NO,,1
-192,administrative/synthetic_26.txt,yes,,ADMIN,YES,YES," Lecture Room Relocation on Short Notice: Your lecture for tomorrow at 10:00 AM has been moved to Room 204 in the East Wing due to an HVAC issue in Hall B, and you need to inform your students about this change immediately.",1
-193,other/synthetic_47.txt,yes,,OTHER,NO,NO,,1
-194,other/6.txt,no,,OTHER,NO,NO,,1
-195,administrative/synthetic_43.txt,yes,,ADMIN,NO,NO,,1
-196,collaboration/synthetic_34.txt,yes,,COLLAB,NO,NO,,1
-197,other/synthetic_50.txt,yes,,OTHER,NO,NO,,1
-198,collaboration/synthetic_30.txt,yes,,COLLAB,NO,NO,,1
-199,recommendation/synthetic_45.txt,yes,,RECOM,NO,NO,,1
+Unnamed: 0,filename,synthetic,reference,category,time_sensitive,urgent,summary,correct_urgency,reasoning
+0,recommendation/9.txt,no,,RECOM,NO,NO,,1,"
+This email is non-urgent: It concerns a repeat action of sending a letter of recommendation without specifying a tight deadline or an immediate action required."
+1,curriculum/synthetic_44.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It discusses a group conflict and seeks advice, which can be provided during the next class or office hours, indicating that immediate attention is not required."
+2,other/synthetic_48.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is an invitation to a future art exhibition without any immediate action required by you."
+3,recommendation/synthetic_27.txt,yes,,RECOM,YES,YES,"Immediate Assistance Required for Letter of Recommendation: Emily urgently asks you to provide a letter of recommendation for the Stanford Data Science program, with the deadline approaching next week.",1,"This email is urgent: The email is clearly marked as urgent in the subject, and the content reflects the immediate need for a letter of recommendation with a looming deadline."
+4,curriculum/4.txt,no,,CURRICULUM,YES,YES,Request for a Paper Extension Due to Illness: Jack Seward requests an extension for a paper in your VAM 102 course and proposes a new deadline of the morning of the 28th.,1,"This email is urgent: The student is seeking a prompt response to secure an extension due to illness, demonstrating the email's time-sensitive nature in needing to meet academic deadlines."
+5,administrative/synthetic_48.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent: It is a gentle reminder about a scheduled faculty meeting with no immediate action required before the stated date."
+6,other/synthetic_30.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is a promotional message offering a discount on journals that does not require immediate attention or action."
+7,other/synthetic_35.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is a standard subscription confirmation request without any immediate deadlines or actions that would impact the recipient's professional obligations."
+8,curriculum/synthetic_15.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It is a straightforward inquiry about project guidelines without indicating immediate action is needed."
+9,administrative/synthetic_33.txt,yes,,ADMIN,NO,YES,"Schedule Meeting to Manage Budget Cuts for Research Assistants: Janet requires you to schedule a meeting next week to discuss the reduced budget for research assistants, potentially impacting your current project.",0,"This email is judged as urgent since it deals with time-sensitive budget cuts affecting the recipient's research funding, necessitating an immediate scheduling of a discussion."
+10,collaboration/synthetic_13.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: The content is a thank-you note with no immediate action required or deadlines mentioned."
+11,recommendation/synthetic_37.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: It is a polite follow-up on a previously discussed recommendation letter without mentions of a deadline or immediate need."
+12,administrative/1.txt,no,,ADMIN,NO,NO,,1,"
+This email is non-urgent: Isabella is expressing interest in applying for a SURE project and hopes to participate in future research, but there are no immediate deadlines or time-sensitive elements mentioned."
+13,administrative/synthetic_46.txt,yes,,ADMIN,YES,YES,"Budget Approval Required for Workshop Preparation: Megan urges you to provide timely approval for the budget proposal related to the ""Data Science in Education"" workshop, with deadlines for vendor payments and marketing efforts looming.",1,This email is urgent: It specifies an approaching deadline and emphasizes the need for your immediate action to maintain the event timeline.
+14,administrative/synthetic_35.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent: It is a gentle reminder about a scheduled event with an option for rescheduling, lacking a tone of immediacy or a tight deadline."
+15,collaboration/synthetic_20.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It involves a potential collaboration opportunity and proposes a meeting without indicating any immediate deadline or action required."
+16,collaboration/synthetic_17.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It expresses gratitude and eagerness to collaborate but does not mention any time-sensitive actions or deadlines that require immediate attention."
+17,collaboration/synthetic_14.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It is a follow-up and polite inquiry regarding a previous proposal with no indication of an immediate deadline or time-sensitive action required from you."
+18,curriculum/synthetic_25.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It is a routine request to reschedule office hours without immediate time constraints or an indication of needing urgent action."
+19,administrative/5.txt,no,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent: It is a standard inquiry about potential research opportunities, without mentioning any specific deadlines or events that would necessitate immediate action."
+20,administrative/synthetic_13.txt,yes,,ADMIN,NO,YES,"Rescheduled Faculty Recruitment Committee Meeting: The meeting originally scheduled for April 25th has been moved to April 27th, from 10:00 to 11:30 AM, and your input is necessary for discussing prospective tenure-track candidates.",0,This email is urgent: It contains a new meeting date that requires immediate attention in order to adjust schedules and maintain participation in a critical committee process.
+21,collaboration/synthetic_18.txt,yes,,COLLAB,YES,YES,"Urgent Coordination Needed for Research Collaboration: Dr. Müller from Bayer Materials Science AG is urging you to organize a joint session to integrate new alloys into the test bed, with a schedule needing finalization by the end of the week.",1,"This email is urgent: The sender emphasizes the ""tight project timeline"" and the necessity of finalizing the joint research schedule by the end of the week, indicating a time-sensitive issue."
+22,curriculum/synthetic_45.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: Eli James is inquiring about extra credit through a study participation offer, which does not demand immediate attention."
+23,recommendation/4.txt,no,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: The student politely requests a letter of reference for a graduate application while indicating flexibility and understanding of the professor's schedule without mentioning a specific urgent deadline."
+24,collaboration/synthetic_26.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It introduces a potential partnership opportunity without any immediate deadlines or time-sensitive requests."
+25,recommendation/synthetic_49.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: It is a simple expression of gratitude for a reference letter provided by you, with no immediate action required or time-sensitive issues stated."
+26,curriculum/synthetic_31.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It requests a meeting to discuss term paper topics but does not express any immediate deadline or sense of urgency."
+27,other/synthetic_11.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It advertises a book sale with a discount offer, lacking immediate academic responsibilities or actions that require the professor's prompt attention."
+28,other/synthetic_46.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It contains warm birthday wishes without any time-sensitive requests or academic-related urgency."
+29,recommendation/synthetic_28.txt,yes,,RECOM,NO,YES,"Follow-Up on Recommendation for Job Application: Raj reminds you about the recommendation letter for Orbital Technologies, with the deadline on April 18th approaching.",0,"This email is urgent: It specifically mentions that the deadline is ""fast approaching"" and follows-up on a previous discussion, indicating the need for a swift response."
+30,collaboration/synthetic_48.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It thanks you for a previous presentation and extends a non-time-sensitive invitation to discuss future collaboration."
+31,other/synthetic_41.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is an invitation to a social event without any immediate academic action required from the professor."
+32,curriculum/synthetic_47.txt,yes,,CURRICULUM,YES,NO,,0,"
+This email is non-urgent: The student is requesting clarification on a possible homework typo to be addressed in the next lecture, without expressing immediate necessity."
+33,curriculum/9.txt,no,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It is a request for confirmation of an exam due date without indicating an immediate need for a response."
+34,administrative/synthetic_27.txt,yes,,ADMIN,NO,YES,Mandatory Faculty Budget Meeting This Thursday: You are reminded of a critical budget meeting for the Biology Department on Thursday at 2 PM where your input is essential.,0,"This email is urgent: It mentions a scheduled meeting within a few days which requires your crucial participation and input, indicative of the significance and time-sensitivity."
+35,other/synthetic_42.txt,yes,,OTHER,YES,NO,,0,"
+
+This email is non-urgent: It is a reminder about a community event with a registration deadline that is not immediate or specifically academic-related."
+36,recommendation/synthetic_13.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: It is a thank-you message for submitting a recommendation letter with no immediate action needed from you."
+37,collaboration/synthetic_11.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is an invitation to discuss potential collaboration without specifying a need for immediate response or action."
+38,collaboration/synthetic_43.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is a professional inquiry about setting up a partnership, and there is no immediate deadline or action required."
+39,recommendation/synthetic_26.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: It is a polite request for a letter of recommendation, but no specific deadline or sense of immediate action is indicated within the content."
+40,administrative/2.txt,no,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent: It's a student expressing interest in the professor's work and seeking an opportunity to discuss research interests, without immediate deadlines or time-sensitive requests."
+41,curriculum/10.txt,no,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It simply asks for clarification on the citation style to be used for an upcoming assignment, and the due date is not indicated as immediately approaching."
+42,collaboration/synthetic_41.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: The content of the email is a polite expression of interest in potential collaboration and does not indicate any time-sensitive requirements."
+43,collaboration/10.txt,no,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is a formal letter of collaboration confirmation that does not specify any immediate action or deadlines."
+44,recommendation/synthetic_23.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: It expresses gratitude and seeks an update on the recommendation letter submission without indicating an immediate deadline or necessitating urgent action."
+45,other/9.txt,no,,OTHER,NO,YES,"Reminder to Vote in EUS Elections: You are reminded to vote in the 2023-2024 EUS Departmental Elections, By-Election, and Winter Referendum before the closing deadline on 2023-03-27 at 17:00.",0,This email is urgent: Due to an impending voting deadline that requires immediate action by the recipient.
+46,collaboration/synthetic_35.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It expresses gratitude for a past event and suggestions for future collaboration, without immediate action required or a time-sensitive element."
+47,other/synthetic_39.txt,yes,,OTHER,NO,YES,"Urgent Request to Serve as a Poetry Slam Judge: Sarah, the Literary Society President, urgently requests for you to join the judging panel for the annual campus Poetry Slam on March 15th, emphasizing the need for your literary expertise.",0,"This email is urgent: It contains a time-sensitive invitation for an event happening on March 15th, and conveys a sense of immediacy in the tone regarding the event preparations."
+48,curriculum/synthetic_33.txt,yes,,CURRICULUM,NO,YES,Urgent Request to Address Missed Lab due to Family Emergency: Anita informs you of her need to miss the upcoming Biol 202 Thursday lab due to a family emergency and seeks guidance on making it up.,0,"This email is urgent: It includes a time-sensitive request due to a recent unforeseen circumstance, emphasizing the need for an immediate resolution for missing the upcoming lab session."
+49,collaboration/3.txt,no,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It expresses interest in future collaboration and support, without specifying a time-sensitive action or immediate decision-making requirement."
+50,collaboration/synthetic_31.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is an invitation to collaborate without any specific time-sensitive actions required immediately from you."
+51,administrative/synthetic_21.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It is a straightforward inquiry regarding the application process for a sabbatical that appears to be for the next year and lacks immediate time constraints."
+52,recommendation/synthetic_25.txt,yes,,RECOM,NO,NO,,1,", This email is non-urgent: While the email mentions an approaching deadline for a recommendation letter, Sylvia's polite and gentle reminder does not convey immediate urgency and the deadline is not imminent."
+53,collaboration/synthetic_33.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is an invitation to a future event without a specified deadline, allowing for a more flexible response time."
+54,other/synthetic_32.txt,yes,,OTHER,NO,NO,,1,"
+
+This email is non-urgent: It is an invitation to an event that is scheduled for next month, without any immediate action required or time-sensitive elements stated."
+55,curriculum/synthetic_23.txt,yes,,CURRICULUM,YES,NO,,0,"
+
+This email is non-urgent: It details a group project issue that can be addressed in due time without immediate action required, and there is no mention of an imminent deadline in the message."
+56,other/synthetic_44.txt,yes,,OTHER,YES,YES,"Photo Permission Needed by Friday for Yearbook: Sarah requests your prompt permission to include a photo of you in the ""Professors of the Year"" section of the university yearbook, with a submission deadline this Friday.",1,"This email is urgent: Sarah specifies an upcoming deadline this Friday for the photo submission, requiring an immediate response."
+57,curriculum/synthetic_17.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: The student is inquiring about course content for future enrollment without expressing any immediate need or time-sensitive issue."
+58,collaboration/synthetic_49.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It is a follow-up thank you note and does not contain any time-sensitive requests or information that would require immediate attention."
+59,other/2.txt,no,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is a reminder about the Fall 2023 graduation application and approval deadlines sent to students, not a direct and time-sensitive request to the recipient, a university professor."
+60,other/5.txt,no,,OTHER,NO,NO,,1,"
+This email is non-urgent: It offers information about election information sessions and participation in governance but does not require immediate action or attention."
+61,curriculum/synthetic_28.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It poses a clarification question about midterm exam chapters which does not require immediate attention."
+62,other/10.txt,no,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is a general invitation with a registration deadline that is not immediate and does not require urgent action by a professor."
+63,recommendation/synthetic_46.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: The student politely asks for a recommendation letter without indicating any immediate deadline or sense of urgency."
+64,recommendation/synthetic_30.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: It contains a request for a letter of recommendation with a deadline, but the tone is polite and not pressing, and the deadline is not indicated as immediate or very close."
+65,administrative/synthetic_40.txt,yes,,ADMIN,NO,YES,"Pending Annual Performance Review Documentation: You are reminded to submit your annual performance review by the fast-approaching June 30th deadline, essential for tenure and promotion considerations.",0,"
+This email is urgent: It communicates a firm deadline for a task critical to your academic career progression and linked to tenure and promotion evaluations."
+66,curriculum/5.txt,no,,CURRICULUM,NO,NO,,1,"
+
+This email is non-urgent: It's a student seeking clarification during office hours, with flexibility expressed regarding the timing of a possible meeting."
+67,other/synthetic_33.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It's a warm birthday greeting without any time-sensitive requests or immediate actions needed from you."
+68,administrative/synthetic_50.txt,yes,,ADMIN,NO,YES,"Crucial Faculty Meeting Regarding New Student Feedback Mechanism: You are invited to attend a meeting on April 15th to discuss implementing a new feedback system, with an RSVP required by April 10th.",0,"This email is urgent: It contains an invitation to a scheduled meeting concerning a significant initiative with a specific date and an RSVP deadline, necessitating your timely response."
+69,curriculum/synthetic_37.txt,yes,,CURRICULUM,YES,NO,,0,"
+This email is non-urgent: The student is requesting a meeting during office hours without mentioning an immediate deadline or conveying a sense of urgency."
+70,recommendation/synthetic_33.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: It is a thank-you note expressing gratitude for a recommendation letter previously provided, with no immediate action or time-sensitive request involved."
+71,collaboration/synthetic_40.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It is an invitation for potential collaboration and doesn't contain any immediate deadlines or actions that require urgent attention."
+72,recommendation/synthetic_48.txt,yes,,RECOM,NO,YES,Confirmation of Recommendation Letter for PhD Position: Sophia is following up regarding a recommendation letter you discussed for her upcoming PhD application deadline in two weeks.,0,"This email is urgent: It mentions a specific upcoming deadline for a PhD program application, indicating time-sensitivity and a need for your timely response."
+73,collaboration/5.txt,no,,COLLAB,YES,YES,"Response Needed for Research Collaboration: Wallace from Baker & McKenzie urgently requests you to confirm interest in a collaboration on ""Laboratory for Information Globalization and Harmonization Technologies and Studies"" by the end of this week and to schedule an initial meeting by the 15th.",1,"This email is urgent: It emphasizes the need for immediate action by mentioning the firm's ""crucial planning phase"" and deadlines for both confirmation and meeting scheduling within specific time frames."
+74,recommendation/synthetic_20.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: The student is asking for a reference for a summer internship without indicating an immediate deadline or urgency in the content."
+75,other/synthetic_22.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is a holiday greeting with warm wishes, without any time-sensitive requests or information that requires immediate attention."
+76,collaboration/synthetic_36.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It contains a professional outreach for potential collaboration without any specific time-sensitive request or deadline."
+77,curriculum/1.txt,no,,CURRICULUM,NO,YES,"Confirmation Needed for Essay Deadline: Jes seeks clarification on the final essay deadline for the Old English course, noting a discrepancy between the syllabus and what was stated in class.",0,"This email is urgent: It contains a time-sensitive inquiry about an academic deadline, which requires immediate attention to prevent potential confusion and ensure the student can submit on time."
+78,administrative/synthetic_30.txt,yes,,ADMIN,NO,YES,Required Faculty Documentation for Accreditation: The email urgently requests you to provide detailed syllabi and outcome assessments for courses taught over the past year by April 15th to meet the Accreditation Committee's deadline.,0,This email is urgent: It contains clear deadlines and emphasizes the necessity of your quick response to maintain the university's accreditation status.
+79,administrative/synthetic_15.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent: The email contains confirmation details and a reminder to inform about any additional requirements by the end of the week but does not imply an immediate action is required."
+80,recommendation/synthetic_32.txt,yes,,RECOM,NO,YES,"Reminder for Recommendation Letter: Mark urgently follows up on his previous email, reminding you of the imminent April 15th deadline for the recommendation letter he seeks for a job application.",0,"This email is urgent: It mentions a follow-up on a previous request for a recommendation letter with an approaching deadline, which requires immediate attention."
+81,administrative/synthetic_37.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It gives advance notice about office relocation with no immediate action required before next Monday."
+82,administrative/synthetic_11.txt,yes,,ADMIN,NO,YES,"Participation Required at Budget Review Meeting: You are reminded of the annual Departmental Budget Review meeting scheduled for Tuesday, April 18th, where your presence and input on the fiscal year's budget are critical.",0,"This email is urgent: The reminder specifies a set date and time for a significant meeting, emphasizing the importance of your presence and the need for prior review of budget documents."
+83,curriculum/synthetic_35.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It requests additional material on a lecture topic but does not express a time-sensitive need or immediate deadline."
+84,collaboration/synthetic_37.txt,yes,,COLLAB,YES,YES,Confirmation Required for Consortium Participation: You are invited to join a cutting-edge automotive sensor project and need to respond by end of day April 10th to participate in the kick-off meeting scheduled for April 15th.,1,"This email is urgent: The sender requests a confirmation by a specific deadline (EOD April 10th) and there is an upcoming related event (kick-off meeting on April 15th), pointing to the time-sensitive nature of the invitation."
+85,curriculum/synthetic_48.txt,yes,,CURRICULUM,NO,YES,"Request for Project Deadline Extension Due to Illness: Annie respectfully asks for a project deadline extension to November 22 for COMP SCI 455, due to group members being ill with flu.",0,"This email is urgent: The request is time-sensitive considering the approaching deadline, and Annie emphasizes the need for a prompt response to adjust their work schedule."
+86,other/synthetic_34.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is a promotional message offering a discount that does not require immediate academic attention."
+87,administrative/9.txt,no,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It is a general inquiry about research assistant positions and does not contain any time-sensitive requests or implications of immediate action needed."
+88,recommendation/synthetic_31.txt,yes,,RECOM,YES,YES,"Letter of Recommendation Needed Before May 1st: Emily is requesting a letter of recommendation for her Master's application due by May 1st, highlighting your familiarity with her academic work.",1,"This email is urgent: References a specific, impending deadline for the recommendation letter, indicating the request is time-sensitive."
+89,recommendation/synthetic_17.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: It is simply a thank you note without any time-sensitive requests or information."
+90,recommendation/synthetic_19.txt,yes,,RECOM,NO,YES,"Verification of Recommendation Letter Submission: Sarah is verifying if you've sent the recommendation letter for her Rhodes Scholarship application, as the committee is finalizing applications by the end of this week.",0,This email is urgent: It indicates a deadline is approaching for the completion of application materials and emphasizes the importance of the task.
+91,administrative/synthetic_19.txt,yes,,ADMIN,NO,YES,"Invitation to Serve with Upcoming Deadline: You are invited to join the Tenure Review Committee, and your response is needed by April 10th.",0,"This email is urgent: It includes an invitation with a specific deadline for a response, indicating a time-sensitive commitment required from you."
+92,recommendation/synthetic_24.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: While it is a request for a recommendation, the email does not specify a tight deadline or convey a sense of immediate action required."
+93,administrative/synthetic_42.txt,yes,,ADMIN,NO,YES,"Urgent Reminder for Student Evaluation Forms Submission: Susan reminds you that the student evaluation forms for the Winter term courses are due by April 7th, and your timely submission is crucial.",0,This email is urgent: It contains a deadline for an academic administrative task that requires prompt action and is related to improving course quality and student satisfaction.
+94,recommendation/synthetic_47.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: It does not specify a time-sensitive nature or an immediate deadline for the reference letter, and the tone does not convey urgency."
+95,other/synthetic_27.txt,yes,,OTHER,YES,YES,"Immediate Action Required for Lost Item: James urgently requests that you look for his blue spiral notebook, left in your lecture hall, as it is critical for his thesis defense scheduled for this Friday, April 7th.",1,"
+This email is urgent: The student is anxious and specifically emphasizes the imminent date of their thesis defense, indicating an immediate need for response and action."
+96,collaboration/synthetic_44.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It expresses gratitude and references a future action planned (sending a collaboration agreement next Wednesday) but does not require immediate action or response."
+97,recommendation/synthetic_39.txt,yes,,RECOM,NO,YES,Pending Reference Letter for Masters Program: Alex reminds you to write an agreed reference letter for their upcoming application deadline at the University of British Columbia.,0,"
+This email is urgent: It mentions an approaching application deadline and emphasizes the importance of the professor's support for the student's application."
+98,other/synthetic_43.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: The student is casually asking for a banana bread recipe, which is not a time-sensitive academic matter."
+99,other/synthetic_29.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It requests feedback on a museum exhibit with a flexible timeline, aiming for before the public opening next month."
+100,administrative/10.txt,no,,ADMIN,NO,NO,,1,"
+This email is non-urgent: The student is expressing interest in future research opportunities without a specified deadline and has a polite tone that implies flexibility on appointment times."
+101,recommendation/synthetic_50.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: It is a polite request for a reference letter without mention of an immediate deadline or time-sensitive material."
+102,collaboration/synthetic_27.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It proposes a potential collaboration and a meeting for a future date without indicating an immediate deadline or a need for an urgent response."
+103,administrative/synthetic_12.txt,yes,,ADMIN,NO,NO,,1,"
+This email is not urgent: While the student needs assistance with the course schedule, there is no mention of an immediate deadline or a situation that would require a prompt response."
+104,administrative/synthetic_14.txt,yes,,ADMIN,NO,YES,"Mandatory Compliance Training Completion Required: You are reminded to complete the mandatory ""Ethical Conduct in Research"" training by May 1st in order to remain compliant with the university policies.",0,This email is urgent: It indicates an impending deadline for a mandatory action required to maintain good standing with university policies.
+105,collaboration/synthetic_12.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It's a business proposition for a potential future collaboration without mention of immediate deadlines or time-sensitive requirements."
+106,recommendation/6.txt,no,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: The student is following up on a previously discussed topic and does not indicate any immediate deadline or sense of urgency in the content."
+107,collaboration/synthetic_29.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is a follow-up message seeking feedback but does not express any time-critical demands or deadlines."
+108,collaboration/synthetic_25.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is a thank you note expressing appreciation for a lecture series and mentions potential future collaborations but lacks any immediate action or deadline."
+109,other/synthetic_26.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is just a notification of a scheduling change for a book club meeting, which does not require immediate attention."
+110,collaboration/synthetic_19.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is a polite request for expertise that does not express any immediate deadlines or time-sensitive actions."
+111,curriculum/synthetic_41.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is non-urgent: It requests clarification for a term paper with no indication of any pressing deadline or immediate attention required."
+112,collaboration/8.txt,no,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It's a confirmation of interest in research collaboration without mentioning any specific deadlines or immediate action required."
+113,other/synthetic_21.txt,yes,,OTHER,NO,NO,,1,"
+This email is not urgent: It simply communicates a change of address for future correspondence without any time-sensitive requests or implications for immediate action."
+114,recommendation/synthetic_15.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: The tone is polite and not pressing, and the deadline for the recommendation letter is not immediate, allowing some time to respond."
+115,collaboration/synthetic_39.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: The email is an invitation for potential future collaboration, without mentioning a specific deadline or immediate action required."
+116,collaboration/synthetic_28.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It is an invitation to discuss potential collaboration without any immediate deadlines or time-sensitive requests."
+117,collaboration/synthetic_22.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It expresses gratitude for a recent meeting with no immediate action or deadline directed towards the recipient."
+118,curriculum/synthetic_34.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is non-urgent: It requests clarification on an assignment, but it lacks a sense of immediate necessity or a specific deadline that requires prompt action."
+119,curriculum/synthetic_18.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: While it raises a concern regarding lab equipment handling, it suggests a solution to be considered for the next lab session and does not require immediate attention."
+120,curriculum/synthetic_16.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: The student is asking for clarification on grading for a project, with no time-sensitive or immediate action required from you."
+121,recommendation/3.txt,no,,RECOM,NO,NO,,1,"
+This email is non-urgent: It is a polite request for an academic reference letter, but no specific deadline or sense of immediate action is mentioned in the email content."
+122,recommendation/synthetic_14.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: Although Jacob is asking for a recommendation letter, he specifies that the application deadline is May 30th, which does not indicate an immediate need for response or action."
+123,collaboration/9.txt,no,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It expresses general interest and willingness to collaborate on future projects without specifying any immediate action or deadlines for the recipient."
+124,curriculum/synthetic_46.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: While the student is experiencing issues accessing course materials, there is no immediate deadline or tone of urgency indicated in the email's content."
+125,curriculum/synthetic_13.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: While it pertains to an unexpected family emergency, the student is asking for protocol and any available resources to keep up, which indicates that this issue can be addressed in a non-immediate fashion."
+126,administrative/synthetic_29.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent: It informs you about a new policy starting next month and does not require immediate action, merely advises to account for the new process in future planning."
+127,recommendation/synthetic_36.txt,yes,,RECOM,NO,NO,,1,"
+This email is not urgent: It is a polite request without mentioning any specific deadlines or time-sensitive elements."
+128,administrative/synthetic_23.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It requests voluntary participation in an upcoming event with a deadline for response being April 1st, which does not imply immediate action."
+129,collaboration/synthetic_45.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: While it proposes a consultancy role, it lacks immediate time-sensitive action items or deadlines for the professor to address."
+130,other/synthetic_49.txt,yes,,OTHER,NO,NO,,1,"
+
+This email is non-urgent: It is an invitation to participate in a survey without any specified deadline or immediate action required."
+131,recommendation/synthetic_21.txt,yes,,RECOM,YES,YES,"Request for a Timely Letter of Recommendation: Jordan is asking for a recommendation letter for a Master's application at MIT due in two weeks, emphasizing the importance of your reference.",1,"This email is urgent: It asks for immediate action on a recommendation letter with a clear deadline, stressing the significance of your contribution to the application."
+132,other/synthetic_25.txt,yes,,OTHER,NO,NO,,1,"
+
+This email is non-urgent: It is a gentle reminder about an upcoming event with no indication of immediate action or time-sensitive obligation for the professor."
+133,administrative/4.txt,no,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It shows interest in discussing research opportunities and scheduling a meeting, without mentioning any specific time-sensitive requirements."
+134,other/synthetic_38.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: Despite expressing a need for assistance with login issues, there is no immediate deadline or sense of urgency conveyed in the request."
+135,other/synthetic_19.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It's a friendly catch-up message with no indication of time-sensitive content or immediate action required."
+136,collaboration/synthetic_32.txt,yes,,COLLAB,NO,NO,,1,"
+This email is not urgent: It is an initial inquiry about potential collaboration and does not mention any time-sensitive deadlines or actions required immediately."
+137,collaboration/synthetic_42.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It is an invitation to a future event with no immediate action required and no indication of a deadline for a response."
+138,other/4.txt,no,,OTHER,NO,NO,,1,"
+This email is non-urgent: While it provides information about a test of the Alert Ready system, it does not require immediate academic-related action from you."
+139,other/synthetic_15.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It advertises a book sale starting next Monday, allowing sufficient time for the recipient to act and lacking immediate action or time-sensitive elements."
+140,other/synthetic_40.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It provides an invitation to a future event with an RSVP deadline that is not immediate and does not require urgent action."
+141,collaboration/6.txt,no,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It expresses interest in collaboration on the LIGHTS research but does not contain any time-sensitive requests or deadlines."
+142,curriculum/3.txt,no,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It merely requests an appointment to discuss a grade, with no indication of immediate attention required or a time-sensitive issue."
+143,administrative/synthetic_45.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It provides advance notice for a faculty meeting and a deadline for adding items to the agenda, without immediate action required."
+144,curriculum/synthetic_20.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: The student is politely requesting the lecture slides for reviewing purposes without indicating any immediate deadlines or expressing a pressing need for them."
+145,administrative/8.txt,no,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It's a general inquiry about volunteer research opportunities and does not contain any time-sensitive requests or deadlines."
+146,administrative/synthetic_47.txt,yes,,ADMIN,NO,YES,Scheduling Meeting for Curriculum Revision: Dr. Susan Choi requests a meeting with you and the curriculum committee to finalize changes to the undergraduate business program before the new academic year starts in September.,0,This email is urgent: The sender is asking to schedule a meeting next week to address changes that need to be finalized before an impending deadline—the start of the new academic year.
+147,collaboration/synthetic_21.txt,yes,,COLLAB,YES,NO,,0,"
+
+This email is non-urgent: It is a professional invitation to discuss potential joint research and does not emphasize an immediate response or action before a specified deadline."
+148,administrative/synthetic_38.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It is a general call for nominations with a deadline more than two weeks away, not requiring immediate action."
+149,administrative/synthetic_36.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: While it does provide important information concerning a faculty meeting and requests the professor's review of materials, the meeting is scheduled for a future date and there is no immediate action required beyond preparing for the meeting."
+150,collaboration/synthetic_46.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is a professional inquiry regarding potential collaboration without a specific deadline or immediate call to action."
+151,other/synthetic_18.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It requests a casual meeting for life advice which is not time-sensitive and lacks any immediate deadlines."
+152,recommendation/7.txt,no,,RECOM,NO,YES,Reminder for a Letter of Recommendation Submission: Isabella reminds you to submit the letters of recommendation for her Master's applications to UBC and McMaster University as the deadline is near.,0,"This email is urgent: Isabella mentions that it is close to the recommendation submission deadline, indicating time-sensitivity and the need for prompt action."
+153,recommendation/synthetic_38.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: It is a thank-you note that does not require immediate attention or action."
+154,curriculum/synthetic_36.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is not urgent: The question about assignment guidelines does not convey an immediate need for a response, and there is no evidence of a time-sensitive deadline."
+155,collaboration/synthetic_47.txt,yes,,COLLAB,YES,YES,"Urgent Collaboration Request for ""Green Energy Solutions"" Project: Dr. Emily White is seeking a prompt response from you regarding participation in a meeting next week for a new academic-industry partnership project, with a deadline to finalize the panel by the end of this week for grant purposes.",1,This email is urgent: It emphasizes the necessity for a prompt response due to an upcoming grant submission deadline and the need to finalize the panel of experts within a short time frame.
+156,recommendation/synthetic_35.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent: There is a reasonable amount of time until the deadline (June 10th), and the tone of the email is polite and not conveying an immediate need for action."
+157,other/synthetic_28.txt,yes,,OTHER,YES,YES,Confirmation Required for Upcoming Networking Event: Catherine urgently requires your attendance confirmation by tomorrow at noon for the Alumni Networking Event this Thursday.,1,"This email is urgent: It requests immediate action, specifying a deadline of ""tomorrow at noon"" for the RSVP, indicating clear time-sensitivity."
+158,administrative/synthetic_17.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It expresses interest in a role and requests a meeting, but there is no indication of a time-sensitive need or immediate action required."
+159,other/1.txt,no,,OTHER,NO,NO,,1,"
+
+This email is non-urgent: It introduces a new course offering without indicating a deadline or immediate action required by the recipient."
+160,recommendation/10.txt,no,,RECOM,NO,NO,,1,"
+This email is non-urgent: It expresses a polite request for supervision and a letter of recommendation without specifying any immediate deadline or time-sensitive matter."
+161,curriculum/synthetic_21.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It is a general inquiry about the project submission process and does not contain any immediate deadline or time-sensitive action required from you."
+162,administrative/3.txt,no,,ADMIN,NO,NO,,1,"
+This email is not urgent: It is an introductory email from a student interested in joining the research group, and it does not express any time-sensitive requests or deadlines."
+163,other/synthetic_24.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: While it involves academic interest, requesting a chat over coffee next week does not require immediate attention."
+164,collaboration/synthetic_50.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: It is an invitation for future collaboration without specifying immediate action or a tight deadline."
+165,recommendation/synthetic_43.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: While it is a follow-up on a previous request, it does not convey immediate urgency nor does it indicate a rapidly approaching deadline. The tone is gentle and polite."
+166,curriculum/synthetic_26.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It is a polite advance notice about a student, Melanie Turner, missing a single class due to a medical appointment, with no immediate action required from the professor."
+167,curriculum/synthetic_12.txt,yes,,CURRICULUM,YES,NO,,0,"
+This email is non-urgent: It is an academic inquiry that does not indicate a pressing deadline or need for immediate attention."
+168,administrative/synthetic_16.txt,yes,,ADMIN,YES,YES,"Rescheduling of Critical Budget Review Meeting: James requests you provide your availability next week to reschedule an urgent budget review meeting, critical to the fiscal year planning.",1,"This email is urgent: It mentions an ""unforeseen scheduling conflict"" and the critical nature of the meeting for fiscal year planning, requiring a prompt response for rescheduling."
+169,other/synthetic_36.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It simply shares photos from a recent reunion party and does not convey any time-sensitive messages or requests that require immediate attention."
+170,curriculum/8.txt,no,,CURRICULUM,NO,YES,Accommodation Resources Needed Before Semester Starts: Veronica requests the textbook names/ISBNs for the semester to ensure she has accessible formats available due to her low vision and associated accommodations.,0,"
+This email is urgent: It addresses the need for timely academic accommodations related to accessibility, indicating that the materials are required before the semester begins."
+171,curriculum/synthetic_27.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: The student is asking for feedback on a research paper topic, but there is no indication of an immediate deadline or time-sensitive requirement."
+172,other/8.txt,no,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is an informative notice about an award opportunity with a deadline that is not immediate."
+173,collaboration/synthetic_24.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is an invitation to beta-test a new platform with no immediate deadline or time-sensitive request mentioned."
+174,collaboration/synthetic_15.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: Although it proposes a potential collaboration, there is no immediate action or time-sensitive obligation indicated in the content of the email."
+175,curriculum/synthetic_22.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It concerns a request for a meeting to discuss a course project topic, and the student expresses flexibility in scheduling without indicating immediate action is required."
+176,recommendation/synthetic_12.txt,yes,,RECOM,NO,YES,"Letter of Recommendation Follow-Up: Mark reminds you about the letter of recommendation for his Oxford University graduate application, expressing concern as the deadline is fast approaching.",0,"
+This email is urgent: Mark references a looming submission deadline and expresses anxiety due to the lack of response, which indicates the time-sensitive nature of his request."
+177,curriculum/synthetic_39.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: George is seeking initial feedback on a group project and asking for a meeting during your office hours next week, which does not signify an immediate action required."
+178,curriculum/6.txt,no,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It is an apology for a past absence with no immediate action or deadline indicated."
+179,recommendation/synthetic_29.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: It expresses gratitude for a recommendation letter already provided and does not contain any time-sensitive requests or actions."
+180,curriculum/synthetic_32.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It is a respectful request for an accommodation that does not require immediate action, as Yom Kippur is typically known in advance, and arrangements can be made accordingly."
+181,administrative/synthetic_41.txt,yes,,ADMIN,YES,YES,"Seminar Location Change: Your seminar for tomorrow has been moved to Lecture Hall in Building C, Room 101, due to a last-minute maintenance issue.",1,"This email is urgent: It communicates a change in location for a seminar scheduled for the next day, requiring immediate attention to ensure you're aware and can prepare accordingly."
+182,administrative/synthetic_18.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It is an invitation to a social event with an RSVP deadline that is not immediate and does not require an urgent response."
+183,curriculum/synthetic_43.txt,yes,,CURRICULUM,NO,NO,,1,"
+This email is non-urgent: It informs you about a student's absence from upcoming lectures and requests notes or materials but lacks immediate urgency or time-sensitive actions."
+184,administrative/synthetic_49.txt,yes,,ADMIN,NO,YES,"Grant Application Assistance before Deadline: Laura Stevens is checking in on the research grant application due on April 25th, offering help with paperwork or guidelines to support your research on renewable energy solutions.",0,"This email is urgent: The sender references an approaching deadline and offers assistance, implying the importance and time-sensitivity of the grant application process."
+185,administrative/synthetic_28.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent: Although it requests the professor's participation for an upcoming event, the tone is polite and there is no indication of a pressing deadline or immediate attention required."
+186,curriculum/synthetic_24.txt,yes,,CURRICULUM,NO,YES,"Difficulty Accessing Academic Tools: Ryan reports being unable to access the online homework platform, facing an approaching assignment deadline.",0,"This email is urgent: It involves time-sensitive academic work, with the student facing technical barriers to completing an upcoming assignment."
+187,collaboration/2.txt,no,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It simply expresses gratitude for past assistance with no time-sensitive action required from you."
+188,curriculum/synthetic_38.txt,yes,,CURRICULUM,NO,YES,"Clarification Sought on Conflicting Final Project Deadline: Alex urgently requests you resolve a confusion about the HIS 340 final project deadline, differing in the syllabus and last class announcement.",0,"This email is urgent: It expresses immediate concern on a deadline discrepancy that affects the class's ability to plan and execute their project, highlighting the need for a quick resolution."
+189,other/synthetic_16.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is a casual catch-up message from a former student with no mention of time-sensitive content or requests."
+190,administrative/synthetic_39.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is not urgent: It is a routine administrative request without a specified deadline, hence not time-sensitive."
+191,recommendation/synthetic_22.txt,yes,,RECOM,NO,NO,,1,"
+This email is non-urgent: It is a polite request for a letter of recommendation without any indication of an approaching deadline or immediate need for a response."
+192,administrative/synthetic_26.txt,yes,,ADMIN,YES,YES,Lecture Venue Relocated Due to HVAC Issue: Your lecture for tomorrow at 10:00 AM has been moved to Room 204 in the East Wing because of a problem with the HVAC system in Hall B.,1,This email is urgent: The message requires immediate attention due to the short notice relocation of the lecture scheduled for the following day.
+193,other/synthetic_47.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It pertains to a personal and casual discussion about gardening, with no time-sensitive elements indicated."
+194,other/6.txt,no,,OTHER,NO,NO,,1,"
+This email is non-urgent: It is an informative message about an ongoing door access issue at Bahen with interim measures in place and does not require immediate action from the recipient."
+195,administrative/synthetic_43.txt,yes,,ADMIN,NO,NO,,1,"
+This email is non-urgent: It provides information about a scheduled meeting with a future date, without requiring immediate action or indicating consequences for a delay in response."
+196,collaboration/synthetic_34.txt,yes,,COLLAB,NO,NO,,1,"
+This email is non-urgent: It is a business inquiry regarding a potential partnership without any mentioned deadlines or immediate action required."
+197,other/synthetic_50.txt,yes,,OTHER,NO,NO,,1,"
+This email is non-urgent: It contains a casual invitation for a non-time-sensitive social event within the faculty."
+198,collaboration/synthetic_30.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent: Although it proposes a collaboration that may be of interest, it does not convey a sense of immediacy or contain any time-sensitive requests."
+199,recommendation/synthetic_45.txt,yes,,RECOM,NO,NO,,1,"
+This email is not urgent: The sender, Alex, requests an endorsement in a casual tone without indicating any deadline or time-sensitive elements."

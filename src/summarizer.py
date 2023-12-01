@@ -7,8 +7,14 @@ import sys
 client = OpenAI(api_key="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")
 
 summarizer_prompt = str()
-with open("./summarizer_prompt.txt",'r',encoding="utf-8") as f:
+with open("C:\\Users\\haois\\Documents\\GitHub\\EmailSense\\src\\summarizer_prompt.txt",'r',encoding="utf-8") as f:
    summarizer_prompt = f.read()
+
+def split_by_newline(sentence):
+    split_sentences = []
+    parts = sentence.split('\n',1)  # Split by the first period
+    split_sentences.append(parts)
+    return parts
 
 #function to call openai api from Isabella's A4
 def summarizer(statement):
@@ -26,22 +32,28 @@ def summarizer(statement):
   )
 
   output_class = str()
-  output_reason = str()
+  output_summary = str()
+  output_reasoning = str()
   output = response.choices[0].message.content
-  if (output[0] == '1'):
-     output_class = output[0]
-  else:
-     output_class = '0'
-  output_reason = output[len(output_class):]
 
-  return output_class, output_reason.strip().strip(',').strip()
+  output_class = output[0]
+
+  if output_class == '0':
+    output_reasoning = output[len(output_class):]
+  else:
+    output_summary,output_reasoning=split_by_newline(output[len(output_class):])
+
+
+
+  return output_class, output_summary.strip().strip(',').strip(), output_reasoning
 
 # Testing classification performance on dataset
 if __name__ == "__main__":
   dataset_path = sys.argv[1]
 
   predict_classes = []
-  predict_reasons = []
+  predict_summary = []
+  predict_reasoning = []
   corrects = []
   correct = 0
   count = 0
@@ -51,18 +63,25 @@ if __name__ == "__main__":
     print("Summarizing email:", os.path.join('../dataset/', filename))
     label = row['time_sensitive']
     email = str()
-    with open(os.path.join('../dataset/', filename),'r',encoding="utf-8") as f:
-        email = f.read()
-    output_class, output_reason = summarizer(email)
+    with open(os.path.join('c:/Users/haois/Documents/GitHub/EmailSense/dataset/', filename),'r',encoding="utf-8") as f:
+      email = f.read()
 
-    print('number: ' + output_class)
+    temp = summarizer(email)
+
+    print(temp)
+    
+    output_class, output_summary ,output_reasoning= temp
+   
+       
     if output_class == '1':
        output_class = 'YES'
     else:
        output_class = 'NO'
-    print('word: ' + output_class)
+
     predict_classes.append(output_class)
-    predict_reasons.append(output_reason)
+    predict_summary.append(output_summary)
+    predict_reasoning.append(output_reasoning)
+   
     count += 1
 
     if output_class == label:
@@ -72,8 +91,9 @@ if __name__ == "__main__":
         corrects.append(0)
   
   dataset['urgent'] = predict_classes
-  dataset['summary'] = predict_reasons
+  dataset['summary'] = predict_summary
   dataset['correct_urgency'] = corrects
+  dataset['reasoning'] = predict_reasoning
 
   print("Results written to:", dataset_path[:-4]+'_summarizer_result.csv')
   dataset.to_csv(dataset_path[:-4]+'_summarizer_result.csv', index=False)

@@ -15,10 +15,7 @@ Urgent email: 1
 If the label is 1, provide a summary: 
 Phrase summing up the urgency: One sentence summary of the email.
 
-The following three parts should be present for all outputs
-Tone: explain why classified as urgent or non-urgent by tone
-Context: explain why classified as urgent or non-urgent by context
-Wording: explain why classified as urgent or non-urgent by wording
+One sentence stating the reason for judging if the email is urgent or not should always be present in a separate line.
 
 ###Example###
 <USER>:
@@ -38,6 +35,4 @@ Emily R.
 ```
 
 <ASSISTANT>: 1, Immediate Assistance Required for Letter of Recommendation: Emily urgently asks you to provide a letter of recommendation for the Stanford Data Science program, with the deadline approaching next week.
-Tone:  eager, meaning the sender is in a hurry
-Context: mentions the deadline is next week 
-Wording: “last-minute” in the content and “urgently” in the title
+This email is urgent: Eagerly written with a sense of urgency, the content highlights the "last-minute" nature of the request and emphasizes the upcoming deadline next week in the title.
