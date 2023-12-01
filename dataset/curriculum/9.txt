@@ -1,11 +1,16 @@
-Subject:Final exam due date question
+Subject:CSC443 - Kindly Request for Extension on Project
 
 Content;
 
-Dear Professor Smith,
-
-My name is Marsha Lue, and I am in your FYE 1005 course that meets on Tuesday and Thursday from 11-11:50. I was writing in regards to the assignment due at the end of the course (Comprehensive Final Exam). To clarify, the final exam can be turned in on October 16th at 11 am?
-
-Thank you for your time.
-
-Sincerely, Marsha Lue
+Dear Professor Niv,
+ 
+I hope this email finds you well. Our team (Shi Tang - 1005930619; Dechen Han - 1006095636; Weizhou Wang - 1004421262) are writing to request a short extension for our project, currently due on Friday, Dec 1.
+ 
+Since our team members are in the midst of handling graduate school applications, with several deadlines on this Friday, and are managing assignments from other courses. Although we have been making steady progress on our project, we might need more time to finalize our code and report.
+ 
+Therefore, we humbly request an extension for the project. We believe that a few additional days would significantly enhance the quality of our work, allowing us to conduct more comprehensive benchmark testing and to finalize our report.
+ 
+Thank you very much for considering our request. We look forward to your response.
+ 
+Sincerely,
+Shi (Tiffany) Tang
