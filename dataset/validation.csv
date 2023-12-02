@@ -84,7 +84,7 @@
 82,administrative/synthetic_11.txt,yes,,ADMIN,NO
 83,curriculum/synthetic_35.txt,yes,,CURRICULUM,NO
 84,collaboration/synthetic_37.txt,yes,,COLLAB,YES
-85,curriculum/synthetic_48.txt,yes,,CURRICULUM,NO
+85,curriculum/synthetic_48.txt,yes,,CURRICULUM,YES
 86,other/synthetic_34.txt,yes,,OTHER,NO
 87,administrative/9.txt,no,,ADMIN,NO
 88,recommendation/synthetic_31.txt,yes,,RECOM,YES
@@ -187,7 +187,7 @@
 185,administrative/synthetic_28.txt,yes,,ADMIN,NO
 186,curriculum/synthetic_24.txt,yes,,CURRICULUM,NO
 187,collaboration/2.txt,no,,COLLAB,NO
-188,curriculum/synthetic_38.txt,yes,,CURRICULUM,NO
+188,curriculum/synthetic_38.txt,yes,,CURRICULUM,YES
 189,other/synthetic_16.txt,yes,,OTHER,NO
 190,administrative/synthetic_39.txt,yes,,ADMIN,NO
 191,recommendation/synthetic_22.txt,yes,,RECOM,NO
