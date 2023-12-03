@@ -1,5 +1,9 @@
 # EmailSense
+2023-Fall ECE 1786: Creative Applications of Natural Language Processing <br/>
+University of Toronto <br/>
+Authored by: Isabella Hao & Weizhou Wang <br/>
 
+## Email accounts used in this project
 **Server Email:** ```emailsense.1786@gmail.com```<br/>
 **Server Password:** ```emailsense666``` (the one used in email_monitor.py is a specific device password for accessing the IMAP server)<br/>
 **Testing User Email:** ```user.emailsense.1786@gmail.com```<br/>
