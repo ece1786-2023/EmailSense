@@ -4,10 +4,10 @@ import pandas as pd
 import os
 import sys
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 summarizer_prompt = str()
-with open("C:\\Users\\haois\\Documents\\GitHub\\EmailSense\\src\\summarizer_prompt.txt",'r',encoding="utf-8") as f:
+with open(os.path.abspath("./summarizer_prompt.txt"),'r',encoding="utf-8") as f:
    summarizer_prompt = f.read()
 
 def split_by_newline(sentence):
@@ -43,8 +43,6 @@ def summarizer(statement):
   else:
     output_summary,output_reasoning=split_by_newline(output[len(output_class):])
 
-
-
   return output_class, output_summary.strip().strip(',').strip(), output_reasoning
 
 # Testing classification performance on dataset
@@ -63,7 +61,7 @@ if __name__ == "__main__":
     print("Summarizing email:", os.path.join('../dataset/', filename))
     label = row['time_sensitive']
     email = str()
-    with open(os.path.join('c:/Users/haois/Documents/GitHub/EmailSense/dataset/', filename),'r',encoding="utf-8") as f:
+    with open(os.path.join('../dataset/', filename),'r',encoding="utf-8") as f:
       email = f.read()
 
     temp = summarizer(email)

@@ -28,11 +28,11 @@ def process_email(email_listener, msg_dict: dict()):
         email_text += "Subject: " + msg_dict[email]['Subject'] + "\n"
         email_text += "Content:\n" + msg_dict[email]['Plain_Text']
         
-        ''' File Name Format
-            EmailSense/emails/<UID>_<sender_address>.txt
-        '''
-        with open("../emails/"+email+".txt", "w") as text_file:
-            text_file.write(email_text)
+        # ''' File Name Format
+        #     EmailSense/emails/<UID>_<sender_address>.txt
+        # '''
+        # with open("../emails/"+email+".txt", "w") as text_file:
+        #     text_file.write(email_text)
 
         # Execute GPT classifier
         print("Analyzing Email:", msg_dict[email]['Subject'])
@@ -66,11 +66,11 @@ def process_email(email_listener, msg_dict: dict()):
         print("Email has been moved to", pred)
 
         # Execute GPT summarizer
-        pred, reason = summarizer.summarizer(email_text)
+        pred, summary, _ = summarizer.summarizer(email_text)
         if (pred == '1'):
             print("Is Time-sensitive: Yes")
-            print("Reason:", reason)
-            SUMMARY.append(str(len(SUMMARY)+1) + '. ' + reason)
+            print("Reason:", summary)
+            SUMMARY.append(str(len(SUMMARY)+1) + '. ' + summary)
         else:
             print("Is Time-sensitive: No")
         print('=' * 10)
@@ -139,7 +139,7 @@ if __name__ == "__main__":
     el.login()
 
     # Get the emails currently unread in the inbox
-    msg_dict = el.scrape()
+    msg_dict = el.scrape(unread=True)
     process_email(el, msg_dict=msg_dict)
 
     # Start listening to the inbox (set default timeout to 10 hours)

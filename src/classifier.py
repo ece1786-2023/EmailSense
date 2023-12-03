@@ -9,7 +9,7 @@ client = OpenAI(api_key="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")
 categories = ['RECOM', 'COLLAB', 'CURRICULUM', 'ADMIN', 'OTHER']
 
 classifier_prompt = str()
-with open("./classifier_prompt.txt") as f:
+with open(os.path.abspath("./classifier_prompt.txt"), 'r', encoding="utf-8") as f:
     classifier_prompt = f.read()
 
 #function to call openai api from Isabella's A4
