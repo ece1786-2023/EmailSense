@@ -13,4 +13,16 @@
 ## Apple Shortcuts
 Note: After downloading the Shortcuts, users need to modify the paths to their absolute paths & change the SSH settings <br/>
 **EmailSense On:** https://www.icloud.com/shortcuts/c4951bf446db4c10a8e2c8ed370023ec <br/>
-**EmailSense Off:** https://www.icloud.com/shortcuts/8e6e3c3263cd4581b717a7c760bb5769 <br/>
+**EmailSense Off:** https://www.icloud.com/shortcuts/fc6fea52b2084da895bbe24f23b0fdff <br/>
+
+## Usage
+```
+python3 EmailSense.py [-h] [--name NAME] [--email EMAIL] [--password PASSWORD]
+
+EmailSense - Professor's email assistant
+
+options:
+  -h, --help           show this help message and exit
+  --name NAME          Please type the user's name, default to Alex
+  --email EMAIL        Please type the user's email, default to Testing User Email
+  --password PASSWORD  Please type the user email's **APP** password```, default to Testing User Email's App password
