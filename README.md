@@ -39,7 +39,7 @@ options:
    This APP password is the one you should use in the PASSWORD parameter above
 2. Please put your iPhone and Mac on the same wifi, then modify the SSH settings in the Shortcut scripts by following https://dougbeal.com/2019/11/02/remote-control-your-mac-with-your-iphone-and-ssh-key-shortcuts/ <br/>
 3. On your iPhone, please create the "EmailSense" Focus mode and the following two Automation: <br/>
-   <img src="https://github.com/ece1786-2023/EmailSense/assets/59983226/567a3de4-31b6-43d6-be73-82b031de17ea" width="400" height="450">
-   <img src="https://github.com/ece1786-2023/EmailSense/assets/59983226/bdc4bc9e-fa6e-4163-bb3a-4c041830f89b" width="400" height="450"> <br/>
+   <img src="https://github.com/ece1786-2023/EmailSense/assets/59983226/567a3de4-31b6-43d6-be73-82b031de17ea" width="300" height="350">
+   <img src="https://github.com/ece1786-2023/EmailSense/assets/59983226/bdc4bc9e-fa6e-4163-bb3a-4c041830f89b" width="300" height="350"> <br/>
 4. If everything goes well, then the EmailSense should automatically start when you turn on the focus mode
    
