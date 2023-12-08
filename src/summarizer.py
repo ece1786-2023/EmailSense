@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import sys
 
-client = OpenAI(api_key="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")
+client = OpenAI()
 
 summarizer_prompt = str()
 with open(os.path.abspath("./summarizer_prompt.txt"),'r',encoding="utf-8") as f:

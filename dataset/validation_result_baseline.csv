@@ -1,0 +1,290 @@
+Unnamed: 0,filename,synthetic,reference,category,time_sensitive,prediction,reason,correct
+0,recommendation/9.txt,no,,RECOM,NO,RECOM,because this email is requesting a letter of recommendation for Western University.,1
+1,curriculum/synthetic_44.txt,yes,,CURRICULUM,NO,CURRICULUM,"since the email pertains to a course-related issue, specifically about a group project conflict in the Business Strategy course.",1
+2,other/synthetic_48.txt,yes,,OTHER,NO,OTHER,"
+
+This email is a personal invitation from a student to the professor for an art exhibition. It does not fall into any of the specified categories and is therefore classified as ""OTHER.""",1
+3,recommendation/synthetic_27.txt,yes,,RECOM,YES,RECOM,because this email is a request for a reference letter for a graduate school application.,1
+4,curriculum/4.txt,no,,CURRICULUM,YES,CURRICULUM,. The email is related to a course assignment deadline extension request.,1
+5,administrative/synthetic_48.txt,yes,,ADMIN,NO,ADMIN,". This email is related to administrative communication, specifically regarding a faculty meeting and budget allocations.",1
+6,other/synthetic_30.txt,yes,,OTHER,NO,OTHER,"
+This email is a promotional email from a bookstore offering a discount on academic journals. Since it's unrelated to the professor's academic or administrative duties, it falls into the ""OTHER"" category.",1
+7,other/synthetic_35.txt,yes,,OTHER,NO,OTHER,"
+
+The email is a subscription confirmation request for a research journal. It does not fall into any of the specified categories and thus is classified as 'OTHER'.",1
+8,curriculum/synthetic_15.txt,yes,,CURRICULUM,NO,CURRICULUM,"the email is asking for clarification on the group project guidelines for a specific course, showing that it's curriculum-related.",1
+9,administrative/synthetic_33.txt,yes,,ADMIN,NO,ADMIN,"because this email is related to the budget allocation for research assistants, which falls under administrative communication. It involves managing research budgets, which is one of the responsibilities of administrative communication.",1
+10,collaboration/synthetic_13.txt,yes,,COLLAB,NO,COLLAB,because this is an email from an industry professional discussing collaboration and sharing updates on the implementation of the professor's suggestions in their company.,1
+11,recommendation/synthetic_37.txt,yes,,RECOM,NO,RECOM,because this email is a follow-up regarding the request for a recommendation letter for a job application.,1
+12,administrative/1.txt,no,,ADMIN,NO,ADMIN,: The email is from a student inquiring to join the professor's research group for a specific project. This falls under administrative communication as it pertains to inquiries to join the professor's research group.,1
+13,administrative/synthetic_46.txt,yes,,ADMIN,YES,ADMIN,". This email falls under the category of administrative communication because it pertains to the budget approval needed for an upcoming workshop. It involves overseeing academics and faculty research, managing research budgets, coordinating schedules, and preparing for institute programs.",1
+14,administrative/synthetic_35.txt,yes,,ADMIN,NO,ADMIN,because the email is about administrative communication regarding a faculty photoshoot for the university website.,1
+15,collaboration/synthetic_20.txt,yes,,COLLAB,NO,COLLAB,because this email is from the CEO of a startup looking to collaborate with the professor's biomedical engineering lab on a project related to bio-signal processing.,1
+16,collaboration/synthetic_17.txt,yes,,COLLAB,NO,COLLAB,because this email is about potential collaboration between the professor and a project manager from a company.,1
+17,collaboration/synthetic_14.txt,yes,,COLLAB,NO,COLLAB,"because this email is from Dr. Rita Sanchez of NexGen Pharma, reaching out to follow up on a bioengineering collaboration proposal with the professor.",1
+18,curriculum/synthetic_25.txt,yes,,CURRICULUM,NO,CURRICULUM,"because the email is related to a course the professor is teaching, and the student is seeking clarification on a lecture topic.",1
+19,administrative/5.txt,no,,ADMIN,NO,ADMIN,"
+
+This email is categorized as administrative communication since it is an inquiry from a student to join the professor's research lab for an undergraduate research opportunity.",1
+20,administrative/synthetic_13.txt,yes,,ADMIN,NO,ADMIN,"
+The email is regarding a rescheduled meeting for the Faculty Recruitment Committee, which falls under administrative communication.",1
+21,collaboration/synthetic_18.txt,yes,,COLLAB,YES,COLLAB,because this email is a follow-up regarding material science collaboration between a research team from an industry company and the University of Cambridge.,1
+22,curriculum/synthetic_45.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is related to a specific course (SOC 101) and is asking for information about an opportunity for extra credit related to a sociology study.,1
+23,recommendation/4.txt,no,,RECOM,NO,RECOM,because the email is a request for a reference letter for graduate program applications.,1
+24,collaboration/synthetic_26.txt,yes,,COLLAB,NO,COLLAB,"because this is an email from an industry professional (Lead Research Scientist at Tesla, Inc.) proposing a collaborative project with the professor.",1
+25,recommendation/synthetic_49.txt,yes,,RECOM,NO,RECOM,"ence Letter Requests (RECOM) - The email is a thank you note for a reference letter, indicating that the sender had requested a reference letter for a scholarship application.",1
+26,curriculum/synthetic_31.txt,yes,,CURRICULUM,NO,CURRICULUM,"because the email is from a student requesting to discuss a term paper topic related to the course the professor is teaching, Sociology of Media.",1
+27,other/synthetic_11.txt,yes,,OTHER,NO,OTHER,"iven email falls under the ""Others"" category. It is a promotional email notifying the professor about a Cyber Monday sale on academic books. Since it is a promotional email not directly related to the professor's academic or administrative duties, it is classified as ""OTHER"".",1
+28,other/synthetic_46.txt,yes,,OTHER,NO,OTHER,"
+
+The email is a personal greeting from a student to the professor on his birthday. Therefore, it falls into the ""Others"" category.",1
+29,recommendation/synthetic_28.txt,yes,,RECOM,NO,RECOM,"this email is a follow-up on a recommendation request for a job application, where the student is checking in and providing additional documentation.",1
+30,collaboration/synthetic_48.txt,yes,,COLLAB,NO,COLLAB,"because this email is from Alex Thompson, Head of Product Development at Widget Corp, and it's about setting up a collaboration between the research lab and Widget Corp on smart wearables.",1
+31,other/synthetic_41.txt,yes,,OTHER,NO,OTHER,. This email does not fall into any of the specific categories mentioned. It's a personal invitation from a former student which is not related to academic or administrative matters.,1
+32,curriculum/synthetic_47.txt,yes,,CURRICULUM,YES,CURRICULUM,"because the email is related to a specific homework question from the Calculus II class, seeking clarification to complete the assignment on time.",1
+33,curriculum/9.txt,no,,CURRICULUM,NO,CURRICULUM,"C443 - Kindly Request for Extension on Project
+
+Content;
+
+Dear Professor Niv,
+ 
+I hope this email finds you well. Our team (Shi Tang - 1005930619; Dechen Han - 1006095636; Weizhou Wang - 1004421262) are writing to request a short extension for our project, currently due on Friday, Dec 1.
+ 
+Since our team members are in the midst of handling graduate school applications, with several deadlines on this Friday, and are managing assignments from other courses. Although we have been making steady progress on our project, we might need more time to finalize our code and report.
+ 
+Therefore, we humbly request an extension for the project. We believe that a few additional days would significantly enhance the quality of our work, allowing us to conduct more comprehensive benchmark testing and to finalize our report.
+ 
+Thank you very much for considering our request. We look forward to your response.
+ 
+Sincerely,
+Shi (Tiffany) Tang
+
+<ASSISTANT>: CURRICULUM, because it's requesting an extension for the project regarding a specific course.",1
+34,administrative/synthetic_27.txt,yes,,ADMIN,NO,ADMIN,"
+
+The email is related to administrative communication as it involves overseeing departmental budget allocation, which falls under administrative responsibilities.",1
+35,other/synthetic_42.txt,yes,,OTHER,YES,ADMIN,"
+The email is an administrative communication that invites the professor to participate in the annual charity marathon and requests a prompt response for registration and confirmation of t-shirt size. Therefore, it falls under the administrative communication category.",0
+36,recommendation/synthetic_13.txt,yes,,RECOM,NO,RECOM,"
+The email expresses gratitude for the submission of a recommendation letter for a job application, which falls under the category of reference letter requests. Therefore, it should be classified as RECOM.",1
+37,collaboration/synthetic_11.txt,yes,,COLLAB,NO,COLLAB,"because the email is from Dr. Emily Harris of GreenTech Innovations, inviting the professor to collaborate on a green energy project.",1
+38,collaboration/synthetic_43.txt,yes,,COLLAB,NO,COLLAB,because this email is from an academic and consultant interested in setting up a cross-university research partnership with the professor.,1
+39,recommendation/synthetic_26.txt,yes,,RECOM,NO,RECOM,"
+The email is a reference letter request from a student who is applying for graduate studies. The student specifically requests a letter of recommendation from the professor, indicating the purpose of the email. Therefore, it falls under the category of Reference Letter Requests.",1
+40,administrative/2.txt,no,,ADMIN,NO,ADMIN,". The email is from a student inquiring about the professor's research work and expressing interest in discussing it further. Therefore, it falls under the administrative communication category.",1
+41,curriculum/10.txt,no,,CURRICULUM,NO,CURRICULUM,because this email is related to an assignment in the professor's English course and is seeking clarification about the citation style to be used for the literature review assignment.,1
+42,collaboration/synthetic_41.txt,yes,,COLLAB,NO,COLLAB,because this email is from an industry professional proposing a joint research project with the professor's lab on a specific area of expertise.,1
+43,collaboration/10.txt,no,,COLLAB,NO,COLLAB,"because the email is from Dr. Nor Adnan Yahaya, an Associate Professor, expressing commitment to collaborate with the recipient professor on a research proposal.",1
+44,recommendation/synthetic_23.txt,yes,,RECOM,NO,RECOM,because this email is from a student expressing gratitude for writing a letter of recommendation and asking for an update on its submission for the Fulbright Scholarship application.,1
+45,other/9.txt,no,,OTHER,NO,OTHER,because this email is a reminder to vote in the 2023-2024 EUS Departmental Elections and does not fall into any of the specified categories.,1
+46,collaboration/synthetic_35.txt,yes,,COLLAB,NO,COLLAB,because this email is from a Chief Ethics Officer of a tech company expressing interest in potential collaboration with the professor on the topic of AI ethics.,1
+47,other/synthetic_39.txt,yes,,OTHER,NO,CURRICULUM,because this email is related to an event happening at the university and specifically requests the professor's participation as a judge for a poetry slam event.,0
+48,curriculum/synthetic_33.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is related to a student missing a lab session and wanting to discuss making up for it.,1
+49,collaboration/3.txt,no,,COLLAB,NO,COLLAB,because this email is from a representative of a corporation expressing interest in collaborating on research with the professor.,1
+50,collaboration/synthetic_31.txt,yes,,COLLAB,NO,COLLAB,because this email is from a company representative seeking collaboration with the professor's research team on a project related to autonomous vehicle technology.,1
+51,administrative/synthetic_21.txt,yes,,ADMIN,NO,ADMIN,"
+
+The email is an administrative communication regarding the sabbatical application procedure, which falls under the administrative-related work category.",1
+52,recommendation/synthetic_25.txt,yes,,RECOM,NO,RECOM,because this email is a polite reminder from a student requesting a recommendation letter for their Master's program application.,1
+53,collaboration/synthetic_33.txt,yes,,COLLAB,NO,COLLAB,"because this email is from an event coordinator inviting the professor to present their work at a technology conference, indicating a potential collaboration on a speaking engagement.",1
+54,other/synthetic_32.txt,yes,,OTHER,NO,ADMIN,"because the email is related to an alumni networking event and the recipient is being invited to attend, which is an administrative communication.",0
+55,curriculum/synthetic_23.txt,yes,,CURRICULUM,YES,CURRICULUM,because this email is related to a group project in a Marketing Strategy class and seeking advice from the professor on how to proceed due to a group member's lack of participation.,1
+56,other/synthetic_44.txt,yes,,OTHER,YES,ADMIN,because this email is a request for permission from the professor for the use of a photo in the university yearbook.,0
+57,curriculum/synthetic_17.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is from a student inquiring about the content of a specific course that the professor is teaching.,1
+58,collaboration/synthetic_49.txt,yes,,COLLAB,NO,COLLAB,because this email is from a company expressing interest in collaboration with the professor on a potential research project related to quantum computing applications in the finance sector.,1
+59,other/2.txt,no,,OTHER,NO,ADMIN,"
+
+The email is an administrative communication about the Fall 2023 Graduation process and deadlines, including instructions about the application process, degree audit, course exemptions, transfer credits, joint programs, minor in Computer Science, and Post-Graduation Work Permit. The content deals with managing academics and responding to inquiries from students regarding their graduation process. Therefore, it falls under the category of administrative communication emails.",0
+60,other/5.txt,no,,OTHER,NO,ADMIN,because this email is providing information on governance-related topics and encouraging student participation in the 2024 Governing Council Elections.,0
+61,curriculum/synthetic_28.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is from a student asking for clarification about the content of the upcoming midterm exam in the professor's class.,1
+62,other/10.txt,no,,OTHER,NO,OTHER,"Others, because this email is an invitation to the 50th-anniversary celebration event of the School of Computer Science, not falling into the specific categories mentioned.",1
+63,recommendation/synthetic_46.txt,yes,,RECOM,NO,RECOM,because the email is from a former student who is asking for a recommendation letter for graduate school application.,1
+64,recommendation/synthetic_30.txt,yes,,RECOM,NO,RECOM,"because this email is from a student requesting a letter of recommendation for an internship program, specifically mentioning the need for the recommendation letter and the deadline for submission.",1
+65,administrative/synthetic_40.txt,yes,,ADMIN,NO,ADMIN,"ct: Reminder: Annual Performance Review Submission Deadline
+Content:
+Dear Professor Collins,
+
+This email falls under the category of Administrative Communication Emails (ADMIN) because it is related to the administration of academic affairs, specifically reminding and providing information about the deadline for submitting the annual performance review documentation. The content discusses tenure tracking, promotion consideration, and departmental assessments, which are administrative tasks related to faculty performance.
+
+Therefore, this email is classified as ADMIN.",1
+66,curriculum/5.txt,no,,CURRICULUM,NO,CURRICULUM,"because this email is related to a specific course (PSYC 1000) that the professor is teaching, and it pertains to discussing the test and improving the grade.",1
+67,other/synthetic_33.txt,yes,,OTHER,NO,OTHER,as this email is a personal message wishing the professor a Happy Birthday.,1
+68,administrative/synthetic_50.txt,yes,,ADMIN,NO,ADMIN,"
+The email is related to organizing a faculty meeting to discuss the implementation of a new student feedback mechanism. It falls under administrative communication emails category.",1
+69,curriculum/synthetic_37.txt,yes,,CURRICULUM,YES,CURRICULUM,because the email is regarding a student struggling with the programming assignment for a specific course and requesting one-on-one help during the professor's office hours.,1
+70,recommendation/synthetic_33.txt,yes,,RECOM,NO,RECOM,"ence Letter Requests: RECOM, because the email is expressing gratitude for a recommendation letter provided for a scholarship application.",1
+71,collaboration/synthetic_40.txt,yes,,COLLAB,NO,COLLAB,because this email is from a representative of a technology firm inviting the professor to collaborate on a grant application for smart city development.,1
+72,recommendation/synthetic_48.txt,yes,,RECOM,NO,RECOM,because this email is a follow-up from a student requesting a recommendation letter for their PhD program application.,1
+73,collaboration/5.txt,no,,COLLAB,YES,COLLAB,"because this email is from an individual at a law firm expressing interest in collaborating on a research project with the professor. It discusses the details of the collaboration, including timelines and expectations.",1
+74,recommendation/synthetic_20.txt,yes,,RECOM,NO,RECOM,"because this email is a request for a reference for an internship, which falls under the category of reference letter request.",1
+75,other/synthetic_22.txt,yes,,OTHER,NO,OTHER,because this email is a personal greeting from a PhD candidate and does not fall into any of the specified categories.,1
+76,collaboration/synthetic_36.txt,yes,,COLLAB,NO,COLLAB,because this email is from an industry professional expressing an interest in collaborating on a project related to AI and renewable energy systems with the professor.,1
+77,curriculum/1.txt,no,,CURRICULUM,NO,CURRICULUM,"because the email is related to a clarification on the deadline of the final essay for the Old English course, which belongs to the professor's curriculum-related responsibilities.",1
+78,administrative/synthetic_30.txt,yes,,ADMIN,NO,ADMIN,". This email falls under the administrative communication category as it is related to overseeing academics and faculty research at universities. It specifically requests documentation from the professor for the university's accreditation process, which is an administrative matter.",1
+79,administrative/synthetic_15.txt,yes,,ADMIN,NO,ADMIN,this email is an administrative communication regarding the booking confirmation for a conference room and the arrangements for an event at the university.,1
+80,recommendation/synthetic_32.txt,yes,,RECOM,NO,RECOM,because this email is a follow-up related to a request for a recommendation letter for a job application.,1
+81,administrative/synthetic_37.txt,yes,,ADMIN,NO,ADMIN,"ct: Notice of Office Relocation
+Content: This email falls under the category of Administrative Communication Emails (ADMIN) as it is related to the temporary relocation of the professor's office due to ongoing renovations. It involves administrative communication regarding the logistics of the move, thus making it an administrative communication email.",1
+82,administrative/synthetic_11.txt,yes,,ADMIN,NO,ADMIN,"
+This is an administrative communication email regarding the Departmental Budget Review meeting, which falls under the administrative-related work category. It requests the professor's presence at the meeting, emphasizes the importance of their input, and provides information related to the budget review. Therefore, it should be classified as an administrative communication email.",1
+83,curriculum/synthetic_35.txt,yes,,CURRICULUM,NO,CURRICULUM,because this email is from a student asking for clarification on a lecture topic.,1
+84,collaboration/synthetic_37.txt,yes,,COLLAB,YES,COLLAB,". The email is a project collaboration invitation from an industry company to work on an automotive sensor project. It specifically mentions the expertise of the professor in sensor data fusion and invites their participation in a consortium to develop next-generation sensors for autonomous vehicles. Therefore, it falls under the category of project collaboration emails.",1
+85,curriculum/synthetic_48.txt,yes,,CURRICULUM,YES,COLLAB,". The email is related to a project in the professor's class and requests an extension due to unforseen circumstances. Therefore, it falls under the category of Project Collaboration Emails.",0
+86,other/synthetic_34.txt,yes,,OTHER,NO,OTHER,"Other. This email is a marketing email from AcademiaBooks offering a discount on academic books. It does not fall into any of the specified categories and can be classified as ""Other.""",1
+87,administrative/9.txt,no,,ADMIN,NO,COLLAB,because the email is from a student inquiring about research assistant positions and expressing interest in collaborating with the professor's lab.,0
+88,recommendation/synthetic_31.txt,yes,,RECOM,YES,RECOM,because the email is a request from a student for a letter of recommendation for their application to a Master's program.,1
+89,recommendation/synthetic_17.txt,yes,,RECOM,NO,RECOM,because this is an email expressing gratitude for a recommendation letter sent to Stanford.,1
+90,recommendation/synthetic_19.txt,yes,,RECOM,NO,RECOM,"
+
+The email is a request for confirmation of the submission of a recommendation letter for a scholarship application. This falls under the category of Reference Letter Requests.",1
+91,administrative/synthetic_19.txt,yes,,ADMIN,NO,ADMIN,"
+
+The email is a request for the professor to serve on the Tenure Review Committee, which falls under administrative communication.",1
+92,recommendation/synthetic_24.txt,yes,,RECOM,NO,RECOM,"
+
+The email is a request from the student for a recommendation letter for a job application. Therefore, it falls under the category of Reference Letter Requests.",1
+93,administrative/synthetic_42.txt,yes,,ADMIN,NO,ADMIN,"
+
+The email is a reminder for the professor to submit the student evaluation forms for the Winter term courses. This falls under administrative communication within the academic affairs of the university.",1
+94,recommendation/synthetic_47.txt,yes,,RECOM,NO,RECOM,because this email is a request for a reference letter for a job application.,1
+95,other/synthetic_27.txt,yes,,OTHER,YES,ADMIN,"because the email is related to administrative communication about a lost item in the lecture hall, which is crucial for the student's upcoming thesis defense.",0
+96,collaboration/synthetic_44.txt,yes,,COLLAB,NO,COLLAB,because the email is from a representative of a company discussing the potential for a joint venture with the professor's lab.,1
+97,recommendation/synthetic_39.txt,yes,,RECOM,NO,RECOM,Because the email is a request for a reference letter for the application to a Masters program.,1
+98,other/synthetic_43.txt,yes,,OTHER,NO,OTHER,because the email is a personal and casual question from a student and does not fall into any of the specified categories.,1
+99,other/synthetic_29.txt,yes,,OTHER,NO,COLLAB,"because the email is seeking the professor's insights and feedback for a museum exhibit, indicating a collaboration request.",0
+100,administrative/10.txt,no,,ADMIN,NO,ADMIN,because this email is from a student inquiring about the possibility of enrolling in the Student Research Program under the guidance of the professor.,1
+101,recommendation/synthetic_50.txt,yes,,RECOM,NO,RECOM,"because the email is a request for a reference for an internship application, which falls under the category of Reference Letter Requests.",1
+102,collaboration/synthetic_27.txt,yes,,COLLAB,NO,COLLAB,"because this email is from Dr. Michael Chen, a fellow in microbial genetics at Acme Biotech, requesting collaboration on a joint grant application with the professor.",1
+103,administrative/synthetic_12.txt,yes,,ADMIN,NO,CURRICULUM,"CURRICULUM
+
+CURRICULUM, because the email is regarding a student seeking assistance with scheduling courses related to their academic curriculum.",0
+104,administrative/synthetic_14.txt,yes,,ADMIN,NO,ADMIN,"ory: ADMIN
+
+Logic: The email is an administrative communication from the Office of Research Compliance, reminding the professor about the compliance training deadline. It concerns university policy and is related to overseeing academics and faculty research at the university. Therefore, it falls under the administrative communication category.",1
+105,collaboration/synthetic_12.txt,yes,,COLLAB,NO,COLLAB,because this email is from an industry professional seeking collaboration with the professor on a project related to material science and sustainable packaging solutions.,1
+106,recommendation/6.txt,no,,RECOM,NO,RECOM,because the email is a request for a letter of recommendation for a graduate studies application.,1
+107,collaboration/synthetic_29.txt,yes,,COLLAB,NO,COLLAB,"because this email is regarding an industrial collaboration proposal between the professor's lab and Jackson Engineering, showing strong interest in commencing a project with the professor's research group.",1
+108,collaboration/synthetic_25.txt,yes,,COLLAB,NO,COLLAB,because this email is from an industry professional expressing interest in collaboration and discussing potential joint interests with the professor.,1
+109,other/synthetic_26.txt,yes,,OTHER,NO,OTHER,because this email is related to a university book club and does not fall into any of the specified categories.,1
+110,collaboration/synthetic_19.txt,yes,,COLLAB,NO,COLLAB,because this email is from an industry professional reaching out for a potential collaboration or consultation on a deep learning project related to natural language processing.,1
+111,curriculum/synthetic_41.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is from a student seeking clarification on the term paper guidelines for the history course.,1
+112,collaboration/8.txt,no,,COLLAB,NO,COLLAB,because this is an email from a representative of Citigroup expressing their interest in collaborating on the research proposed by the professor.,1
+113,other/synthetic_21.txt,yes,,OTHER,NO,OTHER,. This email is a personal notification from an alumni to update their address. It does not fall into the categories provided.,1
+114,recommendation/synthetic_15.txt,yes,,RECOM,NO,RECOM,"
+
+Since the email is a reminder about a recommendation letter for an internship application, it falls under the category of ""Reference Letter Requests.""",1
+115,collaboration/synthetic_39.txt,yes,,COLLAB,NO,COLLAB,because this email is a request for academic collaboration from an industry company regarding research on biodegradable materials.,1
+116,collaboration/synthetic_28.txt,yes,,COLLAB,NO,COLLAB,". The email is from an industry professional (Jamie from ByteSmart) proposing a collaboration on AI projects, seeking the professor's expertise, and suggesting a meeting to brainstorm ideas.",1
+117,collaboration/synthetic_22.txt,yes,,COLLAB,NO,COLLAB,because the email is regarding the potential collaboration between MIT's engineering department and Lunar Dynamics.,1
+118,curriculum/synthetic_34.txt,yes,,CURRICULUM,NO,CURRICULUM,". This email is related to the professor's course ""MGMT 3004"" and seeks clarification about the group project, which falls under curriculum-related communication.",1
+119,curriculum/synthetic_18.txt,yes,,CURRICULUM,NO,CURRICULUM,". The email is about a concern regarding lab equipment handling during the BIO 332 lab session, which is related to the professor's current course (BIO 332).",1
+120,curriculum/synthetic_16.txt,yes,,CURRICULUM,NO,CURRICULUM,"because the email is related to the course ""Business Strategy"" and is asking for clarification on the peer evaluation for a group project related to the course.",1
+121,recommendation/3.txt,no,,RECOM,NO,RECOM,because this email is a request for an academic reference letter for a scholarship application.,1
+122,recommendation/synthetic_14.txt,yes,,RECOM,NO,RECOM,because this email is a request for a reference letter from the professor for a Master's program application.,1
+123,collaboration/9.txt,no,,COLLAB,NO,COLLAB,because this email is about project collaboration with the MIT team and the professor.,1
+124,curriculum/synthetic_46.txt,yes,,CURRICULUM,NO,CURRICULUM,"because the email is regarding the course material for a specific lecture, showing that it is curriculum-related.",1
+125,curriculum/synthetic_13.txt,yes,,CURRICULUM,NO,CURRICULUM,"because the email is from a student regarding coursework, missed work, and needing assistance to keep up with the class.",1
+126,administrative/synthetic_29.txt,yes,,ADMIN,NO,ADMIN,"
+This email is an administrative communication email. It relates to the new policy for faculty research grant applications, which falls under administrative-related work, specifically managing research budgets and overseeing faculty research at universities.",1
+127,recommendation/synthetic_36.txt,yes,,RECOM,NO,RECOM,because the email is a request for a letter of recommendation for the application of graduate studies.,1
+128,administrative/synthetic_23.txt,yes,,ADMIN,NO,ADMIN,". This email is a call for volunteers from the university faculty to participate in the Annual Science and Technology Expo. It involves coordinating schedules, overseeing academics and faculty research, and organizing institute programs, which falls under administrative communication.",1
+129,collaboration/synthetic_45.txt,yes,,COLLAB,NO,COLLAB,because this email is from a professional at OceanTech seeking a collaboration with the professor on an environmental impact project.,1
+130,other/synthetic_49.txt,yes,,OTHER,NO,ADMIN,because this is an email related to academic research and seeks the participation of the professor in a survey related to the impact of online teaching on academic workload.,0
+131,recommendation/synthetic_21.txt,yes,,RECOM,YES,RECOM,because this email is a request for a letter of recommendation for a Master's program application.,1
+132,other/synthetic_25.txt,yes,,OTHER,NO,ADMIN,"
+This email is an administrative communication regarding the upcoming charity marathon and the request for university faculty participation.",0
+133,administrative/4.txt,no,,ADMIN,NO,ADMIN,because this email is from a student expressing interest in discussing undergraduate research opportunities with the professor.,1
+134,other/synthetic_38.txt,yes,,OTHER,NO,ADMIN,". The email is regarding a technical issue related to accessing the online library portal, which falls under administrative communication.",0
+135,other/synthetic_19.txt,yes,,OTHER,NO,OTHER,because this is a personal email for catching up and does not fall into any of the specified categories.,1
+136,collaboration/synthetic_32.txt,yes,,COLLAB,NO,COLLAB,"because the email is from a professor at another university seeking collaboration for joint research grant opportunities, indicating a project collaboration.",1
+137,collaboration/synthetic_42.txt,yes,,COLLAB,NO,COLLAB,"
+The email is from an industry company, XYZ Pharmaceuticals, inviting the professor to participate as a speaker at a workshop on computational biology in drug discovery. This falls under the category of Project Collaboration Emails.",1
+138,other/4.txt,no,,OTHER,NO,OTHER,"
+This email appears to be a notification for a national test of the Alert Ready system, which does not fall into any of the specified categories. Therefore, it is classified as ""OTHER"".",1
+139,other/synthetic_15.txt,yes,,OTHER,NO,OTHER,"
+
+This email is a promotional message from a bookstore, which doesn't fall into any of the specified categories. Therefore, it belongs to the ""Others"" category.",1
+140,other/synthetic_40.txt,yes,,OTHER,NO,ADMIN,"because this email is an invitation to a charity gala related to student scholarships, which involves administrative communication for the professor.",0
+141,collaboration/6.txt,no,,COLLAB,NO,COLLAB,"
+
+The email is a clear expression of interest from the Fisher Center for Information Technology & Marketplace Transformation to collaborate with Dr. Wang on the LIGHTS research project. This falls under the category of ""Project Collaboration Emails.""",1
+142,curriculum/3.txt,no,,CURRICULUM,NO,CURRICULUM,because the email is from a student inquiring about her grade on an assignment for a specific course.,1
+143,administrative/synthetic_45.txt,yes,,ADMIN,NO,ADMIN,"
+
+The email is an administrative communication from the Head of the Sociology Department at New York University, discussing the faculty meeting schedule and agenda items related to accreditation, curriculum development, and student recruitment strategies.",1
+144,curriculum/synthetic_20.txt,yes,,CURRICULUM,NO,CURRICULUM,because this email is from a student requesting lecture slides for a specific lecture which falls under curriculum-related communication.,1
+145,administrative/8.txt,no,,ADMIN,NO,ADMIN,because the email is from a student inquiring about research assistant positions in the professor's lab.,1
+146,administrative/synthetic_47.txt,yes,,ADMIN,NO,ADMIN,". This email is related to the curriculum of the undergraduate business program and involves scheduling a meeting to go over the final adjustments, which falls under administrative communication.",1
+147,collaboration/synthetic_21.txt,yes,,COLLAB,YES,COLLAB,because this email is from an industry representative seeking collaboration with the professor on a research initiative related to solar energy storage solutions.,1
+148,administrative/synthetic_38.txt,yes,,ADMIN,NO,ADMIN,"
+The email is a call for nominations for the Faculty Senate, which is related to overseeing academics and faculty research at colleges and universities. Therefore, it falls under the category of Administrative Communication Emails.",1
+149,administrative/synthetic_36.txt,yes,,ADMIN,NO,ADMIN,". The email is discussing the scheduled faculty meeting, curriculum changes, and research fund allocation, which falls under administrative communication. It also includes attachments relevant to the faculty meeting, which further supports the classification as administrative communication.",1
+150,collaboration/synthetic_46.txt,yes,,COLLAB,NO,COLLAB,because this email is from an industry professional looking to collaborate with the professor on a project related to AI algorithms in industrial robotics.,1
+151,other/synthetic_18.txt,yes,,OTHER,NO,ADMIN,as the email is seeking advice from the professor which falls under administrative-related communication.,0
+152,recommendation/7.txt,no,,RECOM,NO,RECOM,"
+
+The email is a request for a letter of recommendation for graduate studies at UBC and McMaster University. Therefore, it falls under the category of Reference Letter Requests (RECOM).",1
+153,recommendation/synthetic_38.txt,yes,,RECOM,NO,RECOM,because the email is a thank-you letter for writing a recommendation letter for a scholarship application.,1
+154,curriculum/synthetic_36.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is related to a course that the professor is teaching. It is asking for clarification on the assignment guidelines.,1
+155,collaboration/synthetic_47.txt,yes,,COLLAB,YES,COLLAB,"because this email is from Dr. Emily White, inviting the professor to collaborate on a multi-disciplinary project. The email specifically mentions the launch of a project, seeking collaboration, and the importance of the professor's involvement for grant submission.",1
+156,recommendation/synthetic_35.txt,yes,,RECOM,NO,RECOM,"
+
+The email is a request for a reference letter for a study abroad application, which falls under the category of Reference Letter Requests.",1
+157,other/synthetic_28.txt,yes,,OTHER,YES,ADMIN,because this email is related to coordinating schedules for an alumni networking event and requesting RSVP from the professor.,0
+158,administrative/synthetic_17.txt,yes,,ADMIN,NO,ADMIN,"because this email is from a student inquiring about a student advisor position, which falls under administrative communication.",1
+159,other/1.txt,no,,OTHER,NO,COLLAB,because the email is about collaboration with WhyLabs in regards to a new course and its content related to LLM applications.,0
+160,recommendation/10.txt,no,,RECOM,NO,RECOM,because the email is from a student requesting the professor to be their recommender for their grad school applications.,1
+161,curriculum/synthetic_21.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is related to a question about the group project for the course Econ 101 that the professor is teaching. The student is seeking clarification on the submission process and the content requirements for their project.,1
+162,administrative/3.txt,no,,ADMIN,NO,ADMIN,because the email is from a graduate student seeking to join the professor's research group.,1
+163,other/synthetic_24.txt,yes,,OTHER,NO,COLLAB,"because this email is from someone seeking the professor's expert opinion and potentially looking to discuss quantum computing, which aligns with the professor's area of expertise for a potential collaboration.",0
+164,collaboration/synthetic_50.txt,yes,,COLLAB,NO,COLLAB,because the email is an invitation to collaborate on a research project related to cybersecurity initiatives.,1
+165,recommendation/synthetic_43.txt,yes,,RECOM,NO,RECOM,"
+This email is a clear request for a reference letter for a scholarship application. Therefore, it falls under the category of Reference Letter Requests.",1
+166,curriculum/synthetic_26.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is from a student informing the professor about missing a class due to a medical appointment and requesting any missed material.,1
+167,curriculum/synthetic_12.txt,yes,,CURRICULUM,YES,CURRICULUM,because this email is from a student asking for approval and guidance for their midterm project in the professor's course.,1
+168,administrative/synthetic_16.txt,yes,,ADMIN,YES,ADMIN,"
+
+The email is related to rescheduling a budget review meeting and coordinating the professor's schedule. Therefore, it falls under the category of administrative communication emails.",1
+169,other/synthetic_36.txt,yes,,OTHER,NO,OTHER,". This email is a personal email with attached photos from a reunion party. It does not fall into any of the specified categories, so it would be classified as ""Other"".",1
+170,curriculum/8.txt,no,,CURRICULUM,NO,ADMIN,": This is an administrative communication email. The student is requesting textbook information and accessibility accommodations, which fall under administrative duties and support for students with disabilities.",0
+171,curriculum/synthetic_27.txt,yes,,CURRICULUM,NO,CURRICULUM,as the email is related to a student inquiring about research paper topics for a class the professor is teaching.,1
+172,other/8.txt,no,,OTHER,NO,ADMIN,"
+
+The email is an administrative communication regarding an award announcement for the Autism Scholars Award, including information about the deadline and who to contact for questions. Therefore, it falls under the category of administrative communication emails.",0
+173,collaboration/synthetic_24.txt,yes,,COLLAB,NO,COLLAB,"because this email is from a start-up company inviting the professor to beta-test their new platform for environmental monitoring, which relates to the collaboration on projects.",1
+174,collaboration/synthetic_15.txt,yes,,COLLAB,NO,COLLAB,because this email is from an industry R&D manager proposing a collaboration with the professor's lab for a joint research initiative related to aerospace materials.,1
+175,curriculum/synthetic_22.txt,yes,,CURRICULUM,NO,CURRICULUM,"because the email is from a student seeking guidance on topic selection for a course project, which falls under curriculum-related communication.",1
+176,recommendation/synthetic_12.txt,yes,,RECOM,NO,RECOM,"
+
+The email is a follow-up from a student regarding a letter of recommendation for their graduate school application. Therefore, it falls under the category of Reference Letter Requests.",1
+177,curriculum/synthetic_39.txt,yes,,CURRICULUM,NO,COLLAB,"because this email is from a student in a professor's seminar, discussing a group project and requesting feedback.",0
+178,curriculum/6.txt,no,,CURRICULUM,NO,CURRICULUM,"
+
+The email is related to the professor's class 12345 and the student's absence from the class on Monday. It falls under the category of curriculum-related emails.",1
+179,recommendation/synthetic_29.txt,yes,,RECOM,NO,RECOM,"
+The email is a thank you letter from a student expressing appreciation for a recommendation letter provided for a scholarship application. Therefore, it falls under the category of Reference Letter Requests.",1
+180,curriculum/synthetic_32.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is specifically related to the professor's course and is a request from a student regarding an exam due to religious observance.,1
+181,administrative/synthetic_41.txt,yes,,ADMIN,YES,ADMIN,"because this email is related to a room change for a seminar, which is an administrative communication.",1
+182,administrative/synthetic_18.txt,yes,,ADMIN,NO,ADMIN,"
+This email is an administrative communication regarding the invitation to a welcome reception for new faculty members. Therefore, it falls under the category of administrative communication emails.",1
+183,curriculum/synthetic_43.txt,yes,,CURRICULUM,NO,CURRICULUM,"because the email is related to the professor's course, specifically regarding missing lectures and requesting class notes or supplementary materials.",1
+184,administrative/synthetic_49.txt,yes,,ADMIN,NO,ADMIN,because this email relates to administrative communication about a research grant application and offers assistance with the paperwork.,1
+185,administrative/synthetic_28.txt,yes,,ADMIN,NO,ADMIN,because this email is an administrative communication requesting the professor's assistance in coordinating the commencement ceremony.,1
+186,curriculum/synthetic_24.txt,yes,,CURRICULUM,NO,CURRICULUM,because the email is related to the professor's course (Statistics 101) and concerns the student's difficulty accessing the online homework platform.,1
+187,collaboration/2.txt,no,,COLLAB,NO,ADMIN,"because the email expresses gratitude for the professor's assistance with research project development, which falls under administrative communication.",0
+188,curriculum/synthetic_38.txt,yes,,CURRICULUM,YES,CURRICULUM,because the email is from a student seeking clarification on the project deadline for a class the professor is teaching.,1
+189,other/synthetic_16.txt,yes,,OTHER,NO,ADMIN,because the email is from a student referencing a previous class and checking in with the professor.,0
+190,administrative/synthetic_39.txt,yes,,ADMIN,NO,ADMIN,"ory: ADMIN
+
+The email is from the Registrar's Office and is requesting the professor's updated contact information. This falls under administrative communication, ensuring accurate contact information for official communications, and is related to the administrative efficiency of the university. Hence, it is categorized as administrative communication email.",1
+191,recommendation/synthetic_22.txt,yes,,RECOM,NO,RECOM,because this email is a request for a letter of recommendation for applying to law schools and mentions the professor's class as influential in the student's career aspirations.,1
+192,administrative/synthetic_26.txt,yes,,ADMIN,YES,ADMIN,"
+The email is informing the professor about an urgent room change for the lecture due to facility issues, and it is from the Academic Coordinator, which falls under administrative communication.",1
+193,other/synthetic_47.txt,yes,,OTHER,NO,ADMIN,"because the email pertains to a non-academic topic (gardening) and does not fall into any of the other specific categories such as curriculum-related, project collaboration, or reference letter requests.",0
+194,other/6.txt,no,,OTHER,NO,ADMIN,"
+The email is related to facility issues in the Bahen building, which falls under administrative communication. It includes information about a technical problem in the building's door access system, the installation of temporary door openers, and a caution regarding building access during off-hours. Therefore, it should be classified as an administrative communication email.",0
+195,administrative/synthetic_43.txt,yes,,ADMIN,NO,ADMIN,because this email is related to faculty research budget review meeting and the involvement of the professor as a senior member of the research committee.,1
+196,collaboration/synthetic_34.txt,yes,,COLLAB,NO,COLLAB,as the email is from a company expressing interest in forming a partnership with the professor's laboratory and discussing potential areas of collaboration in more detail.,1
+197,other/synthetic_50.txt,yes,,OTHER,NO,OTHER,. This email is an invitation to join a book club and does not fall into any of the specified categories.,1
+198,collaboration/synthetic_30.txt,yes,,COLLAB,NO,COLLAB,"because this email is a clear request for collaboration on an educational technology initiative, demonstrating interest in the professor's research findings and potential integration into their curriculum development process.",1
+199,recommendation/synthetic_45.txt,yes,,RECOM,NO,RECOM,because the email is a request for a reference or recommendation letter for a job application.,1

@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import sys
 
-client = OpenAI(api_key="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")
+client = OpenAI()
 
 categories = ['RECOM', 'COLLAB', 'CURRICULUM', 'ADMIN', 'OTHER']
 

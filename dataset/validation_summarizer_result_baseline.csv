@@ -1,0 +1,623 @@
+Unnamed: 0,filename,synthetic,reference,category,time_sensitive,urgent,summary,correct_urgency,reasoning
+0,recommendation/9.txt,no,,RECOM,NO,NO,,1,"
+
+The email is cordial and polite, without any indication of urgency or time-sensitive requests. It simply requests the recipient to submit another copy of the letter of recommendation due to some issues with the university's internal processing procedure. There is no mention of any deadline or urgent timeframe, and the overall tone of the email is casual and appreciative. Therefore, this email is non-urgent."
+1,curriculum/synthetic_44.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email does not exhibit a sense of urgency. It is a polite request for advice regarding a group project conflict, with no indication of a pressing deadline or immediate attention required."
+2,other/synthetic_48.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is an invitation to an art exhibition where the sender's photography will be featured. There is no indication of urgency or time-sensitivity in the email. The tone is casual and friendly, and there is no request for a response or action. Therefore, the email does not require immediate attention or a reply, and can be categorized as non-urgent."
+3,recommendation/synthetic_27.txt,yes,,RECOM,YES,YES,"Urgent Request for Recommendation: Emily R. seeks a last-minute recommendation letter for the Stanford Data Science program, needing it by Thursday due to the approaching deadline.",1,"
+The email entails a request for action (writing a recommendation letter before Thursday) that is time-sensitive and acknowledges the last-minute nature of the request. The tone of the email conveys urgency, emphasizing the seriousness and importance of the situation. The mention of the absolute final date for submission being on Friday, April 7th, and the request for the letter to be drafted by Thursday due to potential unexpected issues, solidifies the urgency of the email. Hence, it requires a prompt response and assistance as soon as possible."
+4,curriculum/4.txt,no,,CURRICULUM,YES,NO,,0,"
+
+There is no indication of urgency in the email. The student is requesting an extension for a lab assignment due to a mistaken understanding of the deadline and being sick during the reading break. The tone is apologetic, and the request for an extension is not time-sensitive. Therefore, it does not require immediate attention or a reply by the end of the next day."
+5,administrative/synthetic_48.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email serves as a gentle reminder about a scheduled faculty meeting on April 15th and requests confirmation of attendance from the recipient. There are no urgent requests or time-sensitive matters mentioned in the email, and the tone is polite and non-urgent. Therefore, it does not require an immediate response."
+6,other/synthetic_30.txt,yes,,OTHER,NO,NO,,1,"
+
+This email does not require urgent attention. It is a promotional email offering a discount on science and technology journals at a bookstore and does not contain any time-sensitive requests or time-sensitive information."
+7,other/synthetic_35.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is not urgent as it does not contain any time-sensitive information or request for immediate action. It is a standard marketing email reminding the recipient to confirm their subscription."
+8,curriculum/synthetic_15.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is seeking clarification on the group project guidelines, but it does not express any urgency. It is a straightforward request for information and does not require immediate attention or a reply by the end of the next day. Therefore, it is a non-urgent email."
+9,administrative/synthetic_33.txt,yes,,ADMIN,NO,NO,,1,"
+
+This is a non-urgent email. It is a routine communication regarding budget adjustments for the upcoming fiscal year. The tone of the email is polite and there is no sense of urgency expressed. The request for a meeting is for the following week, indicating that the matter is not time-sensitive. Therefore, this email does not require immediate attention or a reply by the end of the next day."
+10,collaboration/synthetic_13.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a simple expression of gratitude and sharing an update on the implementation of some ideas discussed previously. There is no sense of urgency or time-sensitive information in the email. It does not require immediate attention or a reply by the end of the next day."
+11,recommendation/synthetic_37.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent as there is no immediate deadline mentioned, and the tone of the email is polite and casual. The sender, Michael, is simply following up on a previous conversation and does not express any urgency or time-sensitive need for the recommendation letter."
+12,administrative/1.txt,no,,ADMIN,NO,NO,,1,"
+
+The email is not urgent. The content of the email is a polite inquiry from a student expressing interest in joining a research project. The tone of the email is respectful and there is no indication of any time-sensitive request or deadline. Therefore, it does not require immediate attention or a reply by the end of the next day."
+13,administrative/synthetic_46.txt,yes,,ADMIN,YES,YES,"Budget Approval Needed for ""Data Science in Education"" Workshop: Megan Hughes urgently seeks approval for the budget proposal by the end of the day, required for vendor payments and marketing efforts.",1,"
+The email includes a request for timely approval by the end of the day, emphasizing the urgency by mentioning the approaching deadline for the early bird registration, the need to meet contractual obligations with vendors, and the importance of ensuring a successful event. The tone of the email conveys a sense of urgency and the need for immediate attention, indicating that the email is time-sensitive and requires a prompt response."
+14,administrative/synthetic_35.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a reminder for a faculty photoshoot happening this Thursday from 1 PM to 3 PM. It does not express any urgency or time-sensitive request. The tone of the email is polite and gentle, without any indication of an urgent need for a response or action. Therefore, it can be categorized as a non-urgent email."
+15,collaboration/synthetic_20.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is not urgent. It is a brief introductory message from Jane Lee, CEO of SmartMed Tech, regarding a potential collaboration with the recipient's biomedical engineering lab at UCLA. There is no explicit indication of urgency, and the tone of the email is casual and introductory, suggesting that it does not require immediate attention or a reply by the end of the next day."
+16,collaboration/synthetic_17.txt,yes,,COLLAB,NO,NO,,1,"
+
+This is a non-urgent email. 
+
+The email expresses gratitude and excitement about a potential collaboration but does not contain any time-sensitive requests or urgent matters. The overall tone is positive and appreciative, with no indication of time constraints or immediate action required. Therefore, it does not require urgent attention or a reply by the end of the next day."
+17,collaboration/synthetic_14.txt,yes,,COLLAB,NO,NO,,1,"
+
+There is no indication of urgency or time-sensitive matters in the email. The tone is professional, polite, and seeking an update, but it does not express any urgency or immediate action required. The email is a follow-up concerning a bioengineering collaboration proposal, with the sender looking for assurance of receipt and a possibility of further inquiry or assistance. Therefore, this does not qualify as urgent."
+18,curriculum/synthetic_25.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is a polite request for a meeting at an alternate time due to a scheduling conflict. While the student is seeking clarification on a previous lecture, there is no indication of urgency or time sensitivity in the email. Therefore, this email is non-urgent."
+19,administrative/5.txt,no,,ADMIN,NO,NO,,1,"
+
+The email is not urgent. It is a polite and formal inquiry about potential undergraduate research opportunities in the professor's lab. It does not express a need for an immediate response or specify a time-sensitive deadline."
+20,administrative/synthetic_13.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is non-urgent. It is a courtesy notification about the rescheduling of a committee meeting, providing the new date and time. There is no indication of any time-sensitive requests or urgent matters that require immediate attention."
+21,collaboration/synthetic_18.txt,yes,,COLLAB,YES,YES,Urgent Collaboration Meeting Request: Dr. Klaus Müller urgently seeks confirmation on the joint research schedule by tomorrow afternoon due to an impending critical review with the funding body.,1,"
+The email contains a request for prompt action to finalize a joint research schedule by the end of the week and confirm it by tomorrow afternoon to meet project milestones and prepare for a critical review with the funding body. It conveys a sense of urgency by highlighting the tight project timeline, the need to avoid delays, and the offer for an emergency teleconference within the next 24 hours. Therefore, the email requires immediate attention and a swift response, indicating its urgency."
+22,curriculum/synthetic_45.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+There is no urgency expressed in the email. It is a simple inquiry about an opportunity for extra credit. The tone is polite and there is no indication of time sensitivity. Therefore, this email is non-urgent."
+23,recommendation/4.txt,no,,RECOM,NO,NO,,1,"
+
+The email is appreciative in tone and expresses a general request for a reference letter for a graduate program application. It does not contain any time-sensitive information or urgency-indicating language. Therefore, it does not require immediate attention and can be categorized as a non-urgent email."
+24,collaboration/synthetic_26.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email does not show any signs of urgency. It is a polite and respectful request to explore potential partnership opportunities without indicating a specific time constraint or deadline."
+25,recommendation/synthetic_49.txt,yes,,RECOM,NO,NO,,1,"
+
+The email expresses gratitude for a reference letter previously provided, with no indication of urgency or request for further action. The tone of the email is appreciative and warm, conveying a sense of gratitude and thanks. Therefore, the email is non-urgent and does not require immediate attention."
+26,curriculum/synthetic_31.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a polite and formal request to discuss a term paper topic. It does not contain any urgent time-sensitive requests or indications of immediate action. Therefore, it can be categorized as non-urgent.
+
+The email is a simple request for a discussion about the term paper topic, and the tone is polite and cordial. There are no urgent requests or time constraints mentioned in the email, indicating that it does not require immediate attention or a reply by the end of the next day."
+27,other/synthetic_11.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is not urgent because it is a promotional announcement about a Cyber Monday sale on academic books with a deadline of the upcoming Friday. The tone of the email is polite and informative, without expressing any urgency or requiring immediate attention."
+28,other/synthetic_46.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is non-urgent, it's a simple and friendly birthday greeting from a former teaching assistant. The tone of the email is warm and friendly, but there is no request for immediate attention or response, and no time-sensitive information is provided."
+29,recommendation/synthetic_28.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a polite follow-up on a previous conversation regarding a recommendation letter for a job application. Although there is a mention of an approaching deadline, there is no indication of urgency in the language or tone of the email. The sender is simply following up and providing additional documents. Therefore, the email does not require immediate attention or a reply by the end of the next day, and is thus non-urgent."
+30,collaboration/synthetic_48.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a courteous and appreciative follow-up from Alex Thompson, the Head of Product Development at Widget Corp, expressing gratitude for the professor's presentation at the Innovation Conference and expressing interest in potential collaboration. There is no immediate request for action, and the tone of the email is polite and appreciative, without any indication of urgency. Therefore, the email is non-urgent."
+31,other/synthetic_41.txt,yes,,OTHER,NO,NO,,1,"
+
+This email is non-urgent. It's a casual invitation to a music event and doesn't contain any time-sensitive requests, deadlines, or urgent matters that require immediate attention."
+32,curriculum/synthetic_47.txt,yes,,CURRICULUM,YES,YES,Urgent: Typo in Calculus II Homework Set #3,1,"
+The email is urgent because it entails a request for clarification on a time-sensitive matter, with the homework set due tomorrow. The tone of the email conveys a sense of urgency, as it requests confirmation on the formula provided to complete the assignment correctly and on time. Additionally, the student requests an email response before the end of today or an early update tomorrow, indicating the need for immediate attention."
+33,curriculum/9.txt,no,,CURRICULUM,NO,NO,,1," 
+
+The email is not urgent.
+
+The email is a polite and formal request for an extension on a project due to graduate school applications and other course assignments. The tone of the email is respectful and does not express any urgency. There is no indication of a time-sensitive deadline or urgent need for immediate attention. Therefore, the email is non-urgent."
+34,administrative/synthetic_27.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a reminder about an upcoming budget meeting for the Biology Department. The tone is casual and friendly, expressing anticipation of the recipient's insights and proposals. There is no indication of urgency or time-sensitive action required. Therefore, the email is non-urgent."
+35,other/synthetic_42.txt,yes,,OTHER,YES,YES,Urgent: Registration and Shirt Size Confirmation Needed for Charity Marathon,1,"
+First, the email contains time-sensitive information regarding the registration deadline, which is approaching on April 30th, and the need for a shirt size confirmation by the end of the day. Secondly, the tone of the email emphasizes the urgency by using phrases like ""fast approaching,"" ""spots are filling up quickly,"" and ""crucial to mention."" Both the impending deadline and the urgent tone of the email indicate that a prompt response is required, making it an urgent email."
+36,recommendation/synthetic_13.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent. It expresses gratitude for a past action and does not imply any time-sensitive request or urgent action needed."
+37,collaboration/synthetic_11.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email does not express any urgency or time-sensitivity in its content. It’s a polite invitation for potential collaboration on a new project, and it does not require immediate attention or a reply by the end of the next day."
+38,collaboration/synthetic_43.txt,yes,,COLLAB,NO,NO,,1,"
+
+No urgent action is required for this email.
+
+The email from Eric Monroe does not convey urgency or time-sensitive requests. It is a polite and professional inquiry about the possibility of setting up a research partnership, and it simply proposes a future virtual meeting to discuss potential collaboration. Therefore, this email can be categorized as non-urgent."
+39,recommendation/synthetic_26.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a polite request for a letter of recommendation for John Doe's graduate program application. It does not contain any time-sensitive requests or urgent deadlines. The tone of the email is respectful and acknowledges the recipient's potential busy schedule. The content does not express a sense of urgency or any imminent deadlines. Therefore, it can be categorized as a non-urgent email."
+40,administrative/2.txt,no,,ADMIN,NO,NO,,1,"
+
+The email is a polite and formal request for a meeting to discuss the recipient's work, and the sender expresses interest in engaging in a scholarly discussion. There are no time-sensitive requests or urgent language in the email. Therefore, the email does not require immediate attention or a reply by the end of the next day."
+41,curriculum/10.txt,no,,CURRICULUM,NO,NO,,1,"
+
+Reasoning:
+The email does not express any urgency or time-sensitive request. It is a simple query about the citation style preference for an assignment due on September 30th. The tone of the email is polite and the sender is simply seeking clarification. Therefore, it does not require immediate attention or a reply by the end of the next day."
+42,collaboration/synthetic_41.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email does not appear to be urgent as there is no time-sensitive information or request that necessitates immediate attention. The tone of the email is cordial and does not convey any sense of urgency. The email simply expresses an interest in a potential collaboration and does not specify any urgent deadlines or time-sensitive tasks. Therefore, it can be categorized as a non-urgent email."
+43,collaboration/10.txt,no,,COLLAB,NO,NO,,1,"
+
+The email is non-urgent as it confirms the commitment to collaborate on research described in a proposal without mentioning any specific time-sensitive or urgent request. The tone of the email is formal and expresses an interest in collaboration without indicating any immediate action or timeframe. Therefore, it does not require urgent attention or a reply by the end of the next day."
+44,recommendation/synthetic_23.txt,yes,,RECOM,NO,NO,,1,"
+
+The email expresses gratitude and a polite request for an update, but there is no indication of urgency or a time-sensitive nature. The tone is appreciative and respectful, without any explicit mention of a looming deadline. Therefore, the email does not require immediate attention or a reply by the end of the next day."
+45,other/9.txt,no,,OTHER,NO,NO,,1,"
+
+This email is non-urgent.
+The email is a reminder to vote in the 2023-2024 EUS Departmental Elections, By-Election, and Winter Referendum. There is no indication of urgency or a need for immediate attention."
+46,collaboration/synthetic_35.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email expresses gratitude and a desire for future collaboration, but it doesn’t contain any time-sensitive requests or urgency. The tone is appreciative and focused on future collaboration, but there is no indication of an immediate action required. Therefore, it can be considered a non-urgent email."
+47,other/synthetic_39.txt,yes,,OTHER,NO,YES,Urgent: Final Call for Poetry Slam Judges!,0,"The email is urgent as it is a time-sensitive request for the recipient to act as a judge for the Poetry Slam event, which is scheduled for March 15th. The tone of the email conveys a sense of urgency by using phrases like ""in dire need"" and ""the event is on March 15th,"" which suggests an imminent need for a response or decision."
+48,curriculum/synthetic_33.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is not urgent. Anita is notifying about her absence from class due to a family emergency and is seeking to discuss making up the missed lab session. There is no indication of urgency or time-sensitivity in the email."
+49,collaboration/3.txt,no,,COLLAB,NO,NO,,1," 
+
+Statement of reasons:
+The email does not contain any urgent language, it is written in a formal and polite tone, but there is no indication of time sensitivity or urgency in the content. The email seems to be an expression of interest in collaborative research and does not request any immediate action or response."
+50,collaboration/synthetic_31.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent. The email is a polite and professional invitation to collaborate on autonomous vehicle technology. It does not contain any time-sensitive requests or urgent deadlines. The tone of the email is cordial and does not express any urgency, indicating that it can be addressed at the recipient's convenience."
+51,administrative/synthetic_21.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a polite inquiry about the procedure for applying for a sabbatical to pursue research on cognitive learning methods. The tone is formal and courteous, and there are no indications of urgency or time-sensitive requests. As a result, the email does not require immediate attention or a reply by the end of the next day."
+52,recommendation/synthetic_25.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is a polite reminder about a recommendation letter due for a Master's program at Yale by April 15th. The sender uses a positive and polite tone without expressing urgency, and there is no immediate need for a response before the next day. Therefore, it can be categorized as a non-urgent email."
+53,collaboration/synthetic_33.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email does not indicate any time-sensitive request or urgency to respond. The tone is polite and courteous, and there is no mention of any impending deadline or urgent action required. Therefore, this email is non-urgent."
+54,other/synthetic_32.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a polite invitation to an upcoming Alumni Networking Event, and there is no indication of urgency in the tone or content. The message does not require attention or a reply by the end of the next day."
+55,curriculum/synthetic_23.txt,yes,,CURRICULUM,YES,YES,Urgent: Sarah McLean seeks advice on handling an unresponsive group member for a time-sensitive project deadline.,1,"
+First, the email conveys a sense of urgency by highlighting the approaching project deadline and the present concern about the workload distribution. Second, Sarah's request for a meeting tomorrow or by the end of the week underlines the immediate attention needed to resolve the situation. Additionally, the tone of the email is proactive, demonstrating a genuine commitment to delivering a quality project, which requires prompt assistance. Hence, the email is considered urgent."
+56,other/synthetic_44.txt,yes,,OTHER,YES,YES,Urgent: Photo Inclusion Request for Yearbook,1,"The email requests urgent permission to include a photo in the yearbook by the approaching Friday deadline. 
+The email conveys a sense of urgency as it specifies the imminent deadline for submissions and emphasizes the need for a prompt response. The time-sensitive nature of the request and the importance of the professor's timely permission necessitate urgent attention to this email."
+57,curriculum/synthetic_17.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a polite inquiry from a student, asking for information about an upcoming seminar. The tone of the email is respectful and polite, and there is no indication of urgency or time-sensitive request. Therefore, it does not require immediate attention and can be addressed at the recipient's convenience."
+58,collaboration/synthetic_49.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email expresses gratitude for a previous discussion and outlines future steps for a potential collaboration. It does not contain any time-sensitive requests or urgent information that requires the recipient's immediate attention. The tone is appreciative and anticipatory, indicating a follow-up without urgency. Hence, the email is non-urgent."
+59,other/2.txt,no,,OTHER,NO,NO,,1,"
+
+Reasoning:
+This email provides important information about the Fall 2023 Graduation Approval Deadlines and includes instructions for students to follow. The tone of the email is informative and reminds students to take the necessary steps for graduation. While it contains important deadlines, it doesn't express urgency or need for immediate action. The email serves more as a final reminder and does not require a reply by the end of the next day."
+60,other/5.txt,no,,OTHER,NO,NO,,1,"
+
+This email is non-urgent. It provides information regarding the upcoming Governing Council elections and emphasizes the importance of student participation in governance. The email invites students to attend information sessions about the election process and the available seats on the council. There is no indication of urgency or time-sensitive requests that require immediate attention or a response by the next day."
+61,curriculum/synthetic_28.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is non-urgent as it's a polite and straightforward inquiry from a student seeking clarification on the exam coverage. The tone is respectful and lacks any urgency or time constraints. Therefore, it does not require immediate attention or a reply by the end of the next day."
+62,other/10.txt,no,,OTHER,NO,NO,,1,"
+
+The email is an invitation to a celebration event for the School of Computer Science's 50th anniversary. It does not contain any urgent requests or time-sensitive information."
+63,recommendation/synthetic_46.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent as it involves a polite inquiry about the possibility of obtaining a recommendation letter for a Master's degree application at MIT. There is no mention of a specific deadline or urgent timeframe. The tone of the email is respectful and courteous, and the sender requests a meeting for a discussion next week, indicating no immediate urgency."
+64,recommendation/synthetic_30.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent. It is a polite and respectful inquiry regarding a letter of recommendation for an internship program that has a clear deadline stated. The tone of the email is formal and respectful. The sender explicitly mentions the submission deadline, and there is no indication of urgency or time constraints requiring immediate attention."
+65,administrative/synthetic_40.txt,yes,,ADMIN,NO,NO,,1,"
+
+This is a non-urgent email. The purpose of the email is to remind the recipient about the upcoming deadline for submitting the annual performance review documentation. The tone of the email is polite and supportive, without any specific urgency expressed. It does not seek a reply by the end of the next day, and the content does not convey any time-sensitive message."
+66,curriculum/5.txt,no,,CURRICULUM,NO,NO,,1,"
+
+The email is not urgent. It is a polite request from a student to schedule a meeting during the professor's office hours to discuss a previous exam. There is no indication of time-sensitivity or urgency in the email."
+67,other/synthetic_33.txt,yes,,OTHER,NO,NO,,1,"
+
+This is a non-urgent email. The email is a simple and polite birthday wish to the professor and does not require any immediate action or reply."
+68,administrative/synthetic_50.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a regular invitation to a faculty meeting to discuss the implementation of a new student feedback mechanism. The tone is formal and informative, lacking any urgent language or time-sensitive requests. Therefore, this email does not require an immediate response and is non-urgent."
+69,curriculum/synthetic_37.txt,yes,,CURRICULUM,YES,YES,Urgent request for Assistance with Programming Assignment: Sophie Graham seeks one-on-one assistance during office hours within the next two days to resolve issues with a time-sensitive programming assignment due this Friday.,1,"
+First, the email entails a request for immediate action (meeting within the next two days) to resolve a time-sensitive issue, ensuring the submission of an assignment due on Friday. Second, the tone of the email conveys a sense of urgency, with the student emphasizing the need for a prompt response due to the time-sensitive nature of the assistance needed. As a result, the email requires a quick response and immediate assistance, implying it is an urgent email."
+70,recommendation/synthetic_33.txt,yes,,RECOM,NO,NO,,1,"
+
+Statement: The email is a polite and heartfelt expression of gratitude with no request for immediate action or time-sensitive information. Therefore, it doesn't require urgent attention."
+71,collaboration/synthetic_40.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email does not express any urgency or time-sensitive requests. It is a polite and general inquiry about potential collaboration for a grant application, and it suggests to schedule a meeting for the discussion. The tone is professional and cordial, without any indication of urgency or immediate action required. Therefore, it is a non-urgent email."
+72,recommendation/synthetic_48.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is polite and cordial, with no indication of urgency in the content or tone. The sender is not imposing a tight deadline or expressing any sense of immediate need. Therefore, this email does not require urgent attention or a reply by the end of the next day."
+73,collaboration/5.txt,no,,COLLAB,YES,YES,"Urgent Confirmation Needed for Collaboration: The email requests urgent confirmation for a collaboration on research, specifically emphasizing the need for confirmation by the end of the week and scheduling an initial meeting by the 15th of the month.",1,"
+The email specifies the urgency of the confirmation by the end of the week and scheduling the initial meeting by the 15th of the month, indicating a time-sensitive nature. It conveys a sense of urgency by stressing the need for synchronization of research initiatives and allocation of resources due to a crucial planning phase. The immediate response is necessary to secure necessary time slots for the meeting, which implies urgency."
+74,recommendation/synthetic_20.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a polite and respectful inquiry about a reference for an internship. There is no explicit indication of urgency or a specific deadline in the email. The tone is professional and courteous, and the sender is simply inquiring about the possibility of a reference without expressing time sensitivity. Therefore, the email is not urgent."
+75,other/synthetic_22.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a non-urgent seasonal greeting message, expressing warm wishes to the professor for the holiday season. It does not contain any time-sensitive requests or urgent matters that require immediate attention or a reply."
+76,collaboration/synthetic_36.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is not urgent as it is a polite invitation for a potential research partnership. There is no explicit mention of time-sensitivity or an immediate need for a response. The sender expresses interest in discussing potential collaboration during an upcoming conference, indicating a willingness to wait for a reply until that meeting."
+77,curriculum/1.txt,no,,CURRICULUM,NO,NO,,1,"
+
+The email is non-urgent as it seeks clarification on the deadline for the final essay. There is no apparent urgency in the tone of the email, and it does not contain a time-sensitive request."
+78,administrative/synthetic_30.txt,yes,,ADMIN,NO,NO,,1,"
+
+Based on the content and tone of the email, there is no indication of urgency or time-sensitive nature. The email is a request for assistance related to providing documentation for the accreditation process by April 15th, but it does not express any immediate time constraints or urgency for a response. Therefore, this email is non-urgent."
+79,administrative/synthetic_15.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a confirmation of the conference room booking for the ""Innovations in Biotechnology"" roundtable discussion on May 12th. There is no urgency expressed in the email, and it does not require any immediate action or response. Therefore, it is a non-urgent email."
+80,recommendation/synthetic_32.txt,yes,,RECOM,NO,NO,,1,"
+
+There are no urgent indicators in this email. While the sender is following up on a previous request for a recommendation letter, the tone is polite and there is no sense of urgency conveyed. Additionally, there is no specified deadline that requires immediate attention. As a result, this email does not warrant an urgent response."
+81,administrative/synthetic_37.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a notification regarding the temporary relocation of the professor's office due to ongoing renovations. It does not contain any time-sensitive requests or urgent action needed. The tone of the email is informal and polite, indicating it is a routine notice rather than an urgent matter. Therefore, it can be categorized as a non-urgent email."
+82,administrative/synthetic_11.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a simple reminder about the upcoming annual Departmental Budget Review meeting. The tone is polite and gentle, and there is no indication of urgency or time-sensitivity. The email does not request any immediate action or reply, and the tone is professional and formal, indicating that it does not require urgent attention."
+83,curriculum/synthetic_35.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a polite request for extra material to aid in understanding a challenging topic from the lecture. The tone is polite and there are no indications of urgency or time-sensitivity. Therefore, the email is non-urgent."
+84,collaboration/synthetic_37.txt,yes,,COLLAB,YES,YES,"Urgent Invitation to Join Automotive Sensor Project Consortium: The email conveys an urgent need for confirmation of participation in a consortium kick-off meeting by stating the need for a response by April 10th, alongside the significance of timely attention due to the international schedule.",1,"
+The email's purpose is to invite the recipient to join a consortium for a cutting-edge project regarding advanced sensor technology for autonomous vehicles. The urgency is derived from the need for confirmation of participation by the end of the day on April 10th and emphasizes the importance of finalizing the list of participants within the next 48 hours due to the consortium's schedule. Additionally, the tone of the email, with phrases like ""imperative that we finalize the list of participants"" and ""your immediate attention to this matter would be greatly appreciated,"" indicates the urgency of the request. Hence, the email is considered urgent."
+85,curriculum/synthetic_48.txt,yes,,CURRICULUM,YES,NO,,0,"
+
+The email is a polite request for a project deadline extension, with no indication of time-sensitivity or urgency. The tone is respectful and there is no explicit mention of an urgent situation or imminent deadline. Therefore, this email can be classified as non-urgent."
+86,other/synthetic_34.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a promotional message from AcademiaBooks, offering a 40% discount on their latest releases in Anthropology. It contains a time-bound offer that ends on Friday. However, the tone of the email is not urgent, and it does not require a response or immediate attention. Therefore, it is a non-urgent email."
+87,administrative/9.txt,no,,ADMIN,NO,NO,,1,"
+
+This email is a general inquiry for research assistant positions and does not contain any time-sensitive information. The tone of the email is polite and informative, and there is no indication of urgency. Therefore, this email is non-urgent."
+88,recommendation/synthetic_31.txt,yes,,RECOM,YES,NO,,0,"
+
+The email is a polite request for a letter of recommendation for the sender's application to a Master's program. There is a sense of urgency in the email, as the sender is asking for a response by tomorrow morning. However, the urgency does not necessarily indicate a time-sensitive matter that requires immediate attention or a reply by the end of the next day. Therefore, this email is non-urgent."
+89,recommendation/synthetic_17.txt,yes,,RECOM,NO,NO,,1,"
+
+The email expresses gratitude for a recommendation letter that has already been sent. There is no sense of urgency or request for further action. Thus, it does not require immediate attention or a reply."
+90,recommendation/synthetic_19.txt,yes,,RECOM,NO,NO,,1,"
+
+The email does not convey a sense of urgency, and there are no time-sensitive requests or deadlines mentioned. The tone is polite and considerate, but there is no indication that an immediate response is needed. Therefore, this email is non-urgent."
+91,administrative/synthetic_19.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a polite invitation for Professor Khan to serve on the Tenure Review Committee, with a deadline mentioned for expressing interest. There is no urgency expressed in the email, and it does not require immediate attention or a response by the end of the next day."
+92,recommendation/synthetic_24.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a polite inquiry from the student, Emma Chung, to Professor Montgomery, requesting a recommendation for a job application at Google. The tone of the email is respectful and courteous, and there is no explicit mention of a deadline or urgent timeframe. As a result, the email does not contain any time-sensitive requests or urgency, and it does not require immediate attention or a reply by the end of the next day."
+93,administrative/synthetic_42.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is a non-urgent reminder about the submission of student evaluation forms by a specific deadline. The tone of the email is polite and courteous, and there is no explicit urgency expressed in the language used. It does not require immediate attention or a reply by the end of the next day."
+94,recommendation/synthetic_47.txt,yes,,RECOM,NO,YES,Urgent Request for Job Reference Letter: Mike seeks a quick reference letter for a job opportunity.,0,"
+The email is a time-sensitive request for a job reference letter, and the sender emphasizes an urgent need to ""whip up a quick reference letter."" Although the tone is casual, the urgency is conveyed through the request for immediate action. Based on the urgent request for a job reference letter, this email requires prompt attention and falls under the category of urgent emails."
+95,other/synthetic_27.txt,yes,,OTHER,YES,YES,"Urgent: James Pearson is urgently seeking assistance in locating his lost blue notebook before his thesis defense scheduled for this Friday, April 7th.",1,"
+The email expresses a sense of urgency and anxiety about the lost notebook's importance for an upcoming thesis defense, creating increased time-sensitivity. The sender's use of words like ""crucial,"" ""quite anxious,"" and ""desperately"" highlights the urgency and concern over the lost item. The email also mentions the impending thesis defense on Friday, indicating the need for immediate action. Therefore, it requires urgent attention and action from the recipient."
+96,collaboration/synthetic_44.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a simple expression of gratitude and confirmation of a future action related to a prior discussion. It does not request any immediate response or action. Therefore, it is not an urgent email."
+97,recommendation/synthetic_39.txt,yes,,RECOM,NO,NO,,1,"
+
+This email is non-urgent. It is a polite reminder regarding a reference letter for a Masters program application. The tone of the email is polite and does not express any urgency or time constraints. Therefore, it does not require immediate attention or a reply by the end of the next day."
+98,other/synthetic_43.txt,yes,,OTHER,NO,NO,,1,"
+
+This email is non-urgent because it's a casual request for a banana bread recipe and doesn't require immediate attention. The tone of the email is relaxed and friendly, and there's no indication of time sensitivity or urgency."
+99,other/synthetic_29.txt,yes,,OTHER,NO,NO,,1,"
+
+The email does not convey any sense of urgency or time-sensitive request. It is a polite invitation for the professor to provide feedback on the museum exhibit before the public opening next month. The tone is courteous and does not express any immediate need for a response or feedback, indicating that this is a non-urgent email."
+100,administrative/10.txt,no,,ADMIN,NO,NO,,1,"
+
+This email is not urgent. It is a polite inquiry from a first-year undergraduate student at UCLA seeking to enroll in the Student Research Program (SRP) 99 Contract Course. The student expresses interest in the recipient's research area and seeks to discuss the possibility of enrolling in a research course with the recipient, providing their availability for a meeting. The tone of the email is polite and respectful, but there is no indication of time sensitivity or urgency in the content. Therefore, this email is non-urgent."
+101,recommendation/synthetic_50.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a routine request for an academic reference for an internship application. The sender does not express any urgency or time constraints. The tone of the email is polite and respectful, and the sender mentions looking forward to hearing from the recipient, indicating that there is no immediate urgency. Therefore, this email does not require urgent attention."
+102,collaboration/synthetic_27.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is not urgent. It's a polite and professional inquiry about a potential collaboration and a joint grant application. The tone is friendly and open-ended, and there's no indication of time-sensitivity or an immediate need for a response."
+103,administrative/synthetic_12.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is non-urgent as it is a polite request for course scheduling assistance for the next semester. The tone of the email is polite and there are no urgent time-sensitive requests or deadlines mentioned."
+104,administrative/synthetic_14.txt,yes,,ADMIN,NO,YES,"Urgent Reminder: Carolyn Joyce emphasizes the rapidly approaching deadline of May 1st for the mandatory compliance training on ""Ethical Conduct in Research.""",0,"
+The email urges immediate attention by reminding the recipient of the upcoming deadline to complete the mandatory training. Although the tone remains polite and friendly, the use of ""quickly approaching"" and ""essential"" conveys a sense of urgency. The message implies the need for prompt action to meet the impending deadline, making this email an urgent request."
+105,collaboration/synthetic_12.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a friendly inquiry from Mark Linton expressing interest in collaborating with the professor on sustainable packaging solutions. The tone is casual and there is no indication of urgency or time-sensitivity. Therefore, it does not require immediate attention or a reply by the end of the next day."
+106,recommendation/6.txt,no,,RECOM,NO,NO,,1,"
+
+The email is not urgent. Isabella Hao is simply inquiring about the receipt of her recommendation letter request submitted during the summer. There is no indication of time-sensitivity or urgency in the email."
+107,collaboration/synthetic_29.txt,yes,,COLLAB,NO,NO,,1,"
+This is a non-urgent email.
+
+The email is a polite follow-up to a previous discussion, indicating that the sender is keen to move forward with the collaboration but doesn't express any time-sensitivity or urgency in their tone. There is no explicit request for immediate feedback or action, and the email doesn't impose a strict deadline or imply any imminent event requiring urgent attention. Therefore, it can be categorized as a non-urgent email."
+108,collaboration/synthetic_25.txt,yes,,COLLAB,NO,NO,,1,"
+
+This is a non-urgent email.
+
+The email expresses gratitude for the lecture series and indicates an interest in potential future collaborations. There is no urgency or time-sensitive request for action in the email. The tone is appreciative and friendly, and there is no indication of any time constraints or immediate needs for a response. Therefore, the email is non-urgent."
+109,other/synthetic_26.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a general notification about a change in the schedule for the University Book Club meeting. There is no indication of urgency or a request for immediate attention. Therefore, it is a non-urgent email."
+110,collaboration/synthetic_19.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email does not contain any time-sensitive or urgent requests, and the tone of the email is casual and informational rather than urgent. The sender is simply reaching out for a potential collaboration without any time constraints or pressures mentioned. As a result, the email is non-urgent."
+111,curriculum/synthetic_41.txt,yes,,CURRICULUM,NO,NO,,1,"
+The email is not urgent as there are no time-sensitive requests or urgent language used in the email.
+
+The student, Jaime, is seeking clarification on the term paper guidelines, particularly on how to address counterfactual scenarios regarding the outcomes of the war. The email is polite and does not express any urgency. Therefore, it does not require immediate attention or a reply by the end of the next day."
+112,collaboration/8.txt,no,,COLLAB,NO,NO,,1,"
+
+The email does not contain any time-sensitive requests or urgent action items. It is a formal confirmation of Citigroup's interest in collaborating on a research project. The tone of the email is professional and formal, and there are no indications of urgency or time constraints. Therefore, it can be classified as a non-urgent email."
+113,other/synthetic_21.txt,yes,,OTHER,NO,NO,,1,"
+
+Statement of reasons: The email is a simple notification of a change of address and does not contain any time-sensitive or urgent requests. The tone of the email is polite and there is no indication of urgency in the language used. Therefore, it does not require immediate attention or a reply by the end of the next day."
+114,recommendation/synthetic_15.txt,yes,,RECOM,NO,NO,,1,"
+
+This email does not require urgent attention.
+
+The email is a polite reminder about a recommendation letter for an internship application with NASA, with the deadline set for April 15th. The sender acknowledges the recipient's busy schedule but does not express any urgency or time constraints. Therefore, there is no indication of any immediate action needed, making it a non-urgent email."
+115,collaboration/synthetic_39.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a polite and professional invitation for potential research collaboration. There is no indication of urgency, time-sensitivity, or a need for an immediate response. Therefore, this email does not qualify as urgent."
+116,collaboration/synthetic_28.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is friendly and positive, but it does not contain any time-sensitive requests or urgent deadlines. It's a casual invitation to collaborate on AI research, without any indication of requiring immediate attention. Therefore, the email is non-urgent."
+117,collaboration/synthetic_22.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent as it is a simple thank-you note for a previous meeting discussing the potential for collaboration. There is no mention of any time-sensitive matters or urgent action needed. The tone is appreciative and positive, but not urgent in nature."
+118,curriculum/synthetic_34.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is a polite inquiry seeking clarification on the scope of the market analysis section of an upcoming group project. There is no indication of urgency or time-sensitive requests in the email. Therefore, it does not require immediate attention or a reply by the end of the next day."
+119,curriculum/synthetic_18.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a polite and respectful suggestion from a student regarding the handling of lab equipment, without any urgent time-sensitive requests or indications. The tone of the email is thoughtful and considerate, lacking any urgent or time-sensitive language. Therefore, it can be labeled as a non-urgent email."
+120,curriculum/synthetic_16.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a polite request for clarification regarding the peer evaluation process for an upcoming group project. It does not contain time-sensitive information or urgent requests. The tone is respectful and there is no indication of an imminent deadline or urgent need for a response. Therefore, this email does not qualify as urgent."
+121,recommendation/3.txt,no,,RECOM,NO,NO,,1,"
+
+The email is a polite request for an academic reference letter for a scholarship application. The tone is respectful and grateful, but there is no indication of urgency or time-sensitivity in the email. The content is appreciative and focused on expressing gratitude and requesting assistance without any specific time constraints. Therefore, there are no time-sensitive elements in the email that would classify it as urgent."
+122,recommendation/synthetic_14.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a polite and respectful inquiry for a reference letter for a Master's program in Data Science at Stanford University. There is no indication of urgency in the email, and the student has mentioned the application deadline, which is in the future. Therefore, there is no immediate need for the recipient's attention, making this email non-urgent."
+123,collaboration/9.txt,no,,COLLAB,NO,NO,,1,"
+
+The email is non-urgent as it does not contain any time-sensitive requests or deadlines. The tone of the email is formal and enthusiastic, however, there are no indications of urgency or time constraints requiring immediate attention."
+124,curriculum/synthetic_46.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a polite request for assistance with accessing lecture slides. Although it requires the professor's attention, there is no indication of urgency or time-sensitivity. The tone of the email is respectful and does not express any immediate need for a reply. Therefore, it can be categorized as a non-urgent email."
+125,curriculum/synthetic_13.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is not urgent. It is a polite inquiry from a student about the protocol for making up missed work and notes due to an unexpected family emergency. The tone of the email is respectful and does not express any urgency or time-sensitive need for a response."
+126,administrative/synthetic_29.txt,yes,,ADMIN,NO,NO,,1,"
+
+There is no sense of urgency in the email. It is simply providing information about a new policy regarding faculty research grant applications. The tone is neutral, and there is no indication that a response or action is needed urgently. Therefore, it can be categorized as a non-urgent email."
+127,recommendation/synthetic_36.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a polite inquiry from a student seeking a letter of recommendation for a PhD program at Stanford. Although the student expresses gratitude and politeness, there is no indication of urgency or time constraints. The tone of the email is respectful and courteous, and the student is simply inquiring about the possibility of obtaining a letter of recommendation. Therefore, it does not require immediate attention or a reply by the end of the next day."
+128,administrative/synthetic_23.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a general announcement about the upcoming Science and Technology Expo event and a call for faculty volunteers to participate. There is no indication of urgency or a specific time-sensitive request. The tone of the email is polite and inviting, simply providing information and extending an invitation. As a result, this email does not require an urgent response."
+129,collaboration/synthetic_45.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a polite and professional inquiry from Luisa Ramirez, seeking the expertise of Professor Daniels for a potential consultancy role in a project related to environmental impact. There is no indication of urgency or a time-sensitive nature in the email. The tone is respectful and cordial, and the email does not require immediate attention or a reply by the end of the next day. Therefore, it is a non-urgent email."
+130,other/synthetic_49.txt,yes,,OTHER,NO,NO,,1,"
+
+There is no urgent request or time-sensitive information in the email. The tone is polite and the email is a simple invitation to participate in a survey. Therefore, this is a non-urgent email.
+
+The email is a polite invitation to participate in a survey regarding the impact of online teaching on academic workload. There are no time constraints mentioned, and the tone of the email is respectful and non-urgent. Hence, the email does not require immediate attention or a reply by the end of the next day."
+131,recommendation/synthetic_21.txt,yes,,RECOM,YES,YES,"Urgent Request for Grad School Recommendation: Jordan Lee seeks a letter of recommendation for the Masters in Mechanical Engineering at MIT, needing it by a week before the application deadline.",1,"
+The email contains a request for action, which is time-sensitive and requires the recipient's attention by the end of the next day. The tone of the email conveys a sense of urgency, as the sender acknowledges the short notice and explicitly requests a positive response by the next day. Therefore, the email is urgent, demanding a prompt reply and action."
+132,other/synthetic_25.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a simple reminder and invitation to participate in a charity marathon, with no indication of urgency or time sensitivity. The tone is casual and there is no explicit request for immediate attention. Hence, this is a non-urgent email."
+133,administrative/4.txt,no,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent. 
+
+The email is a polite request from a student expressing interest in discussing undergraduate research opportunities. The tone of the email is polite and respectful, but there is no specific urgency mentioned or implied. The sender provides options for scheduling a meeting, leaving the timing at the recipient's convenience, which suggests no immediate action is required. Therefore, the email does not require urgent attention."
+134,other/synthetic_38.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a polite and respectful request for assistance with accessing the online library portal. While the student may be facing some difficulties, there is no indication of urgency or time-sensitivity in the email. Therefore, this qualifies as a non-urgent email."
+135,other/synthetic_19.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a friendly check-in from a former student expressing nostalgia and a desire to catch up. It does not contain any time-sensitive requests or urgent matters that require immediate attention or a response by the end of the next day."
+136,collaboration/synthetic_32.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is non-urgent because it is a cordial inquiry about joint research grant opportunities. The message does not convey a sense of time-sensitivity or urgency. The tone of the email is polite and professional, indicating a willingness to collaborate without imposing any immediate time constraints."
+137,collaboration/synthetic_42.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a polite invitation to participate in a workshop on the application of computational biology in drug discovery, scheduled for July 15th, 2023. The tone is cordial and respectful, without any urgency or time-sensitive requests present in the email. As a result, it does not require immediate attention or a reply."
+138,other/4.txt,no,,OTHER,NO,NO,,1,"
+The email is an announcement about a national test of the Alert Ready system on November 15 at 12:55pm in Ontario. It is simply an informational FYI message and does not require any immediate action or reply. Therefore, it is a non-urgent email."
+139,other/synthetic_15.txt,yes,,OTHER,NO,NO,,1,"
+
+The purpose of the email is to inform the recipient about an upcoming academic book sale with a special discount. The tone of the email is friendly and informal, and there are no indicators of urgency or time-sensitive requests.
+
+The email does not require immediate attention or a reply by the end of the next day as it is a promotional announcement about an event starting the following Monday. Therefore, it can be categorized as a non-urgent email."
+140,other/synthetic_40.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a non-urgent invitation to a charity gala for student scholarships. This invitation does not require immediate attention, nor does it express any urgency for a response."
+141,collaboration/6.txt,no,,COLLAB,NO,NO,,1,"
+
+The email is a formal letter expressing interest in collaborating on research and offering support for the proposed project. There is no sense of urgency conveyed in the email, and it does not require immediate attention or a reply by the end of the next day. Therefore, it is a non-urgent email."
+142,curriculum/3.txt,no,,CURRICULUM,NO,NO,,1,"
+
+This email is not urgent. It is a polite inquiry about setting up an appointment to discuss a grade, and there are no time-sensitive requests or urgent language used in the email. The tone is polite and does not express any urgency or immediate attention needed."
+143,administrative/synthetic_45.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email provides information about the schedule and agenda for the upcoming faculty meeting. There is no sense of urgency or any time-sensitive request in the email.
+
+The email is informational and does not contain any urgent requests or time-sensitive matters. The tone is professional and directive but does not convey any immediate action needed, thereby categorizing the email as non-urgent."
+144,curriculum/synthetic_20.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is non-urgent. 
+The email does not contain any time-sensitive requests or expressions of urgency. It is a polite request for the missing lecture slides, but there is no indication that a response is needed urgently."
+145,administrative/8.txt,no,,ADMIN,NO,NO,,1,"
+
+The email is a polite inquiry from a student seeking volunteer or unpaid internship research opportunities at the professor's lab over the summer. The tone is polite, and there is no indication of any urgency or time-sensitive request. Therefore, it does not require immediate attention or a reply by the end of the next day."
+146,administrative/synthetic_47.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a professional inquiry for scheduling a meeting to discuss proposed revisions to the undergraduate business program curriculum. There is no sense of urgency expressed, and the tone of the email is polite and formal. It does not contain time-sensitive information or an immediate requirement for a response by the end of the next day. Therefore, it is a non-urgent email."
+147,collaboration/synthetic_21.txt,yes,,COLLAB,YES,NO,,0,"
+
+The email is not urgent as there is no explicit indication of time sensitivity or urgency in the content. Additionally, the tone of the email is polite and professional, but it does not convey any sense of urgency. The request for a meeting confirmation by the end of the business day or first thing tomorrow morning is courteous but does not indicate a deadline that is time-sensitive or requires immediate attention. Therefore, this email does not require urgent action."
+148,administrative/synthetic_38.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a general announcement calling for faculty nominations for the Faculty Senate. There is no indication of urgency or time-sensitive action required in the email content. It is a standard notification regarding the opening of nominations, and there is no immediate deadline or time-sensitive request mentioned.
+
+The email does not exhibit urgency in its tone or language; it is a formal and informative message encouraging faculty participation without any urgent time constraints. Therefore, this email is non-urgent."
+149,administrative/synthetic_36.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a routine notification about an upcoming faculty meeting, discussing the agenda, and sharing relevant documents for the professor's review. It does not express any urgency or time-sensitive requests.
+
+The email is a regular notification about the faculty meeting and does not contain any elements of urgency, such as time-sensitive requests or a tone of pressing concern. Therefore, it is categorized as a non-urgent email."
+150,collaboration/synthetic_46.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a polite and formal inquiry from John Carter, the Head of Research and Development at Acme Robotics, expressing interest in potential collaboration with the recipient regarding the integration of advanced AI algorithms into their industrial robotic systems. The tone is respectful and does not convey any sense of urgency or time sensitivity. Therefore, it does not require immediate attention or a reply by the end of the next day."
+151,other/synthetic_18.txt,yes,,OTHER,NO,NO,,1,"
+
+This email does not appear to be urgent. The tone of the email is polite and seeks advice without any mention of time-sensitive matters. The sender is requesting a meeting for advice, but there is no indication of urgency or a specific deadline. Hence, the email is non-urgent."
+152,recommendation/7.txt,no,,RECOM,NO,NO,,1,"
+
+The email is a polite reminder from Isabella Hao requesting the submission of a letter of recommendation for her Master’s degree applications at UBC and McMaster University. The tone is cordial and there is no indication of urgency or a specific time constraint, so it does not require immediate attention."
+153,recommendation/synthetic_38.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a non-urgent one as it is a message expressing gratitude and does not contain any time-sensitive requests or urgent actions. The tone of the email is appreciative and lacks any indicators of urgency. Therefore, it does not require immediate attention or a reply by the end of the next day."
+154,curriculum/synthetic_36.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is not urgent because it is a simple request for clarification on an assignment guideline. The tone of the email is polite and doesn't express any urgency. It doesn't contain any time-sensitive information and does not require a response by the end of the next day. Therefore, it can be categorized as a non-urgent email."
+155,collaboration/synthetic_47.txt,yes,,COLLAB,YES,NO,,0,"
+
+The email is not urgent. While it mentions the need for a prompt response, it does not require attention or a reply by the end of the next day. The tone of the email is polite and cordial, and there is no urgent or time-sensitive request for action."
+156,recommendation/synthetic_35.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is not urgent. Even though it involves a request for a letter of recommendation, there is no indication of an urgent deadline or time-sensitive requirement. The tone of the email is polite and standard, and there are no specific references to an imminent deadline or urgency in the content. Therefore, this email does not require immediate attention or a reply by the end of the next day."
+157,other/synthetic_28.txt,yes,,OTHER,YES,YES,Urgent RSVP Needed for Alumni Networking Event: Catherine White requests a prompt response to confirm attendance for the upcoming Thursday evening event.,1,"
+First, the email contains a request for confirmation of attendance by the next day, indicating it as time-sensitive. Second, the tone of the email conveys a sense of urgency, emphasizing the need for a prompt response to ensure an accurate count for the event. Therefore, the email requires immediate attention, suggesting that it is urgent."
+158,administrative/synthetic_17.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is a non-urgent inquiry regarding the student advisor position and does not contain any time-sensitive requests or urgent language. It is a polite expression of interest in the role with a request to discuss the opportunity further."
+159,other/1.txt,no,,OTHER,NO,NO,,1,"
+
+The email is informational and does not contain any time-sensitive requests or deadlines. There is no urgent tone or explicit mention of a need for immediate attention. Therefore, this email is non-urgent."
+160,recommendation/10.txt,no,,RECOM,NO,NO,,1,"
+
+The email does not express any urgency or time-sensitivity. It is a polite inquiry about pursuing graduate studies under the recipient's supervision and for a recommendation letter for grad school applications. The tone is friendly and cordial, but it does not indicate any immediate action or time constraints. Therefore, this is a non-urgent email."
+161,curriculum/synthetic_21.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a routine inquiry about the group project submission process and guidelines. It does not indicate any urgency or time-sensitive requests."
+162,administrative/3.txt,no,,ADMIN,NO,NO,,1,"
+
+The email is not urgent as it does not contain any time-sensitive requests or a deadline. The tone of the email is polite and formal, and the sender is expressing interest in joining the recipient's research group. There are no indications of urgency or time constraints, so it can be considered a non-urgent email."
+163,other/synthetic_24.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is not urgent. It is a friendly and informal request for the recipient's expert opinion on an article about Quantum Computing. The sender suggests a casual meeting over coffee, implying the request does not require immediate attention."
+164,collaboration/synthetic_50.txt,yes,,COLLAB,NO,NO,,1,"
+
+Reasons for Non-urgent Classification:
+This email is a standard invitation to collaborate on a research initiative, and it does not contain any time-sensitive requests or deadlines. The tone is professional and lacks any urgent or time-sensitive language. Therefore, it does not require immediate attention or a reply by the end of the next day."
+165,recommendation/synthetic_43.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is not urgent as there is no express urgency or time-sensitive request indicated. The tone of the email is polite and understanding, indicating that the recipient may reply when convenient."
+166,curriculum/synthetic_26.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is not urgent as it is a polite notification regarding a future absence and a request for missed class materials. The tone of the email is polite and informative, without any urgent requests or time-sensitive information. Therefore, it does not require immediate attention or a reply by the end of the next day."
+167,curriculum/synthetic_12.txt,yes,,CURRICULUM,YES,YES,Urgent email: Samuel Kim requests approval for his midterm project idea on analyzing the economic impact of recent policy changes in the gig economy by the end of today due to the upcoming proposal deadline.,1,"
+The email entails a request for feedback and approval for a course-related project before the deadline, indicating time-sensitivity. The tone of the email is polite and respectful but expresses a sense of urgency by requesting a prompt response. Therefore, the email is urgent and requires immediate attention."
+168,administrative/synthetic_16.txt,yes,,ADMIN,YES,NO,,0,"
+
+The email is not urgent because although it mentions the need for a rescheduling of the budget review meeting and emphasizes its importance, it does not express a specific time constraint or requirement for a response by the end of the next day. The tone of the email remains polite and does not indicate any sense of urgency."
+169,other/synthetic_36.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a friendly and casual message from Anna Lee, sharing photos from a reunion party. It does not require any immediate action or response, and there is no time-sensitive information or urgent request included in the email. Therefore, it can be categorized as a non-urgent email."
+170,curriculum/8.txt,no,,CURRICULUM,NO,NO,,1,"
+
+Reasons for judging the email as non-urgent:
+The email is a request for textbook information and accessibility accommodations for the upcoming semester. Although the request is important, it does not express any urgency or time-sensitive elements. The tone of the email is polite and straightforward, without any indications of immediate action or deadlines. Therefore, this email is non-urgent."
+171,curriculum/synthetic_27.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This is a non-urgent email as it is a polite inquiry about research paper topics that does not impose a time constraint or indicate an urgent need for a prompt response. The tone of the email is respectful and shows no signs of urgency. Therefore, it does not require immediate attention or a reply by the end of the next day."
+172,other/8.txt,no,,OTHER,NO,NO,,1,"
+
+Statement of Reasons: 
+The email is an announcement of an award opportunity with a deadline of December 1, 2023, and it advises students to reach out to the SGS Graduate Awards Officer for questions. The email does not convey any urgency or immediate action required. Hence, it is a non-urgent email."
+173,collaboration/synthetic_24.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is not urgent. It is a polite invitation for collaboration and does not contain any time-sensitive requests or urgent tone. The sender is simply reaching out to the professor with an opportunity for collaboration, and the email does not require any immediate action or reply."
+174,collaboration/synthetic_15.txt,yes,,COLLAB,NO,NO,,1,"
+
+The email is a polite and professional request for a meeting to discuss a potential collaboration. There is no specific time-sensitive information or urgent request for action that requires immediate attention. Therefore, it can be categorized as a non-urgent email."
+175,curriculum/synthetic_22.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a polite request for guidance on topic selection for a course project. The tone is respectful and the student asks to schedule a meeting to discuss ideas, indicating a willingness to wait for the professor's availability. There is no urgency expressed in the email, and the deadline mentioned is a future date, so it does not require immediate attention."
+176,recommendation/synthetic_12.txt,yes,,RECOM,NO,YES,Urgent Follow-Up on Graduate School Recommendation: Mark S. seeks a prompt response for his Oxford University application letter of recommendation.,0,"
+The email expresses growing anxiety as the deadline for the submission approaches and politely urges for a response, indicating urgency. The applicant's concern about the looming deadline and mild anxiety suggests the need for immediate attention and a timely response. Therefore, it demands a prompt action and is deemed as an urgent email."
+177,curriculum/synthetic_39.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is a routine group project update and request for feedback. It does not contain time-sensitive information or urgent requests. The tone is polite and formal, without any urgency expressed. Therefore, it can be categorized as a non-urgent email."
+178,curriculum/6.txt,no,,CURRICULUM,NO,NO,,1,"
+
+There is no urgent request or time-sensitive information in this email. The tone of the email is apologetic, and the sender simply apologizes for missing class and requests to be informed of any material that needs to be caught up on. There is no indication of an urgent need for a quick response or action, so this email is non-urgent."
+179,recommendation/synthetic_29.txt,yes,,RECOM,NO,NO,,1,"
+
+Statement:
+The email expresses gratitude for a recommendation letter and provides an update on the outcome. It does not contain any urgent requests or time-sensitive information that would require immediate attention. Therefore, it can be classified as a non-urgent email."
+180,curriculum/synthetic_32.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+This email is non-urgent. Naomi Klein is politely requesting a potential accommodation for an upcoming religious holiday that coincides with a class exam. The tone of the email is respectful, and there is no urgent or time-sensitive request for action."
+181,administrative/synthetic_41.txt,yes,,ADMIN,YES,NO,,0,"
+
+The email does not express any urgency and does not require immediate attention or a reply by the end of the next day. The tone of the email is polite, and although there is a change in the seminar location due to a maintenance issue, it does not indicate a time-sensitive matter. Therefore, it can be categorized as a non-urgent email."
+182,administrative/synthetic_18.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a courteous invitation to a welcome reception for new faculty members. It does not contain any time-sensitive requests or urgent action items. The tone of the email is warm and welcoming, conveying a sense of enthusiasm about the upcoming event. As a result, the email does not indicate any urgency or time-sensitive information, and it does not require immediate attention or a reply by the next day."
+183,curriculum/synthetic_43.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is not urgent. It simply informs the professor about the student's absence and requests notes or supplementary materials for the missed lectures due to a family emergency. The tone of the email is polite and the absence is not time-sensitive, so it does not require immediate attention."
+184,administrative/synthetic_49.txt,yes,,ADMIN,NO,NO,,1,"
+
+This email is non-urgent. It is a polite follow-up regarding a research grant application, with the sender offering assistance for the paperwork process. The tone of the email is polite and respectful, with no expressions of urgency or immediate action required. Therefore, this email does not require immediate attention."
+185,administrative/synthetic_28.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a polite request for the professor's assistance in coordinating the Commencement Ceremony. It does not contain any urgent language or time-sensitive information that requires immediate attention or response. Therefore, it can be categorized as a non-urgent email.
+
+The email expresses a request for the professor's participation in the Commencement Ceremony organization, but it does not indicate any time constraints or urgency. The tone of the email is cordial and does not convey any sense of urgency. Therefore, the email does not require immediate attention."
+186,curriculum/synthetic_24.txt,yes,,CURRICULUM,NO,NO,,1,"
+
+The email is non-urgent as it is a polite inquiry from a student seeking assistance with accessing the online homework platform. The tone is respectful, and there is no indication of any immediate deadline or time-sensitive matter. Therefore, it does not require urgent attention."
+187,collaboration/2.txt,no,,COLLAB,NO,NO,,1,"
+
+This email does not express any urgency or time-sensitive requests. The sender is expressing gratitude and appreciation for the recipient's help in developing a research project. The tone of the email is formal and thankful, but it does not contain any elements that would indicate an urgent need for attention. Therefore, it can be classified as a non-urgent email."
+188,curriculum/synthetic_38.txt,yes,,CURRICULUM,YES,YES,"Urgent Clarification Needed on Project Deadline: Alex Johnson urgently seeks clarification on the final project deadline, as there is a discrepancy between the syllabus and the information mentioned in the last class.",1,"
+The urgency is determined by the student's use of the word ""urgently"" and ""critical"" to seek swift attention to the matter. Additionally, the student explains the complexity of the project and the need for coordination with group members, emphasizing the importance of having a clear and definitive deadline as soon as possible, indicating the need for immediate attention. Therefore, the email requires a prompt response and is classified as urgent."
+189,other/synthetic_16.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is not urgent as it is a casual message from a former student expressing gratitude and sharing a personal anecdote. There is no request for immediate action or time-sensitive information that necessitates an urgent response."
+190,administrative/synthetic_39.txt,yes,,ADMIN,NO,NO,,1,"
+
+The email is a routine request for updating contact information and does not impose any time-sensitive or urgent action. The tone of the email is polite and does not display any urgency or pressure for a quick response. Therefore, it is a non-urgent email."
+191,recommendation/synthetic_22.txt,yes,,RECOM,NO,NO,,1,"
+
+The email is a polite request for a letter of recommendation for law school applications. It does not contain any time-sensitive information or urgent requests. The tone of the email is polite and appreciative, without any urgency or tight deadlines mentioned. Therefore, this email can be categorized as non-urgent.
+
+The email does not request any immediate action and does not express a sense of urgency. It is a straightforward request for a letter of recommendation, so it does not require an urgent response."
+192,administrative/synthetic_26.txt,yes,,ADMIN,YES,YES,"Urgent Room Change for Tomorrow's Lecture: The email notifies you of an urgent room change for tomorrow's lecture due to HVAC issues, requiring prompt communication to inform the students about the relocation.",1,"
+The email contains time-sensitive information that directly impacts your lecture scheduled for tomorrow. Additionally, the sender expresses apologies for the short notice and emphasizes the need to inform the students about the change as soon as possible, indicating the urgency of the matter. Therefore, this email requires immediate attention and action for timely communication to the students."
+193,other/synthetic_47.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a friendly inquiry seeking gardening advice and does not include any time-sensitive requests or urgent matters. The tone of the email is casual and does not express any urgency. Therefore, it does not require immediate attention or a reply by the end of the next day."
+194,other/6.txt,no,,OTHER,NO,NO,,1,"
+
+The email is informational and does not express any urgent need for immediate attention or action.
+
+The email provides an update on the door access system issues in Bahen, informing the recipients about the current status and temporary solution put in place. The tone of the email is neutral, and there is no indication of a time-sensitive request or urgent action required. Therefore, this email is non-urgent."
+195,administrative/synthetic_43.txt,yes,,ADMIN,NO,NO,,1,"
+
+Statement of reasons:
+The email is an invitation to a budget review meeting for faculty research funds scheduled for April 12th. The tone of the email is polite and informational, without any urgency expressed. Additionally, there is no specific request for immediate action or a response by the end of the next day. Therefore, this email does not require urgent attention."
+196,collaboration/synthetic_34.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is not urgent. It is a formal and polite inquiry about a potential partnership between the sender's company and the recipient's robotics lab. The tone is professional and does not express any time-sensitivity or urgency. Therefore, it does not require immediate attention or a reply by the end of the next day."
+197,other/synthetic_50.txt,yes,,OTHER,NO,NO,,1,"
+
+The email is a non-urgent invitation to join a book club within the faculty. There is no indication of time-sensitivity or urgency in the content of the email."
+198,collaboration/synthetic_30.txt,yes,,COLLAB,NO,NO,,1,"
+
+This email is non-urgent. 
+
+The email is a cordial invitation for potential collaboration on an educational tech initiative, seeking the recipient's expertise and willingness to discuss further. The tone of the email is polite and professional, without any indication of urgency or time-sensitive matters. Therefore, it does not require immediate attention or a reply by the end of the next day."
+199,recommendation/synthetic_45.txt,yes,,RECOM,NO,NO,,1,"
+
+Judging by the tone and content, the email is friendly and informal. Although the email is a request for a recommendation, there is no explicit urgency or time sensitivity mentioned. Therefore, this email does not appear to be urgent."
