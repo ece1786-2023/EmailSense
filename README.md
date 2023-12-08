@@ -42,4 +42,10 @@ options:
    <img src="https://github.com/ece1786-2023/EmailSense/assets/59983226/567a3de4-31b6-43d6-be73-82b031de17ea" width="300" height="350">
    <img src="https://github.com/ece1786-2023/EmailSense/assets/59983226/bdc4bc9e-fa6e-4163-bb3a-4c041830f89b" width="300" height="350"> <br/>
 4. If everything goes well, then the EmailSense should automatically start when you turn on the focus mode
-   
+
+## Demo
+### EmailSense Activation
+![RPReplay_Final1701645717 3](https://github.com/ece1786-2023/EmailSense/assets/59983226/64f1cb74-b029-44ea-9d76-7ae23a80526f)
+### Generate Report after EmailSense Deactivated
+![copy_1221E3C2-286E-4F7F-B93C-95D450BE059B](https://github.com/ece1786-2023/EmailSense/assets/59983226/6f836c9f-5aa4-451d-97e9-cef6581317d8)
+
